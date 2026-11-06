@@ -1,0 +1,1461 @@
+record_id,gene,pmid_raw,doi,pmid_from_doi,overlap_any,overlap_via,matched_lm_ids
+human_longevity_associations.csv::1,INSR,,10.1016/j.exger.2004.05.007,15582274,TRUE,DOI mapped to PMID,168
+human_longevity_associations.csv::10,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::100,LPA,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1000,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::1001,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::1002,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::1003,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::1004,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::1005,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::1006,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::1007,CDKN2B,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::1008,CDKN2B,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::1009,CDKN2B-AS1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::101,LPA,,10.18632/aging.101334,29227965,FALSE,none,
+human_longevity_associations.csv::1010,CDKN2B-AS1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1011,CDKN2B-AS1,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::1012,CDKN2B-AS1,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::1013,CDKN2B-AS1,,10.18632/aging.101334,29227965,FALSE,none,
+human_longevity_associations.csv::1014,CDKN2B-AS1,,10.7554/elife.39856.001,NA,FALSE,none,
+human_longevity_associations.csv::1015,CDKN2B-AS1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1016,CDKN2B-AS1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1017,CDKN2B-AS1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1018,CDKN2B-AS1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1019,CDKN2B-AS1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::102,LPA,,10.7554/elife.39856.001,NA,FALSE,none,
+human_longevity_associations.csv::1020,CDKN2B-AS1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1021,CDKN2B-AS1,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::1022,CDKN2B-AS1,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::1023,CDKN2B-AS1,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::1024,CDKN2B-AS1,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::1025,CDKN2B-AS1,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::1026,CDKN2B-AS1,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::1027,CDKN2B-AS1,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::1028,CDKN2B-AS1,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::1029,CDKN2B-AS1,,10.1038/ncomms15842,28748955,FALSE,none,
+human_longevity_associations.csv::103,LPA,,10.1038/ncomms15842,28748955,FALSE,none,
+human_longevity_associations.csv::1030,CELSR2,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1031,CELSR2,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1032,CELSR2,,10.1038/ncomms15842,28748955,FALSE,none,
+human_longevity_associations.csv::1033,CETP,,10.1007/s11357-011-9373-7,22234866,TRUE,DOI mapped to PMID,G477
+human_longevity_associations.csv::1034,CETP,,10.1001/jama.290.15.2030,14559957,TRUE,DOI mapped to PMID,130
+human_longevity_associations.csv::1035,CETP,,10.1007/s11357-011-9373-7,22234866,TRUE,DOI mapped to PMID,G477
+human_longevity_associations.csv::1036,CETP,,10.1007/s11357-011-9373-7,22234866,TRUE,DOI mapped to PMID,G477
+human_longevity_associations.csv::1037,CETP,,10.1007/s11357-011-9373-7,22234866,TRUE,DOI mapped to PMID,G477
+human_longevity_associations.csv::1038,CETP,,10.1007/s11357-011-9373-7,22234866,TRUE,DOI mapped to PMID,G477
+human_longevity_associations.csv::1039,CETP,,10.1007/s11357-011-9373-7,22234866,TRUE,DOI mapped to PMID,G477
+human_longevity_associations.csv::104,LPA,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::1040,CETP,,10.1007/s11357-011-9373-7,22234866,TRUE,DOI mapped to PMID,G477
+human_longevity_associations.csv::1041,CETP,,10.1007/s11357-011-9373-7,22234866,TRUE,DOI mapped to PMID,G477
+human_longevity_associations.csv::1042,CETP,,10.1007/s11357-011-9373-7,22234866,TRUE,DOI mapped to PMID,G477
+human_longevity_associations.csv::1043,CETP,,10.1371/journal.pone.0072537,23977315,FALSE,none,
+human_longevity_associations.csv::1044,CETP,,10.1371/journal.pone.0072537,23977315,FALSE,none,
+human_longevity_associations.csv::1045,CETP,,10.2174/1874192401004010014,20200605,FALSE,none,
+human_longevity_associations.csv::1046,CFB,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::1047,CHRNA3,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1048,CHRNA3,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1049,CHRNA3,,10.18632/aging.101334,29227965,FALSE,none,
+human_longevity_associations.csv::105,LRRFIP1,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::1050,CHRNA4,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1051,CHRNA4,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1052,CHRNA4,,10.18632/aging.101334,29227965,FALSE,none,
+human_longevity_associations.csv::1053,CHRNA5,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1054,CHRNA5,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1055,CHRNA5,,10.1038/ncomms15842,28748955,FALSE,none,
+human_longevity_associations.csv::1056,CLSTN2,,10.1089/rej.2011.1257,22533364,TRUE,DOI mapped to PMID,321
+human_longevity_associations.csv::1057,CLU,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::1058,CLU,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::1059,COQ7,,10.1073/pnas.0801030105,18765803,TRUE,DOI mapped to PMID,G443
+human_longevity_associations.csv::106,LRRFIP1,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::1060,COQ7,,10.1073/pnas.0801030105,18765803,TRUE,DOI mapped to PMID,G443
+human_longevity_associations.csv::1061,COQ7,,10.1073/pnas.0801030105,18765803,TRUE,DOI mapped to PMID,G443
+human_longevity_associations.csv::1062,CREB1,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::1063,CSMD1,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::1064,CSMD1,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::1065,CTGF,,10.1093/gerona/glw116,27365368,FALSE,none,
+human_longevity_associations.csv::1066,CTGF,,10.1093/gerona/glw116,27365368,FALSE,none,
+human_longevity_associations.csv::1067,CTGF,,10.1093/gerona/glw116,27365368,FALSE,none,
+human_longevity_associations.csv::1068,CTGF,,10.1093/gerona/glw116,27365368,FALSE,none,
+human_longevity_associations.csv::1069,CTGF,,10.1093/gerona/glw116,27365368,FALSE,none,
+human_longevity_associations.csv::107,LY6G5C,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::1070,CTGF,,10.1093/gerona/glw116,27365368,FALSE,none,
+human_longevity_associations.csv::1071,CTGF,,10.1093/gerona/glw116,27365368,FALSE,none,
+human_longevity_associations.csv::1072,CTGF,,10.1093/gerona/glw116,27365368,FALSE,none,
+human_longevity_associations.csv::1073,CYP19A1,,10.1093/gerona/glq160,20819792,TRUE,DOI mapped to PMID,251
+human_longevity_associations.csv::1074,CYP1B1,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1075,CYP1B1-AS1,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::1076,CYP1B1-AS1,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::1077,DRD2,,10.1093/gerona/glv058,25934993,FALSE,none,
+human_longevity_associations.csv::1078,DRD2,,10.1093/gerona/glv058,25934993,FALSE,none,
+human_longevity_associations.csv::1079,DRD4,,10.1523/jneurosci.3515-12.2013,23283341,TRUE,DOI mapped to PMID,297
+human_longevity_associations.csv::108,MAGI3,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1080,DRD4,,10.1523/jneurosci.3515-12.2013,23283341,TRUE,DOI mapped to PMID,297
+human_longevity_associations.csv::1081,DRD4,,10.1523/jneurosci.3515-12.2013,23283341,TRUE,DOI mapped to PMID,297
+human_longevity_associations.csv::1082,DSC2,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::1083,EBF1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1084,EBF1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1085,EBF1,,10.1093/hmg/ddu139,24688116,FALSE,none,
+human_longevity_associations.csv::1086,EBF1,,10.1093/hmg/ddu139,24688116,FALSE,none,
+human_longevity_associations.csv::1087,EBF1,,10.1093/hmg/ddu139,24688116,FALSE,none,
+human_longevity_associations.csv::1088,ECE1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1089,EGFR,,10.1093/gerona/glw116,27365368,FALSE,none,
+human_longevity_associations.csv::109,MAGI3,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1090,EGFR,,10.1093/gerona/glw116,27365368,FALSE,none,
+human_longevity_associations.csv::1091,EGFR,,10.1093/gerona/glw116,27365368,FALSE,none,
+human_longevity_associations.csv::1092,EGFR,,10.1093/gerona/glw116,27365368,FALSE,none,
+human_longevity_associations.csv::1093,EGFR,27365368.0,10.1093/gerona/glw116,27365368,FALSE,none,
+human_longevity_associations.csv::1094,EGFR,27365368.0,10.1093/gerona/glw116,27365368,FALSE,none,
+human_longevity_associations.csv::1095,EGFR,,10.1093/gerona/glw116,27365368,FALSE,none,
+human_longevity_associations.csv::1096,EGFR,,10.1093/gerona/glw116,27365368,FALSE,none,
+human_longevity_associations.csv::1097,EGFR,,10.1093/gerona/glw116,27365368,FALSE,none,
+human_longevity_associations.csv::1098,EGFR,,10.1093/gerona/glw116,27365368,FALSE,none,
+human_longevity_associations.csv::1099,EGFR,,10.1093/gerona/glw116,27365368,FALSE,none,
+human_longevity_associations.csv::11,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::110,MAGI3,,10.7554/elife.39856.001,NA,FALSE,none,
+human_longevity_associations.csv::1100,EGFR,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::1101,EGFR,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::1102,EGFR,19641380.0,10.3858/emm.2009.41.11.083,19641380,TRUE,PMID field,G494
+human_longevity_associations.csv::1103,EGFR,19641380.0,10.3858/emm.2009.41.11.083,19641380,TRUE,PMID field,G494
+human_longevity_associations.csv::1104,EPHA6,,10.1038/srep21243,26912274,FALSE,none,
+human_longevity_associations.csv::1105,EPHX2,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1106,EPHX2,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1107,EPHX2,,10.18632/aging.101334,29227965,FALSE,none,
+human_longevity_associations.csv::1108,ERCC1,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1109,ERCC1,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::111,MAP3K5,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::1110,ERCC1,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1111,ERCC2,,10.1007/s10522-009-9246-y,19707883,TRUE,DOI mapped to PMID,236
+human_longevity_associations.csv::1112,ERCC2,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1113,ERCC2,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1114,ERCC2,,10.2174/1874609810666170707101548,28707579,FALSE,none,
+human_longevity_associations.csv::1115,ERCC2,,10.2174/1874609810666170707101548,28707579,FALSE,none,
+human_longevity_associations.csv::1116,ESR1,20819792.0,10.1093/gerona/glq160,20819792,TRUE,PMID field,252
+human_longevity_associations.csv::1117,EXO1,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1118,EXOC3L2,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1119,EXOC3L2,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::112,MAP3K5,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::1120,EXOC3L2,,10.18632/aging.101334,29227965,FALSE,none,
+human_longevity_associations.csv::1121,FADS1,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::1122,FADS1,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::1123,FADS1,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::1124,FADS1,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::1125,FADS1,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::1126,FAM13A,,10.1038/srep21243,26912274,FALSE,none,
+human_longevity_associations.csv::1127,TAFA5,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::1128,TAFA5,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::1129,FEN1,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::113,MAP3K5,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::1130,FOXO1,,10.1016/j.exger.2004.05.007,15582274,TRUE,DOI mapped to PMID,167
+human_longevity_associations.csv::1131,FOXO1,,10.1016/j.exger.2004.05.007,15582274,TRUE,DOI mapped to PMID,167
+human_longevity_associations.csv::1132,FOXO1,,10.1073/pnas.0801030105,18765803,TRUE,DOI mapped to PMID,G443
+human_longevity_associations.csv::1133,FOXO1,,10.1073/pnas.0801030105,18765803,TRUE,DOI mapped to PMID,G443
+human_longevity_associations.csv::1134,FOXO1,,10.1073/pnas.0801030105,18765803,TRUE,DOI mapped to PMID,G443
+human_longevity_associations.csv::1135,FOXO1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1136,FOXO1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1137,FOXO1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1138,FOXO1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1139,FOXO1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::114,MAP3K7,,10.1007/s11357-012-9416-8,22576335,TRUE,DOI mapped to PMID,362; G508
+human_longevity_associations.csv::1140,FOXO1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1141,FOXO1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1142,FOXO1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1143,FOXO1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1144,FOXO1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1145,FOXO3,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::1146,FOXO3,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::1147,FOXO3,,10.4103/1008-682x.123673,24589462,FALSE,none,
+human_longevity_associations.csv::1148,FOXO3,,10.4103/1008-682x.123673,24589462,FALSE,none,
+human_longevity_associations.csv::1149,FOXO3,,10.4103/1008-682x.123673,24589462,FALSE,none,
+human_longevity_associations.csv::115,MAP3K9,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::1150,FOXO3,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::1151,FOXO3,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1152,FOXO3,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1153,FOXO3,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1154,FOXO3,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1155,FOXO3,,10.1073/pnas.0801030105,18765803,TRUE,DOI mapped to PMID,G442
+human_longevity_associations.csv::1156,FOXO3,,10.1073/pnas.0801030105,18765803,TRUE,DOI mapped to PMID,G442
+human_longevity_associations.csv::1157,FOXO3,,10.1073/pnas.0801030105,18765803,TRUE,DOI mapped to PMID,G442
+human_longevity_associations.csv::1158,FOXO3,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::1159,FOXO3,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::116,MAPK9,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::1160,FOXO3,,10.1093/gerona/glv058,25934993,FALSE,none,
+human_longevity_associations.csv::1161,FOXO3,,10.4103/1008-682x.123673,24589462,FALSE,none,
+human_longevity_associations.csv::1162,FOXO3,,10.4103/1008-682x.123673,24589462,FALSE,none,
+human_longevity_associations.csv::1163,FOXO3,,10.4103/1008-682x.123673,24589462,FALSE,none,
+human_longevity_associations.csv::1164,FOXO3,,10.4103/1008-682x.123673,24589462,FALSE,none,
+human_longevity_associations.csv::1165,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1166,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1167,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1168,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1169,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::117,MAPK9,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::1170,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1171,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1172,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1173,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1174,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1175,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1176,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1177,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1178,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1179,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::118,MAPK9,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::1180,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1181,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1182,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1183,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1184,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1185,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1186,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1187,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1188,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1189,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::119,MBOAT1,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::1190,FOXO3,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1191,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1192,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1193,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1194,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1195,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1196,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1197,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1198,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1199,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::12,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::120,MBOAT1,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::1200,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1201,FOXO3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G448
+human_longevity_associations.csv::1202,FOXO3,,10.18632/aging.100703,25553725,FALSE,none,
+human_longevity_associations.csv::1203,FRK,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::1204,FRK,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::1205,FSTL5,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::1206,FSTL5,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::1207,FURIN,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1208,FURIN,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1209,FURIN,,10.18632/aging.101334,29227965,FALSE,none,
+human_longevity_associations.csv::121,MBOAT1,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::1210,FURIN,,10.7554/elife.39856.001,NA,FALSE,none,
+human_longevity_associations.csv::1211,GH1,,10.1111/j.1474-9728.2005.00148.x,15771611,TRUE,DOI mapped to PMID,180
+human_longevity_associations.csv::1212,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1213,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1214,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1215,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1216,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1217,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1218,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1219,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::122,MBOAT1,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::1220,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1221,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1222,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1223,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1224,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1225,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1226,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1227,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1228,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1229,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::123,MC2R,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1230,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1231,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1232,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1233,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1234,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1235,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1236,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1237,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1238,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1239,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::124,MC2R,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1240,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1241,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1242,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1243,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1244,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1245,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1246,GHR,,10.1126/sciadv.1602025,28630896,FALSE,none,
+human_longevity_associations.csv::1247,GHR,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::1248,GHR,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::1249,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::125,MC2R,,10.18632/aging.101334,29227965,FALSE,none,
+human_longevity_associations.csv::1250,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1251,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1252,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1253,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1254,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1255,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1256,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1257,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1258,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1259,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::126,MIR3156-3,,10.1038/srep21243,26912274,FALSE,none,
+human_longevity_associations.csv::1260,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1261,GHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1262,GHR,,10.1126/sciadv.1602025,28630896,FALSE,none,
+human_longevity_associations.csv::1263,GHR,,10.1126/sciadv.1602025,28630896,FALSE,none,
+human_longevity_associations.csv::1264,GHR,,10.1126/sciadv.1602025,28630896,FALSE,none,
+human_longevity_associations.csv::1265,GHR,,10.1126/sciadv.1602025,28630896,FALSE,none,
+human_longevity_associations.csv::1266,GHRH,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1267,GHRHR,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,264
+human_longevity_associations.csv::1268,GHRHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1269,GHRHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::127,MLH1,,10.1007/s00439-006-0148-7,16474933,TRUE,DOI mapped to PMID,G417
+human_longevity_associations.csv::1270,GHRHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1271,GHRHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1272,GHRHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1273,GHRHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1274,GHRHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1275,GHRHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1276,GHRHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1277,GHRHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1278,GHRHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1279,GHRHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::128,MRE11,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1280,GHRHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1281,GHRHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1282,GHRHR,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,264
+human_longevity_associations.csv::1283,GHRHR,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1284,GHRHR,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1285,GHRL,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::1286,GHSR,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,266
+human_longevity_associations.csv::1287,GHSR,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,266
+human_longevity_associations.csv::1288,GHSR,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1289,GHSR,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::129,MRE11,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1290,GHSR,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1291,GHSR,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1292,GHSR,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1293,GLRX,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1294,GPX1,,10.1016/j.mad.2009.01.005,19428448,TRUE,DOI mapped to PMID,370
+human_longevity_associations.csv::1295,GRIK2,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::1296,GRIK2,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1297,GRIK2,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1298,GRIK2,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::1299,GRIK2,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::13,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::130,MRE11,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1300,GRIK2,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::1301,GRN,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::1302,GRN,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::1303,GSR,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,262
+human_longevity_associations.csv::1304,GSR,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,262
+human_longevity_associations.csv::1305,GSS,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1306,GSTZ1,,10.1007/s11357-012-9416-8,22576335,TRUE,DOI mapped to PMID,363; G508
+human_longevity_associations.csv::1307,HDAC4,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::1308,HLA-DQA1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1309,HLA-DQA1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::131,MRE11,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1310,HLA-DQA1,,10.7554/elife.39856.001,NA,FALSE,none,
+human_longevity_associations.csv::1311,HLA-DRB1,,10.1080/03610730600875791,17364902,FALSE,none,
+human_longevity_associations.csv::1312,HLA-DRB1,,10.1080/03610730600875791,17364902,FALSE,none,
+human_longevity_associations.csv::1313,HLA-DRB1,,10.1093/hmg/7.2.187,9425225,TRUE,DOI mapped to PMID,24
+human_longevity_associations.csv::1314,HLA-DRB1,,10.1093/hmg/7.2.187,9425225,TRUE,DOI mapped to PMID,24
+human_longevity_associations.csv::1315,HLA-DRB1,,10.1111/j.1399-0039.1997.tb02904.x,9389323,TRUE,DOI mapped to PMID,G399
+human_longevity_associations.csv::1316,HLA-DRB1,10432438.0,,NA,FALSE,none,
+human_longevity_associations.csv::1317,ARHGAP45,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::1318,HNF4A,,10.1016/j.exger.2009.02.004,19249341,FALSE,none,
+human_longevity_associations.csv::1319,HNF4A,,10.1016/j.exger.2009.02.004,19249341,FALSE,none,
+human_longevity_associations.csv::132,MSTN,,10.1007/s11357-013-9513-3,23354683,TRUE,DOI mapped to PMID,346
+human_longevity_associations.csv::1320,HNF4A,,10.1016/j.exger.2009.02.004,19249341,FALSE,none,
+human_longevity_associations.csv::1321,HP,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1322,HP,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1323,HP,,10.7554/elife.39856.001,NA,FALSE,none,
+human_longevity_associations.csv::1324,HPCAL1,,10.1089/rej.2011.1257,22533364,TRUE,DOI mapped to PMID,311
+human_longevity_associations.csv::1325,HRAS,,10.1111/j.1474-9726.2010.00600.x,20569235,TRUE,DOI mapped to PMID,G438; G554
+human_longevity_associations.csv::1326,HRAS,,10.1111/j.1474-9726.2010.00600.x,20569235,TRUE,DOI mapped to PMID,G438; G554
+human_longevity_associations.csv::1327,HRAS,,10.1111/j.1474-9726.2010.00600.x,20569235,TRUE,DOI mapped to PMID,G438; G554
+human_longevity_associations.csv::1328,HRAS,,10.1111/j.1474-9726.2010.00600.x,20569235,TRUE,DOI mapped to PMID,G438; G554
+human_longevity_associations.csv::1329,HTT,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::133,MSTN,,10.1007/s11357-013-9513-3,23354683,TRUE,DOI mapped to PMID,346
+human_longevity_associations.csv::1330,HTT,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1331,HTT,,10.7554/elife.39856.001,NA,FALSE,none,
+human_longevity_associations.csv::1332,HYKK,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1333,HYKK,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1334,HYKK,,10.7554/elife.39856.001,NA,FALSE,none,
+human_longevity_associations.csv::1335,ICAM1,,10.1016/j.exger.2009.02.004,19249341,FALSE,none,
+human_longevity_associations.csv::1336,ICAM1,,10.1016/j.exger.2009.02.004,19249341,FALSE,none,
+human_longevity_associations.csv::1337,IDE,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1338,IGF1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1339,IGF1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::134,MTHFD1,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::1340,IGF1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1341,IGF1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1342,IGF1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1343,IGF1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1344,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1345,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1346,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1347,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1348,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1349,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::135,MTHFD1,30294719.0,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::1350,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1351,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1352,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1353,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1354,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1355,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1356,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1357,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1358,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1359,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::136,MTHFR,15621215.0,10.1016/j.mad.2004.08.025,15621215,TRUE,PMID field,176
+human_longevity_associations.csv::1360,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1361,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1362,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1363,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1364,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1365,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1366,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1367,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1368,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1369,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::137,MTHFR,,10.1046/j.1365-2362.1999.00578.x,10583447,TRUE,DOI mapped to PMID,49
+human_longevity_associations.csv::1370,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1371,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1372,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1373,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1374,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1375,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1376,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1377,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1378,IGF1R,,10.1007/s11357-011-9210-z,21340542,TRUE,DOI mapped to PMID,G490
+human_longevity_associations.csv::1379,IGF1R,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::138,MTTP,,10.1093/gerona/gls103,22496539,TRUE,DOI mapped to PMID,G509
+human_longevity_associations.csv::1380,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1381,IGF1R,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1382,IGF1R,,10.1186/1471-2318-9-19,19460140,FALSE,none,
+human_longevity_associations.csv::1383,IGF2,,10.1016/j.mad.2004.08.025,15621215,TRUE,DOI mapped to PMID,175
+human_longevity_associations.csv::1384,IGF2,,10.1016/s0531-5565(01)00146-2,11672987,TRUE,DOI mapped to PMID,77
+human_longevity_associations.csv::1385,IGF2R,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,267
+human_longevity_associations.csv::1386,IGF2R,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1387,IGF2R,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1388,IGF2R,,10.7554/elife.39856.001,NA,FALSE,none,
+human_longevity_associations.csv::1389,IGF2R,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,267
+human_longevity_associations.csv::139,MTTP,,10.1093/gerona/gls103,22496539,TRUE,DOI mapped to PMID,G509
+human_longevity_associations.csv::1390,IGFBP2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1391,IGFBP2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1392,IGFBP2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1393,IGFBP2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1394,IGFBP2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1395,IGFBP2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1396,IGFBP2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1397,IGFBP2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1398,IGFBP3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1399,IGFBP3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::14,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::140,MYOF,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1400,IGFBP3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1401,IGFBP3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1402,IGFBP3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1403,IGFBP3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1404,IGFBP3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1405,IGFBP3,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1406,IGFBP3,,10.18632/aging.100703,25553725,FALSE,none,
+human_longevity_associations.csv::1407,IGFBP4,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1408,IGFBP4,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1409,IGFBP4,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::141,MYOF,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1410,IGFBP4,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1411,IGFBP4,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1412,IGFBP4,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1413,IGFBP4,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1414,IGFBP4,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1415,IGFBP4,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1416,IGFBP4,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1417,IGFBP4,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1418,IGFBP4,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1419,IGFBP4,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::142,NBN,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::1420,IGFBP5,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1421,IGFBP5,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1422,IGFBP5,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1423,IGFBP5,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1424,IGFBP5,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1425,IGFBP5,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1426,IGFBP5,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1427,IGFBP5,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1428,IGFBP5,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1429,IGFBP5,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::143,NCAM2,,10.1089/rej.2011.1257,22533364,TRUE,DOI mapped to PMID,308
+human_longevity_associations.csv::1430,IGFBP5,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1431,IGFBP5,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1432,IGFBP5,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1433,IGFBP5,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1434,IGFBP5,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1435,IGFBP5,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1436,IGFBP5,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,G449
+human_longevity_associations.csv::1437,IGFBP6,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1438,IGFBP6,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1439,IGFBP6,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::144,NECTIN2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::1440,IGFBP6,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1441,IL1B,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::1442,IL1RN,,10.1016/j.exger.2009.02.004,19249341,FALSE,none,
+human_longevity_associations.csv::1443,IL1RN,,10.1016/j.exger.2009.02.004,19249341,FALSE,none,
+human_longevity_associations.csv::1444,IL1RN,,10.1016/j.exger.2009.02.004,19249341,FALSE,none,
+human_longevity_associations.csv::1445,IL6,,10.1016/j.arr.2008.09.001,18930842,FALSE,none,
+human_longevity_associations.csv::1446,IL6,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1447,IL6,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1448,IL6,,10.1016/j.arr.2008.09.001,18930842,FALSE,none,
+human_longevity_associations.csv::1449,IL6,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::145,NECTIN2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::1450,IL6,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::1451,IL6,,10.1038/srep21243,26912274,FALSE,none,
+human_longevity_associations.csv::1452,IMPG1,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::1453,IMPG1,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::1454,INS,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,265
+human_longevity_associations.csv::1455,INS,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1456,INS,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::1457,INS,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,265
+human_longevity_associations.csv::1458,INS,,10.1016/s0531-5565(01)00146-2,11672987,TRUE,DOI mapped to PMID,78
+human_longevity_associations.csv::1459,INSR,,10.1016/j.exger.2004.05.007,15582274,TRUE,DOI mapped to PMID,168
+human_longevity_associations.csv::146,NECTIN2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::1460,INSR,,10.1016/j.exger.2004.05.007,15582274,TRUE,DOI mapped to PMID,168
+human_longevity_associations.csv::147,NECTIN2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::148,NECTIN2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::149,NECTIN2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::15,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::150,NECTIN2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::151,NFATC2,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::152,NFATC3,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::153,NFKB1,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::154,NFKB1,22184967.0,,NA,FALSE,none,
+human_longevity_associations.csv::155,NFKBIA,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::156,NFKBIA,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::157,NFKBIA,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::158,NFKBIA,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::159,NLRC5,,10.1089/rej.2011.1257,22533364,TRUE,DOI mapped to PMID,310
+human_longevity_associations.csv::16,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::160,NOS1,,10.1007/s10522-013-9421-z,23572278,TRUE,DOI mapped to PMID,343; G502
+human_longevity_associations.csv::161,NOTCH3,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::162,NOTCH4,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::163,NOTCH4,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::164,NR3C1,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::165,NR3C1,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::166,NUDT12,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::167,NUDT12,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::168,OLFM4,,10.1038/srep21243,26912274,FALSE,none,
+human_longevity_associations.csv::169,PAPPA,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::17,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::170,PAPPA,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::171,PARK7,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::172,PARP1,,10.1016/j.exger.2009.02.004,19249341,TRUE,DOI mapped to PMID,G515
+human_longevity_associations.csv::173,PARP1,,10.1016/j.exger.2009.02.004,19249341,TRUE,DOI mapped to PMID,G515
+human_longevity_associations.csv::174,PARP1,,10.1016/j.exger.2009.02.004,19249341,TRUE,DOI mapped to PMID,G515
+human_longevity_associations.csv::175,PARP1,,10.1016/j.exger.2009.02.004,19249341,TRUE,DOI mapped to PMID,G515
+human_longevity_associations.csv::176,PARP1,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::177,PARVG,,10.1089/rej.2011.1257,22533364,TRUE,DOI mapped to PMID,307
+human_longevity_associations.csv::178,PDE4B,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::179,PDK1,,10.1093/gerona/glv058,25934993,FALSE,none,
+human_longevity_associations.csv::18,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::180,PDK1,,10.1093/gerona/glv058,25934993,FALSE,none,
+human_longevity_associations.csv::181,PFKM,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::182,PFKM,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::183,PFKM,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::184,PFKM,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::185,PGGT1B,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::186,PGGT1B,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::187,PIK3CA,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::188,PIK3CA,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::189,PIK3CA,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::19,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::190,PIK3CA,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::191,PIK3CA,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::192,PIK3CB,,10.1016/j.exger.2004.05.007,15582274,TRUE,DOI mapped to PMID,170
+human_longevity_associations.csv::193,PIK3CB,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::194,PIK3CB,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::195,PIK3CB,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::196,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::197,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::198,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::199,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::2,INSR,,10.1016/j.exger.2004.05.007,15582274,TRUE,DOI mapped to PMID,168
+human_longevity_associations.csv::20,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::200,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::201,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::202,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::203,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::204,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::205,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::206,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::207,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::208,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::209,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::21,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::210,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::211,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::212,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::213,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::214,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::215,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::216,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::217,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::218,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::219,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::22,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::220,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::221,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::222,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::223,PIK3R1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::224,PIK3R1,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::225,PIK3R1,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::226,PIK3R1,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::227,PIK3R1,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::228,PKHD1,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::229,PKHD1,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::23,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::230,PLCG2,,10.1007/s00401-019-02026-8,31131421,FALSE,none,
+human_longevity_associations.csv::231,PLCG2,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::232,PLCG2,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::233,PLCG2,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::234,POLB,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,271
+human_longevity_associations.csv::235,POLB,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,271
+human_longevity_associations.csv::236,POM121C,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::237,POM121C,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::238,POM121C,,10.7554/elife.39856.001,NA,FALSE,none,
+human_longevity_associations.csv::239,PON1,,10.1007/s00391-015-0892-1,25962362,FALSE,none,
+human_longevity_associations.csv::24,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::240,PON1,,10.1016/j.exger.2003.11.019,15050299,TRUE,DOI mapped to PMID,135
+human_longevity_associations.csv::241,PON1,,10.1016/j.exger.2003.11.019,15050299,TRUE,DOI mapped to PMID,135
+human_longevity_associations.csv::242,PON1,,10.12659/msm.898231,28027289,FALSE,none,
+human_longevity_associations.csv::243,PON1,17936978.0,,NA,FALSE,none,
+human_longevity_associations.csv::244,PPARA,,10.1093/gerona/glv058,25934993,FALSE,none,
+human_longevity_associations.csv::245,PPARA,,10.1093/gerona/glv058,25934993,FALSE,none,
+human_longevity_associations.csv::246,PPARG,,10.1016/j.exger.2009.02.004,19249341,FALSE,none,
+human_longevity_associations.csv::247,PPARG,,10.1016/j.exger.2009.02.004,19249341,FALSE,none,
+human_longevity_associations.csv::248,PPARG,,10.1016/j.exger.2004.03.034,15236769,TRUE,DOI mapped to PMID,154
+human_longevity_associations.csv::249,PPARG,,10.1016/j.exger.2009.02.004,19249341,FALSE,none,
+human_longevity_associations.csv::25,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::250,PPARG,,10.1089/rej.2012.1365,22985084,TRUE,DOI mapped to PMID,341
+human_longevity_associations.csv::251,PPARGC1A,,10.1016/j.exger.2004.05.007,15582274,TRUE,DOI mapped to PMID,172
+human_longevity_associations.csv::252,PPARGC1A,,10.1016/j.exger.2004.05.007,15582274,TRUE,DOI mapped to PMID,172
+human_longevity_associations.csv::253,PPP1R26,,10.1089/rej.2011.1257,22533364,FALSE,none,
+human_longevity_associations.csv::254,PPP2R1A,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::255,PPP2R2C,,10.1089/rej.2011.1257,22533364,TRUE,DOI mapped to PMID,309
+human_longevity_associations.csv::256,PRDX3,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::257,PRKCB,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::258,PRKCD,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::259,PRKCH,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::26,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::260,PRKCH,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::261,PRKCH,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::262,PRKCH,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::263,PRKCH,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::264,PRKCH,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::265,PRKCH,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::266,PRKCH,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::267,PRKCI,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::268,PRKCQ,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::269,PROX2,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::27,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::270,PROX2,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::271,PROX2,,10.18632/aging.101334,29227965,FALSE,none,
+human_longevity_associations.csv::272,PSRC1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::273,PSRC1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::274,PSRC1,,10.7554/elife.39856.001,NA,FALSE,none,
+human_longevity_associations.csv::275,PTEN,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::276,PTEN,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::277,PTEN,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::278,PTEN,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::279,PTEN,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::28,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::280,PTEN,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::281,PTEN,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::282,PTEN,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::283,PTEN,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::284,PTEN,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::285,PTEN,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::286,PTK2,,10.1089/rej.2014.1570,24930376,FALSE,none,
+human_longevity_associations.csv::287,PTK2,,10.1089/rej.2014.1570,24930376,FALSE,none,
+human_longevity_associations.csv::288,PTK2,,10.1089/rej.2014.1570,24930376,FALSE,none,
+human_longevity_associations.csv::289,PTK2,,10.1089/rej.2014.1570,24930376,FALSE,none,
+human_longevity_associations.csv::29,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::290,PTK2,24930376.0,10.1089/rej.2014.1570,24930376,FALSE,none,
+human_longevity_associations.csv::291,PTK2,24930376.0,10.1089/rej.2014.1570,24930376,FALSE,none,
+human_longevity_associations.csv::292,PTPN1,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::293,PTPN1,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::294,PTPN1,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::295,PTPN1,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::296,PTPN1,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::297,NECTIN2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::298,NECTIN2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::299,NECTIN2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::3,INSR,,10.1016/j.exger.2004.05.007,15582274,TRUE,DOI mapped to PMID,168
+human_longevity_associations.csv::30,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::300,RAC2,,10.1089/rej.2011.1257,22533364,FALSE,none,
+human_longevity_associations.csv::301,RAD23B,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,270
+human_longevity_associations.csv::302,RAD23B,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,270
+human_longevity_associations.csv::303,RAD23B,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::304,RAD50,,0.1111/acel.12471,NA,FALSE,none,
+human_longevity_associations.csv::305,RAD50,,0.1111/acel.12471,NA,FALSE,none,
+human_longevity_associations.csv::306,RAD50,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::307,RAD50,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::308,RAD50,,0.1111/acel.12471,NA,FALSE,none,
+human_longevity_associations.csv::309,RAD52,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,268
+human_longevity_associations.csv::31,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::310,RAD52,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,268
+human_longevity_associations.csv::311,RELA,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::312,RELN,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::313,RGS7,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::314,RGS7,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::315,RGS7,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::316,RGS7,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::317,RPA1,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::318,RPS6KB1,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::319,RPTOR,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::32,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::320,RPTOR,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::321,RUNX3,,10.1089/rej.2011.1257,22533364,TRUE,DOI mapped to PMID,324
+human_longevity_associations.csv::322,SDC4,,10.1016/j.mad.2015.08.003,26254886,TRUE,DOI mapped to PMID,G538; G545
+human_longevity_associations.csv::323,SDC4,,10.1016/j.mad.2015.08.003,26254886,TRUE,DOI mapped to PMID,G538; G545
+human_longevity_associations.csv::324,SDC4,,10.1016/j.mad.2015.08.003,26254886,TRUE,DOI mapped to PMID,G538; G545
+human_longevity_associations.csv::325,SDC4,,10.1016/j.mad.2015.08.003,26254886,TRUE,DOI mapped to PMID,G538; G545
+human_longevity_associations.csv::326,SDC4,,10.1016/j.mad.2015.08.003,26254886,TRUE,DOI mapped to PMID,G538; G545
+human_longevity_associations.csv::327,SDC4,,10.1016/j.mad.2015.08.003,26254886,TRUE,DOI mapped to PMID,G538; G545
+human_longevity_associations.csv::328,SDC4,,10.1016/j.mad.2015.08.003,26254886,TRUE,DOI mapped to PMID,G538; G545
+human_longevity_associations.csv::329,SDC4,,10.1016/j.mad.2015.08.003,26254886,TRUE,DOI mapped to PMID,G538; G545
+human_longevity_associations.csv::33,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::330,SDC4,,10.1016/j.mad.2015.08.003,26254886,TRUE,DOI mapped to PMID,G538; G545
+human_longevity_associations.csv::331,SDC4,,10.1016/j.mad.2015.08.003,26254886,TRUE,DOI mapped to PMID,G538; G545
+human_longevity_associations.csv::332,SDC4,,10.1016/j.mad.2015.08.003,26254886,TRUE,DOI mapped to PMID,G538; G545
+human_longevity_associations.csv::333,SEMA6D,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::334,SEMA6D,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::335,SEMA6D,,10.18632/aging.101334,29227965,FALSE,none,
+human_longevity_associations.csv::336,SERPINE1,,10.1126/sciadv.aao1617,29152572,FALSE,none,
+human_longevity_associations.csv::337,SH2B3,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::338,SH2B3,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::339,SH2B3,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::34,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::340,SHC1,,10.1016/j.exger.2003.10.001,15036421,TRUE,DOI mapped to PMID,134
+human_longevity_associations.csv::341,SHC1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::342,SIAH1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::343,SIAH1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::344,SIAH1,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::345,SIAH1,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::346,SIRT1,,10.1073/pnas.0801030105,18765803,TRUE,DOI mapped to PMID,G443
+human_longevity_associations.csv::347,SIRT1,,10.1371/journal.pone.0058636,23505545,TRUE,DOI mapped to PMID,386; G527
+human_longevity_associations.csv::348,SIRT1,,10.1007/s10522-011-9360-5,21972126,TRUE,DOI mapped to PMID,253
+human_longevity_associations.csv::349,SIRT1,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::35,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::350,SIRT1,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::351,SIRT2,,10.1073/pnas.0801030105,18765803,FALSE,none,
+human_longevity_associations.csv::352,SIRT2,,10.1093/gerona/glv058,25934993,FALSE,none,
+human_longevity_associations.csv::353,SIRT2,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::354,SIRT3,,10.1007/s11357-013-9559-2,23839864,TRUE,DOI mapped to PMID,394; G528; G542
+human_longevity_associations.csv::355,SIRT3,,10.1007/s11357-013-9559-2,23839864,TRUE,DOI mapped to PMID,394; G528; G542
+human_longevity_associations.csv::356,SIRT3,,10.1073/pnas.0801030105,18765803,FALSE,none,
+human_longevity_associations.csv::357,SIRT3,,10.1007/s11357-013-9559-2,23839864,TRUE,DOI mapped to PMID,394; G528; G542
+human_longevity_associations.csv::358,SIRT3,,10.1371/journal.pone.0115616,25541994,FALSE,none,
+human_longevity_associations.csv::359,SIRT3,,10.1371/journal.pone.0115616,25541994,FALSE,none,
+human_longevity_associations.csv::36,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::360,SIRT3,,10.1007/s11357-013-9559-2,23839864,TRUE,DOI mapped to PMID,394; G528; G542
+human_longevity_associations.csv::361,SIRT3,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::362,SIRT4,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::363,SIRT5,,10.1371/journal.pone.0115616,25541994,FALSE,none,
+human_longevity_associations.csv::364,SIRT5,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::365,SIRT5,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::366,SIRT6,,10.1093/gerona/glv058,25934993,FALSE,none,
+human_longevity_associations.csv::367,SIRT6,,10.1371/journal.pone.0115616,25541994,FALSE,none,
+human_longevity_associations.csv::368,SIRT6,,10.1007/s11357-011-9373-7,22234866,TRUE,DOI mapped to PMID,296
+human_longevity_associations.csv::369,SIRT7,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::37,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::370,SIRT7,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::371,SLC39A11,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::372,SLC39A11,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::373,SLC6A3,,10.1093/gerona/glv058,25934993,FALSE,none,
+human_longevity_associations.csv::374,SOD2,,10.1016/j.mad.2004.08.025,15621215,TRUE,DOI mapped to PMID,177
+human_longevity_associations.csv::375,SOD2,,10.1016/j.mad.2009.01.005,19428448,TRUE,DOI mapped to PMID,369
+human_longevity_associations.csv::376,SOD3,,10.1093/gerona/glv058,25934993,FALSE,none,
+human_longevity_associations.csv::377,SOD3,,10.1371/journal.pone.0115616,25541994,FALSE,none,
+human_longevity_associations.csv::378,SOD3,,10.1371/journal.pone.0115616,25541994,FALSE,none,
+human_longevity_associations.csv::379,SOX6,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::38,INSR,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::380,SOX6,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::381,SOX6,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::382,SOX6,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::383,STAT3,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::384,STAT5A,,10.1134/s1022795419050077,NA,FALSE,none,
+human_longevity_associations.csv::385,STK10,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::386,STK10,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::387,STK24,,10.1089/rej.2011.1257,22533364,TRUE,DOI mapped to PMID,305
+human_longevity_associations.csv::388,SVEP1,,10.1089/rej.2011.1257,22533364,TRUE,DOI mapped to PMID,300
+human_longevity_associations.csv::389,SYDE2,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::39,IRS1,,10.1016/j.exger.2004.05.007,15582274,TRUE,DOI mapped to PMID,169
+human_longevity_associations.csv::390,SYDE2,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::391,TAS2R16,,10.1371/journal.pone.0045232,23133589,TRUE,DOI mapped to PMID,342; G501
+human_longevity_associations.csv::392,TBX3,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::393,TBX3,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::394,TCF3,,10.1016/j.redox.2020.101448,32203922,FALSE,none,
+human_longevity_associations.csv::395,TCF3,,10.1016/j.redox.2020.101448,32203922,FALSE,none,
+human_longevity_associations.csv::396,TCF3,,10.1016/j.redox.2020.101448,32203922,FALSE,none,
+human_longevity_associations.csv::397,TEP1,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::398,TEP1,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::399,TEP1,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::4,INSR,,10.1016/j.exger.2004.05.007,15582274,TRUE,DOI mapped to PMID,168
+human_longevity_associations.csv::40,IRS1,,10.1016/j.exger.2004.05.007,15582274,TRUE,DOI mapped to PMID,169
+human_longevity_associations.csv::400,TEP1,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::401,TEP1,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::402,TERC,,10.1111/j.1474-9726.2011.00775.x,22136229,TRUE,DOI mapped to PMID,G455
+human_longevity_associations.csv::403,TERC,22549493.0,,NA,FALSE,none,
+human_longevity_associations.csv::404,TERC,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::405,TERF1,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::406,TERF1,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::407,TERF1,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::408,TERF1,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::409,TERF1,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::41,IRS1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::410,TERF1,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::411,TERF1,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::412,TERF1,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::413,TERF2,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::414,TERT,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::415,TERT,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::416,TERT,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::417,TERT,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::418,TERT,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::419,TERT,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::42,IRS1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::420,TERT,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::421,TERT,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::422,TERT,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::423,TERT,,10.1016/j.exger.2009.02.004,19249341,FALSE,none,
+human_longevity_associations.csv::424,TERT,,10.1016/j.exger.2009.02.004,19249341,FALSE,none,
+human_longevity_associations.csv::425,TERT,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::426,TERT,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::427,TERT,,10.1016/j.exger.2009.02.004,19249341,FALSE,none,
+human_longevity_associations.csv::428,TERT,,10.1016/j.exger.2013.03.009,23562826,TRUE,DOI mapped to PMID,290
+human_longevity_associations.csv::429,TERT,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::43,IRS1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::430,TERT,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::431,TFDP1,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::432,TFDP1,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::433,TGFA,,10.1089/rej.2011.1257,22533364,TRUE,DOI mapped to PMID,317
+human_longevity_associations.csv::434,TH,,10.1016/s0531-5565(01)00146-2,11672987,FALSE,none,
+human_longevity_associations.csv::435,TH,,10.1016/s0531-5565(01)00146-2,11672987,FALSE,none,
+human_longevity_associations.csv::436,TIRAP,,10.1016/j.exger.2009.02.004,19249341,FALSE,none,
+human_longevity_associations.csv::437,TIRAP,,10.1016/j.exger.2009.02.004,19249341,FALSE,none,
+human_longevity_associations.csv::438,TMEM18,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::439,TMEM18,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::44,IRS1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::440,TMEM18,,10.7554/elife.39856.001,NA,FALSE,none,
+human_longevity_associations.csv::441,TMTC2,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::442,TMTC2,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::443,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::444,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::445,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::446,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::447,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::448,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::449,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::45,IRS1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::450,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::451,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::452,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::453,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::454,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::455,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::456,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::457,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::458,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::459,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::46,IRS1,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::460,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::461,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::462,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::463,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::464,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::465,TMTC2,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::466,TNF,,10.1136/jmg.40.4.296,12676903,TRUE,DOI mapped to PMID,104
+human_longevity_associations.csv::467,TNKS2,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::468,TNKS2,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::469,TOMM40,,0.1111/acel.12471,NA,FALSE,none,
+human_longevity_associations.csv::47,IRS2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::470,TOMM40,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::471,TOMM40,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::472,TOMM40,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::473,TOMM40,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::474,TOMM40,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::475,TOMM40,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::476,TOMM40,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::477,TOMM40,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::478,TOMM40,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::479,TOMM40,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::48,IRS2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::480,TOMM40,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::481,TOMM40,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::482,TOMM40,,10.1371/journal.pone.0029848,22279548,TRUE,DOI mapped to PMID,286; G469
+human_longevity_associations.csv::483,TOMM40,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::484,TOMM40,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::485,TOMM40,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::486,TOMM40,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::487,TOMM40,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::488,TOX,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::489,TOX,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::49,IRS2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::490,TOX,,10.18632/aging.101334,29227965,FALSE,none,
+human_longevity_associations.csv::491,TP53,,10.1093/gerona/gls223,23125046,TRUE,DOI mapped to PMID,289
+human_longevity_associations.csv::492,TP53,,10.4161/cc.7.2.5249,18256523,TRUE,DOI mapped to PMID,384
+human_longevity_associations.csv::493,TP53,,10.1093/gerona/gls223,23125046,TRUE,DOI mapped to PMID,289
+human_longevity_associations.csv::494,TP53,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::495,TP53,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::496,TP53,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::497,TTR,,10.1161/atvbaha.113.301273,23580146,TRUE,DOI mapped to PMID,G531
+human_longevity_associations.csv::498,TXN,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::499,TXNRD1,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::5,INSR,,10.1093/gerona/glv058,25934993,FALSE,none,
+human_longevity_associations.csv::50,IRS2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::500,UCP1,,10.1016/j.exger.2011.07.011,21827845,TRUE,DOI mapped to PMID,G499
+human_longevity_associations.csv::501,UCP2,,10.1371/journal.pone.0029650,22216339,TRUE,DOI mapped to PMID,337
+human_longevity_associations.csv::502,UCP2,,10.1007/s11357-011-9210-z,21340542,TRUE,DOI mapped to PMID,G490
+human_longevity_associations.csv::503,UCP2,,10.1371/journal.pone.0029650,22216339,TRUE,DOI mapped to PMID,337
+human_longevity_associations.csv::504,UCP2,,10.1371/journal.pone.0029650,22216339,TRUE,DOI mapped to PMID,337
+human_longevity_associations.csv::505,UCP3,,10.1016/j.mad.2012.06.004,22743239,TRUE,DOI mapped to PMID,G479; G548
+human_longevity_associations.csv::506,UCP3,,10.1016/j.mad.2012.06.004,22743239,TRUE,DOI mapped to PMID,G479; G548
+human_longevity_associations.csv::507,UCP3,,10.1371/journal.pone.0029650,22216339,TRUE,DOI mapped to PMID,G500
+human_longevity_associations.csv::508,UCP3,,10.1371/journal.pone.0029650,22216339,TRUE,DOI mapped to PMID,G500
+human_longevity_associations.csv::509,UCP3,,10.1371/journal.pone.0029650,22216339,TRUE,DOI mapped to PMID,G500
+human_longevity_associations.csv::51,IRS2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::510,SLC25A27,,10.1371/journal.pone.0029650,22216339,TRUE,DOI mapped to PMID,338
+human_longevity_associations.csv::511,SLC25A27,,10.1371/journal.pone.0029650,22216339,TRUE,DOI mapped to PMID,338
+human_longevity_associations.csv::512,USP42,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::513,USP42,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::514,USP42,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::515,VEGFA,,10.1016/j.neurobiolaging.2007.05.003,17574707,TRUE,DOI mapped to PMID,372
+human_longevity_associations.csv::516,VEGFA,,10.1016/j.neurobiolaging.2007.05.003,17574707,TRUE,DOI mapped to PMID,372
+human_longevity_associations.csv::517,VEGFA,,10.1016/j.neurobiolaging.2007.05.003,17574707,TRUE,DOI mapped to PMID,372
+human_longevity_associations.csv::518,VEGFA,,10.1016/j.neurobiolaging.2007.05.003,17574707,TRUE,DOI mapped to PMID,372
+human_longevity_associations.csv::519,VEGFA,,10.1016/j.neurobiolaging.2007.05.003,17574707,TRUE,DOI mapped to PMID,372
+human_longevity_associations.csv::52,IRS2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::520,VEGFA,,10.1016/j.neurobiolaging.2007.05.003,17574707,TRUE,DOI mapped to PMID,372
+human_longevity_associations.csv::521,VEGFA,,10.1016/j.neurobiolaging.2007.05.003,17574707,TRUE,DOI mapped to PMID,372
+human_longevity_associations.csv::522,WRN,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,269
+human_longevity_associations.csv::523,WRN,,10.1002/1096-8628(20001211)95:4<374::aid-ajmg14>3.0.co;2-4,11186893,TRUE,DOI mapped to PMID,G403
+human_longevity_associations.csv::524,WRN,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,269
+human_longevity_associations.csv::525,WRN,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::526,XRCC1,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::527,YWHAZ,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::528,ZC3HC1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::529,ZC3HC1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::53,IRS2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::530,ZC3HC1,,10.7554/elife.39856.001,NA,FALSE,none,
+human_longevity_associations.csv::531,ZFP69B,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::532,ZFP69B,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::533,ZFYVE28,,10.1038/srep21243,26912274,FALSE,none,
+human_longevity_associations.csv::534,ZW10,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::535,ZW10,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::536,ZW10,,10.18632/aging.101334,29227965,FALSE,none,
+human_longevity_associations.csv::537,ACE,,10.1177/0003319712475075,23389097,TRUE,DOI mapped to PMID,255
+human_longevity_associations.csv::538,ADCY1,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::539,ANKRD20A9P,,10.1038/srep21243,26912274,FALSE,none,
+human_longevity_associations.csv::54,IRS2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::540,ASB17,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::541,BFSP1,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::542,CAMK2B,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::543,CAMK2B,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::544,CEP89,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::545,DHFRP3,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::546,DHFRP3,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::547,FN3KRP,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::548,FN3KRP,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::549,FN3KRP,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::55,IRS2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::550,FN3KRP,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::551,FPGT-TNNI3K,,10.18632/aging.101334,29227965,FALSE,none,
+human_longevity_associations.csv::552,FSHR,,10.1089/rej.2012.1365,22985084,FALSE,none,
+human_longevity_associations.csv::553,FTH1P5,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::554,FTH1P5,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::555,FTH1P5,,10.1038/ncomms15842,28748955,FALSE,none,
+human_longevity_associations.csv::556,FLT1,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::557,FLT1,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::558,FLT1,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::559,HLA-DQB1,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::56,IRS2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::560,HLA-DRA,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::561,HNF4G,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::562,HSPA14,,10.1007/s11357-011-9373-7,22234866,TRUE,DOI mapped to PMID,G478
+human_longevity_associations.csv::563,HSPA14,,10.1007/s11357-011-9373-7,22234866,TRUE,DOI mapped to PMID,G478
+human_longevity_associations.csv::564,HSPA14,,10.1007/s11357-011-9373-7,22234866,TRUE,DOI mapped to PMID,G478
+human_longevity_associations.csv::565,HTR3B,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::566,KALRN,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::567,KALRN,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::568,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::569,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::57,IRS2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::570,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::571,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::572,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::573,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::574,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::575,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::576,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::577,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::578,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::579,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::58,IRS2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::580,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::581,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::582,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::583,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::584,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::585,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::586,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::587,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::588,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::589,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::59,IRS2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::590,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::591,KCNT2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::592,KIR3DX1,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::593,KIR3DX1,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::594,GDF1,,10.1111/j.1474-9726.2010.00600.x,20569235,FALSE,none,
+human_longevity_associations.csv::595,GDF1,,10.1111/j.1474-9726.2010.00600.x,20569235,FALSE,none,
+human_longevity_associations.csv::596,GDF1,,10.1111/j.1474-9726.2010.00600.x,20569235,FALSE,none,
+human_longevity_associations.csv::597,GDF1,,10.1111/j.1474-9726.2010.00600.x,20569235,FALSE,none,
+human_longevity_associations.csv::598,LY6G6F,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::599,MAPK4,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::6,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::60,IRS2,,10.1007/s11357-011-9210-z,21340542,TRUE,DOI mapped to PMID,G490
+human_longevity_associations.csv::600,MSH5,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::601,MT-ATP6,,10.1007/s11033-012-1784-8,22729909,FALSE,none,
+human_longevity_associations.csv::602,MT-CYB,,10.1007/s11033-012-1784-8,22729909,FALSE,none,
+human_longevity_associations.csv::603,MT-CYB,,10.1007/s11033-012-1784-8,22729909,FALSE,none,
+human_longevity_associations.csv::604,MT-ND4,,10.1007/s11033-012-1784-8,22729909,FALSE,none,
+human_longevity_associations.csv::605,MT-RNR2,,10.1007/s11033-012-1784-8,22729909,FALSE,none,
+human_longevity_associations.csv::606,NBN,,10.1093/gerona/glv058,25934993,FALSE,none,
+human_longevity_associations.csv::607,NOS1AP,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::608,OTOL1,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::609,PGP,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::61,JAK2,,10.1093/gerona/glx247,29300832,FALSE,none,
+human_longevity_associations.csv::610,PKN2,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::611,PLCB1,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::612,PLCB1,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::613,PLCB4,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::614,PLCH1,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::615,PMF1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::616,PRKAR2A,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::617,PRKD3,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::618,PSG7,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::619,PSORS1C3,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::62,KCNA5,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::620,PSORS1C3,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::621,PSORS1C3,,10.18632/aging.101334,29227965,FALSE,none,
+human_longevity_associations.csv::622,RDH5,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::623,RP1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::624,RP1,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::625,SETD9,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::626,SKIC2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::627,SKIC2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::628,SKIC2,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::629,SKIC2,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::63,KCNA5,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::630,SLC25A27,,10.1371/journal.pone.0029650,22216339,TRUE,DOI mapped to PMID,338
+human_longevity_associations.csv::631,SLC25A27,,10.1371/journal.pone.0029650,22216339,TRUE,DOI mapped to PMID,338
+human_longevity_associations.csv::632,SLC25A27,,10.1371/journal.pone.0029650,22216339,TRUE,DOI mapped to PMID,338
+human_longevity_associations.csv::633,SLC25A27,,10.1371/journal.pone.0029650,22216339,TRUE,DOI mapped to PMID,338
+human_longevity_associations.csv::634,SLC41A1,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::635,SPZ1,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::636,SPZ1,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::637,TAFA5,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::638,TAFA5,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::639,TAFA5,,10.1089/rej.2011.1257,22533364,FALSE,none,
+human_longevity_associations.csv::64,KCNK3,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::640,TERF2,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::641,TERF2,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::642,TERF2,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::643,TERF2,,10.1007/s10522-015-9551-6,25631672,FALSE,none,
+human_longevity_associations.csv::644,TMEM131L,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::645,TMEM131L,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::646,TMEM131L,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::647,TNNI3K,,10.18632/aging.101334,29227965,FALSE,none,
+human_longevity_associations.csv::648,USP2-AS1,,10.18632/aging.101334,29227965,FALSE,none,
+human_longevity_associations.csv::649,HSPA1A,,10.1023/a:1025182615693,14501185,TRUE,DOI mapped to PMID,127
+human_longevity_associations.csv::65,KCNK3,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::650,HSPA1A,,10.1196/annals.1354.040,16804002,TRUE,DOI mapped to PMID,220
+human_longevity_associations.csv::651,APOC3,,10.1371/journal.pbio.0040113,16602826,TRUE,DOI mapped to PMID,215
+human_longevity_associations.csv::652,ANK2,,10.1371/journal.pone.0001051,17940615,FALSE,none,
+human_longevity_associations.csv::653,ANK2,,10.1371/journal.pone.0001051,17940615,FALSE,none,
+human_longevity_associations.csv::654,ANK2,,10.1371/journal.pone.0001051,17940615,FALSE,none,
+human_longevity_associations.csv::655,ANK2,,10.1371/journal.pone.0001051,17940615,FALSE,none,
+human_longevity_associations.csv::656,ANK2,,10.1161/circgenetics.116.001537,28196901,FALSE,none,
+human_longevity_associations.csv::657,DGKZ,,10.15761/iod.1000148,NA,FALSE,none,
+human_longevity_associations.csv::658,BRCA1,,10.1038/ng.3412,26414677,FALSE,none,
+human_longevity_associations.csv::659,MTHFR,24968810,10.1186/1476-511x-13-104,24968810,FALSE,none,
+human_longevity_associations.csv::66,KCNK3,,10.7554/elife.39856.001,NA,FALSE,none,
+human_longevity_associations.csv::660,MTHFR,,10.1186/1471-2350-12-35,21385350,FALSE,none,
+human_longevity_associations.csv::661,MTR,21385350,10.1186/1471-2350-12-35,21385350,FALSE,none,
+human_longevity_associations.csv::662,MTHFR,,10.1161/01.str.0000169946.31639.af,15947278,FALSE,none,
+human_longevity_associations.csv::663,PCSK9,,10.1016/j.atherosclerosis.2007.12.005,18262190,FALSE,none,
+human_longevity_associations.csv::664,MTR,30064122,10.18632/aging.101509,30064122,FALSE,none,
+human_longevity_associations.csv::665,MTHFR,33833133,10.18632/aging.202827,33833133,FALSE,none,
+human_longevity_associations.csv::666,CRP,,10.1093/ageing/afw041,27016573,FALSE,none,
+human_longevity_associations.csv::667,CRP,,10.1093/ageing/afw041,27016573,FALSE,none,
+human_longevity_associations.csv::668,MTRR,,10.1371/journal.pone.0040504,22792358,FALSE,none,
+human_longevity_associations.csv::669,FBLN5,15269314,10.1056/nejmoa040833,15269314,FALSE,none,
+human_longevity_associations.csv::67,KIF13B,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::670,FBLN5,15269314,10.1056/nejmoa040833,15269314,FALSE,none,
+human_longevity_associations.csv::671,FBLN5,15269314,10.1056/nejmoa040833,15269314,FALSE,none,
+human_longevity_associations.csv::672,FBLN5,15269314,10.1056/nejmoa040833,15269314,FALSE,none,
+human_longevity_associations.csv::673,FBLN5,15269314,10.1056/nejmoa040833,15269314,FALSE,none,
+human_longevity_associations.csv::674,FBLN5,15269314,10.1056/nejmoa040833,15269314,FALSE,none,
+human_longevity_associations.csv::675,FBLN5,15269314,10.1056/nejmoa040833,15269314,FALSE,none,
+human_longevity_associations.csv::676,MTHFR,33833133,10.18632/aging.202827,33833133,FALSE,none,
+human_longevity_associations.csv::677,FBLN1,29867203,10.1038/s41598-018-25851-5,29867203,FALSE,none,
+human_longevity_associations.csv::678,FBLN1,29867203,10.1038/s41598-018-25851-5,29867203,FALSE,none,
+human_longevity_associations.csv::679,MTHFD1,,10.3389/fgene.2019.00433,31134135,FALSE,none,
+human_longevity_associations.csv::68,KL,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,263
+human_longevity_associations.csv::680,MTHFD1,,10.1002/ana.22403,21681796,FALSE,none,
+human_longevity_associations.csv::681,CETP,,10.1016/j.neurobiolaging.2012.02.022,22464147,FALSE,none,
+human_longevity_associations.csv::682,CETP,,10.1038/srep15711,26503844,FALSE,none,
+human_longevity_associations.csv::683,COL3A1,,10.1111/j.1365-2133.1996.tb01143.x,8881656,FALSE,none,
+human_longevity_associations.csv::684,COL3A1,,10.1111/j.1365-2133.1996.tb01143.x,8881656,FALSE,none,
+human_longevity_associations.csv::685,COL3A1,,10.1111/j.1365-2133.1996.tb01143.x,8881656,FALSE,none,
+human_longevity_associations.csv::686,COL3A1,,10.1111/j.1365-2133.1996.tb01143.x,8881656,FALSE,none,
+human_longevity_associations.csv::687,COL3A1,,10.1111/j.1365-2133.1996.tb01143.x,8881656,FALSE,none,
+human_longevity_associations.csv::688,COL3A1,,10.1111/j.1365-2133.1996.tb01143.x,8881656,FALSE,none,
+human_longevity_associations.csv::689,COL3A1,,10.1111/j.1365-2133.1996.tb01143.x,8881656,FALSE,none,
+human_longevity_associations.csv::69,KL,,10.1016/j.exger.2012.02.010,22406557,TRUE,DOI mapped to PMID,263
+human_longevity_associations.csv::690,COL3A1,,10.1111/j.1365-2133.1996.tb01143.x,8881656,FALSE,none,
+human_longevity_associations.csv::691,COL3A1,,10.1111/j.1365-2133.1996.tb01143.x,8881656,FALSE,none,
+human_longevity_associations.csv::692,COL3A1,,10.1111/j.1365-2133.1996.tb01143.x,8881656,FALSE,none,
+human_longevity_associations.csv::693,COL3A1,,10.1111/j.1365-2133.1996.tb01143.x,8881656,FALSE,none,
+human_longevity_associations.csv::694,COL3A1,,10.1111/j.1365-2133.1996.tb01143.x,8881656,FALSE,none,
+human_longevity_associations.csv::695,COL3A1,,10.1111/j.1365-2133.1996.tb01143.x,8881656,FALSE,none,
+human_longevity_associations.csv::696,COL3A1,,10.1111/j.1365-2133.1996.tb01143.x,8881656,FALSE,none,
+human_longevity_associations.csv::697,COL3A1,,10.1111/j.1365-2133.1996.tb01143.x,8881656,FALSE,none,
+human_longevity_associations.csv::698,COL3A1,,10.1111/j.1365-2133.1996.tb01143.x,8881656,FALSE,none,
+human_longevity_associations.csv::699,COL3A1,,10.1111/j.1365-2133.1996.tb01143.x,8881656,FALSE,none,
+human_longevity_associations.csv::7,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::70,KL,,10.1016/j.mad.2018.12.003,30633899,FALSE,none,
+human_longevity_associations.csv::700,COL3A1,,10.1111/j.1365-2133.1996.tb01143.x,8881656,FALSE,none,
+human_longevity_associations.csv::701,COL3A1,,10.1111/j.1365-2133.1996.tb01143.x,8881656,FALSE,none,
+human_longevity_associations.csv::702,DHFR,,10.3945/ajcn.115.111054,26354538,FALSE,none,
+human_longevity_associations.csv::703,TYMS,,10.1016/j.lfs.2018.01.015,29369772,FALSE,none,
+human_longevity_associations.csv::704,MMP1,,10.1038/jid.2015.7,25599395,FALSE,none,
+human_longevity_associations.csv::705,MMP3,,10.1038/jid.2015.7,25599395,FALSE,none,
+human_longevity_associations.csv::706,MMP3,,10.1161/01.res.0000076891.24317.ca,12750310,FALSE,none,
+human_longevity_associations.csv::707,CISD2,,10.1371/journal.pgen.1008104,31738745,FALSE,none,
+human_longevity_associations.csv::708,NOS3,,10.1161/circulationaha.117.028021,28982690,FALSE,none,
+human_longevity_associations.csv::709,SLC19A1,,10.1155/2014/608104,24995314,FALSE,none,
+human_longevity_associations.csv::71,KL,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::710,FOLH1,,10.1007/s11357-019-00071-5,31055733,FALSE,none,
+human_longevity_associations.csv::711,FOLH1,,10.1038/s41398-020-0769-y,32152295,FALSE,none,
+human_longevity_associations.csv::712,TERC,22549493,,NA,FALSE,none,
+human_longevity_associations.csv::713,TERC,,10.1371/journal.pone.0145721,26720590,FALSE,none,
+human_longevity_associations.csv::714,TERC,,10.1371/journal.pone.0145721,26720590,FALSE,none,
+human_longevity_associations.csv::715,TERT,,10.1016/j.exger.2016.12.017,28039025,FALSE,none,
+human_longevity_associations.csv::716,FOXO1,,10.1111/acel.12015,23061800,TRUE,DOI mapped to PMID,G461
+human_longevity_associations.csv::717,RPTOR,,10.1111/acel.12015,23061800,TRUE,DOI mapped to PMID,G461
+human_longevity_associations.csv::718,LAMTOR2,,10.1111/acel.12015,23061800,TRUE,DOI mapped to PMID,G461
+human_longevity_associations.csv::719,AKT1S1,,10.1111/acel.12015,23061800,TRUE,DOI mapped to PMID,G461
+human_longevity_associations.csv::72,KL,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::720,PRR5L,,10.1111/acel.12015,23061800,TRUE,DOI mapped to PMID,G461
+human_longevity_associations.csv::721,EIF4EBP1,,10.1111/acel.12015,23061800,TRUE,DOI mapped to PMID,G461
+human_longevity_associations.csv::722,RHOA,,10.1111/acel.12015,23061800,TRUE,DOI mapped to PMID,G461
+human_longevity_associations.csv::723,SMOC1,,10.1111/acel.13290,33512769,FALSE,none,
+human_longevity_associations.csv::724,ERCC5,,10.3389/fgene.2019.01277,31921313,FALSE,none,
+human_longevity_associations.csv::725,ERCC5,,10.3389/fgene.2019.01277,31921313,FALSE,none,
+human_longevity_associations.csv::726,ERCC4,,10.3389/fgene.2019.01277,31921313,FALSE,none,
+human_longevity_associations.csv::727,SIRT2,,10.3390/ijms20051249,30871086,FALSE,none,
+human_longevity_associations.csv::728,SIRT2,,10.1016/j.jalz.2012.02.003,22651940,FALSE,none,
+human_longevity_associations.csv::729,SIRT2,,10.1016/j.jns.2013.10.001,24139700,FALSE,none,
+human_longevity_associations.csv::73,KLF6,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::730,SIRT2,,10.1007/s12017-014-8291-0,24497179,FALSE,none,
+human_longevity_associations.csv::731,SIRT2,,10.1007/s00702-013-1045-6,23712749,FALSE,none,
+human_longevity_associations.csv::732,HRAS,,10.1016/s0378-1119(01)00812-5,11943467,FALSE,none,
+human_longevity_associations.csv::733,TERF1,,10.1007/s10522-019-09843-0,31646401,FALSE,none,
+human_longevity_associations.csv::734,TERC,,10.1111/j.1474-9726.2011.00775.x,22136229,TRUE,DOI mapped to PMID,G455
+human_longevity_associations.csv::735,TERC,,10.1111/j.1474-9726.2011.00775.x,22136229,TRUE,DOI mapped to PMID,G455
+human_longevity_associations.csv::736,TERC,,10.3389/fendo.2021.650922,33763035,FALSE,none,
+human_longevity_associations.csv::737,TERC,,10.1016/j.exger.2016.12.017,28039025,FALSE,none,
+human_longevity_associations.csv::738,ERCC6,,10.1073/pnas.0603485103,16754848,FALSE,none,
+human_longevity_associations.csv::739,ERCC2,25873778,,NA,FALSE,none,
+human_longevity_associations.csv::74,KLF6,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::740,ERCC2,,10.1007/s00417-014-2679-2,24906341,FALSE,none,
+human_longevity_associations.csv::741,SIRT5,,10.1371/journal.pone.0115616,25541994,FALSE,none,
+human_longevity_associations.csv::742,SIRT6,,10.1371/journal.pone.0115616,25541994,FALSE,none,
+human_longevity_associations.csv::743,SIRT5,,10.1371/journal.pone.0115616,25541994,FALSE,none,
+human_longevity_associations.csv::744,SIRT5,,10.1371/journal.pone.0115616,25541994,FALSE,none,
+human_longevity_associations.csv::745,RAD52,,10.1016/j.mad.2017.10.003,29024686,FALSE,none,
+human_longevity_associations.csv::746,RAD52,,10.1093/carcin/bgs373,23188672,FALSE,none,
+human_longevity_associations.csv::747,UCP1,,10.1038/ijo.2012.161,23032405,FALSE,none,
+human_longevity_associations.csv::748,UCP3,,10.1371/journal.pone.0029650,22216339,TRUE,DOI mapped to PMID,G500
+human_longevity_associations.csv::749,UCP2,,10.1007/s10522-016-9643-y,26965008,FALSE,none,
+human_longevity_associations.csv::75,LAMA2,,10.1134/s1022795416100033,29369589,FALSE,none,
+human_longevity_associations.csv::750,UCP2,,10.1007/s10522-016-9643-y,26965008,FALSE,none,
+human_longevity_associations.csv::751,SIRT5,,10.1016/j.nbd.2010.09.016,20887790,FALSE,none,
+human_longevity_associations.csv::752,TP73,,10.1371/journal.pone.0120048,25794170,FALSE,none,
+human_longevity_associations.csv::753,VEGFA,,10.1136/jmg.2004.025734,15937083,FALSE,none,
+human_longevity_associations.csv::754,UCP3,,10.1007/s10522-011-9321-z,21336965,FALSE,none,
+human_longevity_associations.csv::755,KDR,,10.2174/156720212803530681,23030506,FALSE,none,
+human_longevity_associations.csv::756,APP,22801501,10.1038/nature11283,22801501,FALSE,none,
+human_longevity_associations.csv::757,ESR1,28199328,10.1371/journal.pone.0169266,28199328,FALSE,none,
+human_longevity_associations.csv::758,ESR1,17889406,10.1016/j.neurobiolaging.2007.08.003,17889406,FALSE,none,
+human_longevity_associations.csv::759,ESR1,17889406,10.1016/j.neurobiolaging.2007.08.003,17889406,FALSE,none,
+human_longevity_associations.csv::76,LAMA5,,10.1016/j.mad.2016.03.003,26968355,FALSE,none,
+human_longevity_associations.csv::760,ESR1,17889406,10.1016/j.neurobiolaging.2007.08.003,17889406,FALSE,none,
+human_longevity_associations.csv::761,ESR1,33154391,10.1038/s41598-020-75446-2,33154391,FALSE,none,
+human_longevity_associations.csv::762,ESR1,11955468,10.1016/s0006-3223(01)01289-6,11955468,FALSE,none,
+human_longevity_associations.csv::763,ESR1,11955468,10.1016/s0006-3223(01)01289-6,11955468,FALSE,none,
+human_longevity_associations.csv::764,ESR2,17889406,10.1016/j.neurobiolaging.2007.08.003,17889406,FALSE,none,
+human_longevity_associations.csv::765,ESR2,17889406,10.1016/j.neurobiolaging.2007.08.003,17889406,FALSE,none,
+human_longevity_associations.csv::766,ESR2,17889406,10.1016/j.neurobiolaging.2007.08.003,17889406,FALSE,none,
+human_longevity_associations.csv::767,ESR2,17889406,10.1016/j.neurobiolaging.2007.08.003,17889406,FALSE,none,
+human_longevity_associations.csv::768,ESR2,11185739,10.1007/s100380070002,11185739,FALSE,none,
+human_longevity_associations.csv::769,ESR2,15354857,10.1007/s00223-003-0170-x,15354857,FALSE,none,
+human_longevity_associations.csv::77,LDLR,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::770,ESR1,18767927,10.1359/jbmr.080912,18767927,FALSE,none,
+human_longevity_associations.csv::771,ESR1,18767927,10.1359/jbmr.080912,18767927,FALSE,none,
+human_longevity_associations.csv::772,ESR2,19386104,10.1186/1477-7827-7-32,19386104,FALSE,none,
+human_longevity_associations.csv::773,GCLM,,10.1161/01.cir.0000019739.66514.1e,12081989,FALSE,none,
+human_longevity_associations.csv::774,GCLM,,10.1161/01.cir.0000091255.63645.98,12975258,FALSE,none,
+human_longevity_associations.csv::775,GCLC,,10.1016/s0735-1097(02)02866-8,12598062,FALSE,none,
+human_longevity_associations.csv::776,GCLC,,10.1016/j.exger.2014.01.014,24462499,TRUE,DOI mapped to PMID,G547
+human_longevity_associations.csv::777,CREBBP,,10.1016/j.neurobiolaging.2014.06.024,25150575,FALSE,none,
+human_longevity_associations.csv::778,CREB1,,10.1016/j.neurobiolaging.2014.06.024,25150575,FALSE,none,
+human_longevity_associations.csv::779,GPX1,22888637,,NA,FALSE,none,
+human_longevity_associations.csv::78,LDLR,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::780,GPX1,,10.1016/j.neulet.2017.12.026,29246792,FALSE,none,
+human_longevity_associations.csv::781,GPX1,,10.1016/j.neulet.2017.12.026,29246792,FALSE,none,
+human_longevity_associations.csv::782,GPX4,,10.1016/j.neulet.2017.12.026,29246792,FALSE,none,
+human_longevity_associations.csv::783,GSK3B,,10.6061/clinics/2013(02)rc01,23525328,FALSE,none,
+human_longevity_associations.csv::784,ATM,,10.3389/fcvm.2021.658908,34124196,FALSE,none,
+human_longevity_associations.csv::785,HLA-DRB1,,10.1016/j.ebiom.2018.02.005,29452862,FALSE,none,
+human_longevity_associations.csv::786,MSRA,,10.1016/j.mad.2008.09.020,18977241,FALSE,none,
+human_longevity_associations.csv::787,NR3C1,,10.1186/s12920-021-01044-4,34320993,FALSE,none,
+human_longevity_associations.csv::788,NR3C1,,10.1186/s12920-021-01044-4,34320993,FALSE,none,
+human_longevity_associations.csv::789,NR3C1,,10.1186/s12920-021-01044-4,34320993,FALSE,none,
+human_longevity_associations.csv::79,LDLR,,10.7554/elife.39856.001,NA,FALSE,none,
+human_longevity_associations.csv::790,BPIFB4,,10.18632/aging.102209,31461407,FALSE,none,
+human_longevity_associations.csv::791,BPIFB4,,10.18632/aging.102209,31461407,FALSE,none,
+human_longevity_associations.csv::792,BPIFB4,,10.18632/aging.102209,31461407,FALSE,none,
+human_longevity_associations.csv::793,GHR,,10.18632/aging.203133,34074802,FALSE,none,
+human_longevity_associations.csv::794,STAT5A,,10.1134/s1022795419050077,NA,FALSE,none,
+human_longevity_associations.csv::795,STUB1,,10.1186/s13023-014-0146-0,25258038,FALSE,none,
+human_longevity_associations.csv::796,GHR,,10.1126/scitranslmed.3001845,21325617,FALSE,none,
+human_longevity_associations.csv::797,GHR,,10.1126/scitranslmed.3001845,21325617,FALSE,none,
+human_longevity_associations.csv::798,PPARG,,10.1093/ageing/afw177,28181642,FALSE,none,
+human_longevity_associations.csv::799,PYCR1,,10.1002/ajmg.a.33963,21567914,FALSE,none,
+human_longevity_associations.csv::8,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::80,LEP,,10.1093/gerona/glv058,25934993,FALSE,none,
+human_longevity_associations.csv::800,PPARG,,10.1016%2fj.neurobiolaging.2006.09.010,NA,FALSE,none,
+human_longevity_associations.csv::801,PPARG,,10.1097/wad.0000000000000217,29116943,FALSE,none,
+human_longevity_associations.csv::802,SERPINE1,,10.1126/sciadv.aao1617,29152572,FALSE,none,
+human_longevity_associations.csv::803,PYCR1,,10.1038/ng.413,19648921,FALSE,none,
+human_longevity_associations.csv::804,PYCR1,,10.1038/ng.413,19648921,FALSE,none,
+human_longevity_associations.csv::805,PYCR1,,10.1038/ng.413,19648921,FALSE,none,
+human_longevity_associations.csv::806,PYCR1,,10.1038/ng.413,19648921,FALSE,none,
+human_longevity_associations.csv::807,PYCR1,,10.1038/ng.413,19648921,FALSE,none,
+human_longevity_associations.csv::808,PYCR1,,10.1038/ng.413,19648921,FALSE,none,
+human_longevity_associations.csv::809,PYCR1,,10.1038/ng.413,19648921,FALSE,none,
+human_longevity_associations.csv::81,LIMCH1,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::810,PPARG,,10.1161/circgenetics.114.000635,25406242,FALSE,none,
+human_longevity_associations.csv::811,MMP2,,10.1007/s001090050226,9587069,FALSE,none,
+human_longevity_associations.csv::812,PARP1,,10.1007/s001090050226,9587069,FALSE,none,
+human_longevity_associations.csv::813,ABCC4,,10.1089/rej.2011.1257,22533364,TRUE,DOI mapped to PMID,320
+human_longevity_associations.csv::814,ABO,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::815,ABO,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::816,ABO,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::817,ABO,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::818,ABO,,10.7554/elife.39856.001,NA,FALSE,none,
+human_longevity_associations.csv::819,ABO,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::82,LIMCH1,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::820,ABO,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::821,ABO,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::822,ABO,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::823,ABO,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::824,ABO,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::825,ABO,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::826,ABO,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::827,ABO,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::828,ABO,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::829,ABO,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::83,LIMCH1,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::830,ADIPOQ,,10.1073/pnas.0801030105,18765803,TRUE,DOI mapped to PMID,G443
+human_longevity_associations.csv::831,ADIPOQ,,10.1073/pnas.0801030105,18765803,TRUE,DOI mapped to PMID,G443
+human_longevity_associations.csv::832,ADIPOQ,,10.1073/pnas.0801030105,18765803,TRUE,DOI mapped to PMID,G443
+human_longevity_associations.csv::833,ADIPOQ,23339001.0,,NA,TRUE,PMID field,285
+human_longevity_associations.csv::834,ADRA1A,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::835,ADRB2,,10.1111/acel.12011,23020224,TRUE,DOI mapped to PMID,G472; G473
+human_longevity_associations.csv::836,ADRB2,,10.1111/acel.12011,23020224,TRUE,DOI mapped to PMID,G472; G473
+human_longevity_associations.csv::837,FOXO4,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::838,FOXO4,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::839,FOXO4,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::84,LIMCH1,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::840,FOXO4,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::841,FOXO4,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::842,FOXO4,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::843,FOXO4,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::844,AGER,,10.3390/ijms141123203,24284407,TRUE,DOI mapped to PMID,388
+human_longevity_associations.csv::845,AGER,,10.3390/ijms141123203,24284407,TRUE,DOI mapped to PMID,388
+human_longevity_associations.csv::846,AGTR1,,10.1007/s11357-012-9408-8,22569962,TRUE,DOI mapped to PMID,G497; G498
+human_longevity_associations.csv::847,AGTR1,,10.1007/s11357-012-9408-8,22569962,TRUE,DOI mapped to PMID,G497; G498
+human_longevity_associations.csv::848,AGTR1,,10.1007/s11357-012-9408-8,22569962,TRUE,DOI mapped to PMID,G497; G498
+human_longevity_associations.csv::849,AGTR1,,10.1007/s11357-012-9408-8,22569962,TRUE,DOI mapped to PMID,G497; G498
+human_longevity_associations.csv::85,LMNA,,10.1111/j.1474-9726.2012.00808.x,22340368,TRUE,DOI mapped to PMID,G440; G441
+human_longevity_associations.csv::850,AGTR1,,10.1007/s11357-012-9408-8,22569962,TRUE,DOI mapped to PMID,G497; G498
+human_longevity_associations.csv::851,AGTR1,,10.1007/s11357-012-9408-8,22569962,TRUE,DOI mapped to PMID,G497; G498
+human_longevity_associations.csv::852,AGTR1,,10.1007/s11357-012-9408-8,22569962,TRUE,DOI mapped to PMID,G497; G498
+human_longevity_associations.csv::853,AGTR1,,10.1007/s11357-012-9408-8,22569962,TRUE,DOI mapped to PMID,G497; G498
+human_longevity_associations.csv::854,AGTR1,,10.1007/s11357-012-9408-8,22569962,TRUE,DOI mapped to PMID,G497; G498
+human_longevity_associations.csv::855,AGTR1,,10.1007/s11357-012-9408-8,22569962,TRUE,DOI mapped to PMID,G497; G498
+human_longevity_associations.csv::856,AGTR1,,10.1007/s11357-012-9408-8,22569962,TRUE,DOI mapped to PMID,G497; G498
+human_longevity_associations.csv::857,AGTR1,,10.1007/s11357-012-9408-8,22569962,TRUE,DOI mapped to PMID,G497; G498
+human_longevity_associations.csv::858,AIF1,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::859,AKR1C2,,10.1038/srep21243,26912274,FALSE,none,
+human_longevity_associations.csv::86,LNPK,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::860,AKT1,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,256
+human_longevity_associations.csv::861,AKT1,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,256
+human_longevity_associations.csv::862,AKT1,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,256
+human_longevity_associations.csv::863,AKT1,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,256
+human_longevity_associations.csv::864,AKT1,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,256
+human_longevity_associations.csv::865,AKT1,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,256
+human_longevity_associations.csv::866,AKT1,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,256
+human_longevity_associations.csv::867,AKT1,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,256
+human_longevity_associations.csv::868,AKT1,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,256
+human_longevity_associations.csv::869,AKT1,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,256
+human_longevity_associations.csv::87,LNPK,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::870,AKT1,,10.1111/j.1474-9726.2009.00493.x,19489743,TRUE,DOI mapped to PMID,256
+human_longevity_associations.csv::871,AKT2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::872,AKT2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::873,AKT2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::874,AKT2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::875,AKT2,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::876,AKT3,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::877,AKT3,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::878,AKT3,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::879,AKT3,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::88,LOC105369165,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::880,AKT3,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::881,AKT3,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::882,AKT3,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::883,AKT3,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::884,AKT3,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::885,AKT3,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::886,AKT3,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::887,AKT3,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::888,AKT3,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::889,AOX1,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::89,LOC105377989,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::890,AOX1,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::891,APOB,,10.1111/acel.12261,25116423,FALSE,none,
+human_longevity_associations.csv::892,APOB,,10.1111/acel.12261,25116423,FALSE,none,
+human_longevity_associations.csv::893,APOB,,10.1111/acel.12261,25116423,FALSE,none,
+human_longevity_associations.csv::894,APOC1,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::895,APOC1,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::896,APOC1,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::897,APOC1,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::898,APOC1,,10.1093/hmg/ddu139,24688116,TRUE,DOI mapped to PMID,393
+human_longevity_associations.csv::899,APOC1,,10.1093/hmg/ddu139,24688116,TRUE,DOI mapped to PMID,393
+human_longevity_associations.csv::9,INSR,,10.1111/j.1474-9726.2009.00493.x,19489743,FALSE,none,
+human_longevity_associations.csv::90,LOC105377992,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::900,APOC1,,10.1093/hmg/ddu139,24688116,TRUE,DOI mapped to PMID,393
+human_longevity_associations.csv::901,APOC1,,10.1111/acel.12039,23286790,TRUE,DOI mapped to PMID,284
+human_longevity_associations.csv::902,APOC1,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::903,APOC3,,10.1371/journal.pbio.0040113,16602826,TRUE,DOI mapped to PMID,215
+human_longevity_associations.csv::904,APOE,,10.1016/j.mad.2004.08.025,15621215,TRUE,DOI mapped to PMID,173
+human_longevity_associations.csv::905,APOE,,10.1007/s11357-011-9373-7,22234866,TRUE,DOI mapped to PMID,G476
+human_longevity_associations.csv::906,APOE,,10.1007/s11357-011-9373-7,22234866,TRUE,DOI mapped to PMID,G476
+human_longevity_associations.csv::907,APOE,,10.1007/s11357-011-9373-7,22234866,TRUE,DOI mapped to PMID,G476
+human_longevity_associations.csv::908,APOE,,10.1007/s11357-011-9373-7,22234866,TRUE,DOI mapped to PMID,G476
+human_longevity_associations.csv::909,APOE,,10.1016/j.mad.2004.08.025,15621215,TRUE,DOI mapped to PMID,173
+human_longevity_associations.csv::91,LOC107985852,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::910,APOE,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::911,APOE,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::912,APOE,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::913,APOE,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::914,APOE,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::915,APOE,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::916,APOE,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::917,APOE,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::918,APOE,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::919,APOE,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::92,LONP1,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::920,APOE,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::921,APOE,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::922,APOE,,10.1038/srep21243,26912274,FALSE,none,
+human_longevity_associations.csv::923,APOE,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::924,APOE,,10.1093/gerona/glab023,33491046,FALSE,none,
+human_longevity_associations.csv::925,APOE,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::926,APOE,,10.1093/gerona/glx027,28329165,FALSE,none,
+human_longevity_associations.csv::927,APOE,,10.1111/j.1474-9726.2010.00600.x,20569235,TRUE,DOI mapped to PMID,250; G438
+human_longevity_associations.csv::928,APOE,,10.1111/j.1474-9726.2010.00600.x,20569235,TRUE,DOI mapped to PMID,250; G438
+human_longevity_associations.csv::929,APOE,,10.1111/j.1474-9726.2010.00600.x,20569235,TRUE,DOI mapped to PMID,250; G438
+human_longevity_associations.csv::93,LPA,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::930,APOE,,10.1111/j.1474-9726.2010.00600.x,20569235,TRUE,DOI mapped to PMID,250; G438
+human_longevity_associations.csv::931,APOE,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::932,APOE,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::933,ASIC2,,10.1038/srep21243,26912274,FALSE,none,
+human_longevity_associations.csv::934,ATM,,10.1007/s10072-012-1188-5,22960875,TRUE,DOI mapped to PMID,360
+human_longevity_associations.csv::935,ATM,,10.1016/j.mad.2010.08.009,20816691,TRUE,DOI mapped to PMID,328
+human_longevity_associations.csv::936,ATM,,10.1111/acel.12755,29577582,FALSE,none,
+human_longevity_associations.csv::937,ATXN2,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::938,ATXN2,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::939,ATXN2,,10.18632/aging.101334,29227965,FALSE,none,
+human_longevity_associations.csv::94,LPA,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::940,ATXN2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::941,B3GLCT,,10.18632/aging.101334,29227965,FALSE,none,
+human_longevity_associations.csv::942,BACE2,,10.1111/acel.13362,34197020,FALSE,none,
+human_longevity_associations.csv::943,BCL3,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::944,BCL3,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::945,BCL3,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::946,BEND3,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::947,BEND3,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::948,BEND3,,10.18632/aging.101334,29227965,FALSE,none,
+human_longevity_associations.csv::949,BEND4,,10.1038/srep21243,26912274,FALSE,none,
+human_longevity_associations.csv::95,LPA,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::950,BPIFB4,,10.1161/circresaha.117.305875,26034043,FALSE,none,
+human_longevity_associations.csv::951,BPIFB4,,10.1161/circresaha.117.305875,26034043,FALSE,none,
+human_longevity_associations.csv::952,BPIFB4,,10.1161/circresaha.117.305875,26034043,FALSE,none,
+human_longevity_associations.csv::953,BPIFB4,,10.1161/circresaha.117.305875,26034043,FALSE,none,
+human_longevity_associations.csv::954,BRD1,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::955,BRD1,,10.1001/jamanetworkopen.2018.1670,30294719,FALSE,none,
+human_longevity_associations.csv::956,BTBD9,,10.1089/rej.2011.1257,22533364,TRUE,DOI mapped to PMID,312
+human_longevity_associations.csv::957,BTNL2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::958,C2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::959,C2,,10.1371/journal.pgen.1005728,26677855,FALSE,none,
+human_longevity_associations.csv::96,LPA,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::960,C3,,10.1016/j.exger.2009.02.004,19249341,FALSE,none,
+human_longevity_associations.csv::961,CACNA1C,,10.1089/rej.2011.1257,22533364,TRUE,DOI mapped to PMID,302
+human_longevity_associations.csv::962,CADM2,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::963,CADM2,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::964,CADM2,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::965,CADM2,,10.1093/gerona/glu166,25199915,FALSE,none,
+human_longevity_associations.csv::966,CARS1,,10.1089/rej.2011.1257,22533364,FALSE,none,
+human_longevity_associations.csv::967,CCL5,,10.1016/j.cyto.2011.12.021,22265023,TRUE,DOI mapped to PMID,G503
+human_longevity_associations.csv::968,CCL5,,10.1016/j.cyto.2011.12.021,22265023,TRUE,DOI mapped to PMID,G503
+human_longevity_associations.csv::969,CCL5,,10.1016/j.cyto.2011.12.021,22265023,TRUE,DOI mapped to PMID,G503
+human_longevity_associations.csv::97,LPA,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::970,CCND1,,10.1093/gerona/glv058,25934993,FALSE,none,
+human_longevity_associations.csv::971,CDH4,,10.1089/rej.2011.1257,22533364,TRUE,DOI mapped to PMID,298
+human_longevity_associations.csv::972,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::973,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::974,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::975,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::976,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::977,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::978,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::979,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::98,LPA,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::980,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::981,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::982,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::983,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::984,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::985,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::986,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::987,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::988,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::989,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::99,LPA,,10.1038/s41467-019-11558-2,31413261,FALSE,none,
+human_longevity_associations.csv::990,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::991,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::992,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::993,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::994,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::995,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::996,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::997,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::998,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550
+human_longevity_associations.csv::999,CDKN1A,,10.18632/aging.100041,20126416,TRUE,DOI mapped to PMID,G434; G550

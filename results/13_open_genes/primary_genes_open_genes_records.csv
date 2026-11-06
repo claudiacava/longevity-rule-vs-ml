@@ -1,0 +1,127 @@
+gene,evidence_type,n
+APOB,Age-related molecular change,0
+APOB,Age-related process intervention,0
+APOB,Gene-regulatory evidence,0
+APOB,Human longevity association,3
+APOB,Model-organism lifespan experiment,0
+APOB,Open Genes database annotation,1
+APOC1,Age-related molecular change,0
+APOC1,Age-related process intervention,0
+APOC1,Gene-regulatory evidence,0
+APOC1,Human longevity association,5
+APOC1,Model-organism lifespan experiment,0
+APOC1,Open Genes database annotation,1
+APOC3,Age-related molecular change,0
+APOC3,Age-related process intervention,0
+APOC3,Gene-regulatory evidence,0
+APOC3,Human longevity association,0
+APOC3,Model-organism lifespan experiment,0
+APOC3,Open Genes database annotation,1
+APOE,Age-related molecular change,0
+APOE,Age-related process intervention,3
+APOE,Gene-regulatory evidence,0
+APOE,Human longevity association,19
+APOE,Model-organism lifespan experiment,1
+APOE,Open Genes database annotation,1
+ATM,Age-related molecular change,1
+ATM,Age-related process intervention,5
+ATM,Gene-regulatory evidence,4
+ATM,Human longevity association,2
+ATM,Model-organism lifespan experiment,1
+ATM,Open Genes database annotation,1
+FOXO3,Age-related molecular change,3
+FOXO3,Age-related process intervention,3
+FOXO3,Gene-regulatory evidence,5
+FOXO3,Human longevity association,19
+FOXO3,Model-organism lifespan experiment,92
+FOXO3,Open Genes database annotation,1
+GSTT1,Age-related molecular change,0
+GSTT1,Age-related process intervention,0
+GSTT1,Gene-regulatory evidence,0
+GSTT1,Human longevity association,0
+GSTT1,Model-organism lifespan experiment,0
+GSTT1,Open Genes database annotation,0
+HLA-DRB1,Age-related molecular change,8
+HLA-DRB1,Age-related process intervention,0
+HLA-DRB1,Gene-regulatory evidence,0
+HLA-DRB1,Human longevity association,4
+HLA-DRB1,Model-organism lifespan experiment,0
+HLA-DRB1,Open Genes database annotation,1
+HSPA1A,Age-related molecular change,2
+HSPA1A,Age-related process intervention,4
+HSPA1A,Gene-regulatory evidence,0
+HSPA1A,Human longevity association,0
+HSPA1A,Model-organism lifespan experiment,2
+HSPA1A,Open Genes database annotation,1
+HSPA1L,Age-related molecular change,0
+HSPA1L,Age-related process intervention,0
+HSPA1L,Gene-regulatory evidence,0
+HSPA1L,Human longevity association,0
+HSPA1L,Model-organism lifespan experiment,0
+HSPA1L,Open Genes database annotation,0
+IGF1R,Age-related molecular change,6
+IGF1R,Age-related process intervention,4
+IGF1R,Gene-regulatory evidence,2
+IGF1R,Human longevity association,2
+IGF1R,Model-organism lifespan experiment,100
+IGF1R,Open Genes database annotation,1
+KL,Age-related molecular change,5
+KL,Age-related process intervention,7
+KL,Gene-regulatory evidence,4
+KL,Human longevity association,3
+KL,Model-organism lifespan experiment,9
+KL,Open Genes database annotation,1
+MLH1,Age-related molecular change,2
+MLH1,Age-related process intervention,0
+MLH1,Gene-regulatory evidence,0
+MLH1,Human longevity association,0
+MLH1,Model-organism lifespan experiment,0
+MLH1,Open Genes database annotation,1
+PON1,Age-related molecular change,11
+PON1,Age-related process intervention,0
+PON1,Gene-regulatory evidence,0
+PON1,Human longevity association,3
+PON1,Model-organism lifespan experiment,0
+PON1,Open Genes database annotation,1
+PPARG,Age-related molecular change,5
+PPARG,Age-related process intervention,14
+PPARG,Gene-regulatory evidence,14
+PPARG,Human longevity association,7
+PPARG,Model-organism lifespan experiment,4
+PPARG,Open Genes database annotation,1
+SIRT3,Age-related molecular change,37
+SIRT3,Age-related process intervention,8
+SIRT3,Gene-regulatory evidence,3
+SIRT3,Human longevity association,4
+SIRT3,Model-organism lifespan experiment,1
+SIRT3,Open Genes database annotation,1
+TERT,Age-related molecular change,7
+TERT,Age-related process intervention,35
+TERT,Gene-regulatory evidence,3
+TERT,Human longevity association,17
+TERT,Model-organism lifespan experiment,5
+TERT,Open Genes database annotation,1
+TH,Age-related molecular change,0
+TH,Age-related process intervention,0
+TH,Gene-regulatory evidence,0
+TH,Human longevity association,2
+TH,Model-organism lifespan experiment,0
+TH,Open Genes database annotation,1
+TOMM40,Age-related molecular change,0
+TOMM40,Age-related process intervention,0
+TOMM40,Gene-regulatory evidence,0
+TOMM40,Human longevity association,18
+TOMM40,Model-organism lifespan experiment,0
+TOMM40,Open Genes database annotation,1
+TP53,Age-related molecular change,12
+TP53,Age-related process intervention,11
+TP53,Gene-regulatory evidence,13
+TP53,Human longevity association,3
+TP53,Model-organism lifespan experiment,61
+TP53,Open Genes database annotation,1
+UCP3,Age-related molecular change,12
+UCP3,Age-related process intervention,8
+UCP3,Gene-regulatory evidence,0
+UCP3,Human longevity association,1
+UCP3,Model-organism lifespan experiment,8
+UCP3,Open Genes database annotation,1

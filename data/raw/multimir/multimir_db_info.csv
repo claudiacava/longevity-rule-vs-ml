@@ -1,0 +1,15 @@
+map_name,source_name,source_version,source_date,source_url
+diana_microt,DIANA-microT,5,"Sept, 2013",http://diana.imis.athena-innovation.gr/DianaTools/index.php?r=microT_CDS/index
+elmmo,EIMMo,5,"Jan, 2011",http://www.mirz.unibas.ch/miRNAtargetPredictionBulk.php
+microcosm,MicroCosm,5,"Sept, 2009",http://www.ebi.ac.uk/enright-srv/microcosm/cgi-bin/targets/v5/download.pl
+mir2disease,miR2Disease,,"Mar 14, 2011",http://www.mir2disease.org
+miranda,miRanda,,"Aug, 2010",http://www.microrna.org/microrna/getDownloads.do
+mirdb,miRDB,6,"June, 2019",http://mirdb.org
+mirecords,miRecords,4,"Apr 27, 2013",http://mirecords.biolead.org/download.php
+mirtarbase,miRTarBase,9,Sept 2021,http://mirtarbase.mbc.nctu.edu.tw/php/download.php
+pharmaco_mir,Pharmaco-miR (Verified Sets),,,http://www.pharmaco-mir.org/home/download_VERSE_db
+phenomir,PhenomiR,2,"Feb 15, 2011",http://mips.helmholtz-muenchen.de/phenomir/
+pictar,PicTar,2,"Dec 21, 2012",http://dorina.mdc-berlin.de
+pita,PITA,6,"Aug 31, 2008",http://genie.weizmann.ac.il/pubs/mir07/mir07_data.html
+tarbase,TarBase,9,2023,https://dianalab.e-ce.uth.gr/tarbasev9
+targetscan,TargetScan,8,Sept 2021,https://www.targetscan.org/cgi-bin/targetscan/data_download.vert80.cgi

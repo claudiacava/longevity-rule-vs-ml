@@ -1,0 +1,9 @@
+record_id,study_id,pub_med,association,population,variant_s,gene,evidence_modality,shared_locus,source_note
+G461,PMID_23061800,23061800,significant,Dutch,gene-expression single-gene result,FOXO1,gene-level expression,NA,Passtoors et al.: seven genes with corrected single-gene expression differences >= 5%
+G461,PMID_23061800,23061800,significant,Dutch,gene-expression single-gene result,RPTOR,gene-level expression,NA,Passtoors et al.: seven genes with corrected single-gene expression differences >= 5%
+G461,PMID_23061800,23061800,significant,Dutch,gene-expression single-gene result,EIF4EBP1,gene-level expression,NA,Passtoors et al.: seven genes with corrected single-gene expression differences >= 5%
+G461,PMID_23061800,23061800,significant,Dutch,gene-expression single-gene result,LAMTOR2,gene-level expression,NA,Passtoors et al.: seven genes with corrected single-gene expression differences >= 5%
+G461,PMID_23061800,23061800,significant,Dutch,gene-expression single-gene result,AKT1S1,gene-level expression,NA,Passtoors et al.: seven genes with corrected single-gene expression differences >= 5%
+G461,PMID_23061800,23061800,significant,Dutch,gene-expression single-gene result,PRR5L,gene-level expression,NA,Passtoors et al.: seven genes with corrected single-gene expression differences >= 5%
+G461,PMID_23061800,23061800,significant,Dutch,gene-expression single-gene result,RHOA,gene-level expression,NA,Passtoors et al.: seven genes with corrected single-gene expression differences >= 5%
+G469,PMID_22279548,22279548,significant,American (Caucasian),rs2075650,TOMM40,genetic association,TOMM40-APOE-APOC1 region,Sebastiani et al.: rs2075650 (TOMM40 intron) was the only genome-wide-significant SNP of the 281-SNP model; it duplicates LongevityMap record 286 and is removed as an exact duplicate

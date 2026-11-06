@@ -1,0 +1,6 @@
+VERSION,UPDATED,RDA,DBNAME,SCHEMA,PUBLIC,TABLES
+2.4.0,2024-08-28,multimir_cutoffs_2.4.rda,multimir2_4,multiMiR_DB_schema.sql,1,multiMiR_dbTables.txt
+2.3.0,2020-04-15,multimir_cutoffs_2.3.rda,multimir2_3,multiMiR_DB_schema.sql,1,multiMiR_dbTables.txt
+2.2.0,2017-08-08,multimir_cutoffs_2.2.rda,multimir2_2,multiMiR_DB_schema.sql,1,multiMiR_dbTables.txt
+2.1.0,2016-12-22,multimir_cutoffs_2.1.rda,multimir2_1,multiMiR_DB_schema.sql,1,multiMiR_dbTables.txt
+2.0.0,2015-05-01,multimir_cutoffs.rda,multimir,multiMiR_DB_schema.sql,1,multiMiR_dbTables.txt

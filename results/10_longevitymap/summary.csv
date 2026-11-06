@@ -1,0 +1,16 @@
+metric,value
+records_downloaded,550
+records_valid,547
+records_excluded,3
+significant,273
+non_significant,274
+distinct_pmids,270
+population_labels,81
+records_multi_gene_original,66
+records_apoe_alias_corrected,5
+records_multi_gene_after_correction,63
+corrected_gene_symbols,880
+gene_universe_genetic,213
+gene_universe_all_modalities,219
+primary_candidates,21
+all_modalities_candidates,22

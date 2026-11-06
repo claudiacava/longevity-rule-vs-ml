@@ -1,0 +1,19 @@
+analysis,removed_genes,n_candidates,n_terms,n_fdr05,top_term,top_p,top_fdr
+without_group_APOE_TOMM40_APOC1,APOC1; APOE; TOMM40,18,815,0,mRNA metabolic process,0.0017470922966871356,0.5080414359513147
+without_group_HSPA_MHC,HLA-DRB1; HSPA1A; HSPA1B; HSPA1L,18,812,0,cholesterol efflux,1.4969434360685908e-4,0.10676603446584527
+without_region_chr11_1,DRD4; SIRT3,20,872,0,cholesterol efflux,2.791863806449263e-4,0.1636472909150095
+without_region_chr11_11,ATM,20,864,0,cholesterol efflux,2.7148149880040914e-4,0.16763991284301777
+without_region_chr11_13,APOA1; APOA4; APOC3,20,855,0,establishment of localization,5.166974213935195e-4,0.4417762952914591
+without_region_chr11_2,CARS1; IGF2; INS; TH,20,855,0,cholesterol efflux,2.9537324214301303e-4,0.18011680903727867
+without_region_chr11_7,UCP2; UCP3,20,864,0,cholesterol efflux,2.791863806449263e-4,0.16214593962221124
+without_region_chr13_1,KL,20,874,0,cholesterol efflux,2.7148149880040914e-4,0.20666128725975966
+without_region_chr15_4,IGF1R,20,850,0,cholesterol efflux,2.7148149880040914e-4,0.1649235253663948
+without_region_chr17_2,TP53,20,847,0,cholesterol efflux,2.7148149880040914e-4,0.16434144233568987
+without_region_chr19_5,APOC1; APOE; ERCC2; TOMM40,18,813,0,mRNA metabolic process,0.0017878422444697925,0.52104007275019
+without_region_chr2_2,APOB,20,870,0,establishment of localization,6.125290333895361e-4,0.38446194758203334
+without_region_chr3_2,PPARG,20,854,0,establishment of localization,6.125290333895361e-4,0.43978237600776315
+without_region_chr3_3,MLH1,20,869,0,cholesterol efflux,2.7148149880040914e-4,0.16861005122752598
+without_region_chr5_1,TERT,20,854,0,cholesterol efflux,2.7148149880040914e-4,0.16569963607400134
+without_region_chr6_3,AGER; C4A; CFB; HLA-B; HLA-C; HLA-DQA1; HLA-DQB1; HLA-DRB1; HLA-DRB5; HSPA1A; HSPA1B; HSPA1L; LTA; TNF,18,790,0,cholesterol efflux,2.0069320558544968e-4,0.13882033955372092
+without_region_chr6_9,FOXO3,20,864,0,cholesterol efflux,2.7148149880040914e-4,0.20429674163893863
+without_region_chr7_5,PON1,20,872,0,establishment of localization,6.125290333895361e-4,0.41221279848779063

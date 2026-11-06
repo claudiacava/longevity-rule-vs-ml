@@ -1,0 +1,5 @@
+decision_unit,n_records,original_assignment,genes_counted_primary_genetic,genes_counted_all_modalities,decision
+G461 (Passtoors et al.),1,40 mTOR-pathway genes,0,7,Pathway-level result; seven single-gene expression results kept for the all-modalities sensitivity analysis only
+G469 (Sebastiani et al.),1,164 genes from a 281-SNP predictive model,1,1,"Model membership not treated as gene-level evidence; only rs2075650 retained and assigned to TOMM40 (already present as record 286 from the same publication, so no additional study unit is created)"
+"APOE allele records (PMIDs 24534555, 24746514)",5,"DBT, DLD and/or UBE4B (aliases E2, E3, E4)",1,1,Reassigned to APOE; counted as single-gene APOE records
+Other multi-gene composite records,61,660 gene assignments; 580 distinct genes,0,0,Not decomposed; retained for audit only. 491 of these genes have no single-gene record and are outside the gene universe

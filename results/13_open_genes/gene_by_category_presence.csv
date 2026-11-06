@@ -1,0 +1,1279 @@
+gene,n_studies,evidence_type,evidence_present,primary_candidate
+ABCA1,1,Age-related molecular change,FALSE,FALSE
+ABCA1,1,Age-related process intervention,FALSE,FALSE
+ABCA1,1,Gene-regulatory evidence,FALSE,FALSE
+ABCA1,1,Human longevity association,FALSE,FALSE
+ABCA1,1,Model-organism lifespan experiment,FALSE,FALSE
+ABCA1,1,Open Genes database annotation,FALSE,FALSE
+ABCC4,1,Age-related molecular change,FALSE,FALSE
+ABCC4,1,Age-related process intervention,FALSE,FALSE
+ABCC4,1,Gene-regulatory evidence,FALSE,FALSE
+ABCC4,1,Human longevity association,FALSE,FALSE
+ABCC4,1,Model-organism lifespan experiment,FALSE,FALSE
+ABCC4,1,Open Genes database annotation,TRUE,FALSE
+ACE,22,Age-related molecular change,FALSE,FALSE
+ACE,22,Age-related process intervention,TRUE,FALSE
+ACE,22,Gene-regulatory evidence,FALSE,FALSE
+ACE,22,Human longevity association,FALSE,FALSE
+ACE,22,Model-organism lifespan experiment,TRUE,FALSE
+ACE,22,Open Genes database annotation,TRUE,FALSE
+ACTN3,1,Age-related molecular change,FALSE,FALSE
+ACTN3,1,Age-related process intervention,FALSE,FALSE
+ACTN3,1,Gene-regulatory evidence,FALSE,FALSE
+ACTN3,1,Human longevity association,FALSE,FALSE
+ACTN3,1,Model-organism lifespan experiment,FALSE,FALSE
+ACTN3,1,Open Genes database annotation,FALSE,FALSE
+ADA,1,Age-related molecular change,FALSE,FALSE
+ADA,1,Age-related process intervention,FALSE,FALSE
+ADA,1,Gene-regulatory evidence,FALSE,FALSE
+ADA,1,Human longevity association,FALSE,FALSE
+ADA,1,Model-organism lifespan experiment,FALSE,FALSE
+ADA,1,Open Genes database annotation,FALSE,FALSE
+ADA2,1,Age-related molecular change,FALSE,FALSE
+ADA2,1,Age-related process intervention,FALSE,FALSE
+ADA2,1,Gene-regulatory evidence,FALSE,FALSE
+ADA2,1,Human longevity association,FALSE,FALSE
+ADA2,1,Model-organism lifespan experiment,FALSE,FALSE
+ADA2,1,Open Genes database annotation,FALSE,FALSE
+ADARB1,1,Age-related molecular change,FALSE,FALSE
+ADARB1,1,Age-related process intervention,FALSE,FALSE
+ADARB1,1,Gene-regulatory evidence,FALSE,FALSE
+ADARB1,1,Human longevity association,FALSE,FALSE
+ADARB1,1,Model-organism lifespan experiment,FALSE,FALSE
+ADARB1,1,Open Genes database annotation,FALSE,FALSE
+ADARB2,1,Age-related molecular change,FALSE,FALSE
+ADARB2,1,Age-related process intervention,FALSE,FALSE
+ADARB2,1,Gene-regulatory evidence,FALSE,FALSE
+ADARB2,1,Human longevity association,FALSE,FALSE
+ADARB2,1,Model-organism lifespan experiment,FALSE,FALSE
+ADARB2,1,Open Genes database annotation,FALSE,FALSE
+ADIPOQ,3,Age-related molecular change,TRUE,FALSE
+ADIPOQ,3,Age-related process intervention,TRUE,FALSE
+ADIPOQ,3,Gene-regulatory evidence,FALSE,FALSE
+ADIPOQ,3,Human longevity association,FALSE,FALSE
+ADIPOQ,3,Model-organism lifespan experiment,FALSE,FALSE
+ADIPOQ,3,Open Genes database annotation,TRUE,FALSE
+ADRB2,2,Age-related molecular change,FALSE,FALSE
+ADRB2,2,Age-related process intervention,FALSE,FALSE
+ADRB2,2,Gene-regulatory evidence,FALSE,FALSE
+ADRB2,2,Human longevity association,FALSE,FALSE
+ADRB2,2,Model-organism lifespan experiment,FALSE,FALSE
+ADRB2,2,Open Genes database annotation,TRUE,FALSE
+AGER,1,Age-related molecular change,TRUE,FALSE
+AGER,1,Age-related process intervention,TRUE,FALSE
+AGER,1,Gene-regulatory evidence,TRUE,FALSE
+AGER,1,Human longevity association,FALSE,FALSE
+AGER,1,Model-organism lifespan experiment,FALSE,FALSE
+AGER,1,Open Genes database annotation,TRUE,FALSE
+AGT,2,Age-related molecular change,TRUE,FALSE
+AGT,2,Age-related process intervention,FALSE,FALSE
+AGT,2,Gene-regulatory evidence,FALSE,FALSE
+AGT,2,Human longevity association,FALSE,FALSE
+AGT,2,Model-organism lifespan experiment,FALSE,FALSE
+AGT,2,Open Genes database annotation,TRUE,FALSE
+AGTR1,1,Age-related molecular change,FALSE,FALSE
+AGTR1,1,Age-related process intervention,TRUE,FALSE
+AGTR1,1,Gene-regulatory evidence,TRUE,FALSE
+AGTR1,1,Human longevity association,FALSE,FALSE
+AGTR1,1,Model-organism lifespan experiment,TRUE,FALSE
+AGTR1,1,Open Genes database annotation,TRUE,FALSE
+AKAP10,1,Age-related molecular change,FALSE,FALSE
+AKAP10,1,Age-related process intervention,FALSE,FALSE
+AKAP10,1,Gene-regulatory evidence,FALSE,FALSE
+AKAP10,1,Human longevity association,FALSE,FALSE
+AKAP10,1,Model-organism lifespan experiment,FALSE,FALSE
+AKAP10,1,Open Genes database annotation,FALSE,FALSE
+AKT1,2,Age-related molecular change,TRUE,FALSE
+AKT1,2,Age-related process intervention,TRUE,FALSE
+AKT1,2,Gene-regulatory evidence,TRUE,FALSE
+AKT1,2,Human longevity association,FALSE,FALSE
+AKT1,2,Model-organism lifespan experiment,TRUE,FALSE
+AKT1,2,Open Genes database annotation,TRUE,FALSE
+APOA1,1,Age-related molecular change,FALSE,FALSE
+APOA1,1,Age-related process intervention,FALSE,FALSE
+APOA1,1,Gene-regulatory evidence,FALSE,FALSE
+APOA1,1,Human longevity association,FALSE,FALSE
+APOA1,1,Model-organism lifespan experiment,FALSE,FALSE
+APOA1,1,Open Genes database annotation,FALSE,FALSE
+APOA4,3,Age-related molecular change,FALSE,FALSE
+APOA4,3,Age-related process intervention,FALSE,FALSE
+APOA4,3,Gene-regulatory evidence,FALSE,FALSE
+APOA4,3,Human longevity association,FALSE,FALSE
+APOA4,3,Model-organism lifespan experiment,FALSE,FALSE
+APOA4,3,Open Genes database annotation,FALSE,FALSE
+APOB,3,Age-related molecular change,FALSE,TRUE
+APOB,3,Age-related process intervention,FALSE,TRUE
+APOB,3,Gene-regulatory evidence,FALSE,TRUE
+APOB,3,Human longevity association,TRUE,TRUE
+APOB,3,Model-organism lifespan experiment,FALSE,TRUE
+APOB,3,Open Genes database annotation,TRUE,TRUE
+APOC1,3,Age-related molecular change,FALSE,TRUE
+APOC1,3,Age-related process intervention,FALSE,TRUE
+APOC1,3,Gene-regulatory evidence,FALSE,TRUE
+APOC1,3,Human longevity association,TRUE,TRUE
+APOC1,3,Model-organism lifespan experiment,FALSE,TRUE
+APOC1,3,Open Genes database annotation,TRUE,TRUE
+APOC3,4,Age-related molecular change,FALSE,TRUE
+APOC3,4,Age-related process intervention,FALSE,TRUE
+APOC3,4,Gene-regulatory evidence,FALSE,TRUE
+APOC3,4,Human longevity association,FALSE,TRUE
+APOC3,4,Model-organism lifespan experiment,FALSE,TRUE
+APOC3,4,Open Genes database annotation,TRUE,TRUE
+APOE,26,Age-related molecular change,FALSE,TRUE
+APOE,26,Age-related process intervention,TRUE,TRUE
+APOE,26,Gene-regulatory evidence,FALSE,TRUE
+APOE,26,Human longevity association,TRUE,TRUE
+APOE,26,Model-organism lifespan experiment,TRUE,TRUE
+APOE,26,Open Genes database annotation,TRUE,TRUE
+ATM,2,Age-related molecular change,TRUE,TRUE
+ATM,2,Age-related process intervention,TRUE,TRUE
+ATM,2,Gene-regulatory evidence,TRUE,TRUE
+ATM,2,Human longevity association,TRUE,TRUE
+ATM,2,Model-organism lifespan experiment,TRUE,TRUE
+ATM,2,Open Genes database annotation,TRUE,TRUE
+ATP8,1,Age-related molecular change,FALSE,FALSE
+ATP8,1,Age-related process intervention,FALSE,FALSE
+ATP8,1,Gene-regulatory evidence,FALSE,FALSE
+ATP8,1,Human longevity association,FALSE,FALSE
+ATP8,1,Model-organism lifespan experiment,FALSE,FALSE
+ATP8,1,Open Genes database annotation,FALSE,FALSE
+ATRIP,1,Age-related molecular change,FALSE,FALSE
+ATRIP,1,Age-related process intervention,FALSE,FALSE
+ATRIP,1,Gene-regulatory evidence,FALSE,FALSE
+ATRIP,1,Human longevity association,FALSE,FALSE
+ATRIP,1,Model-organism lifespan experiment,FALSE,FALSE
+ATRIP,1,Open Genes database annotation,FALSE,FALSE
+BRCA1,1,Age-related molecular change,TRUE,FALSE
+BRCA1,1,Age-related process intervention,TRUE,FALSE
+BRCA1,1,Gene-regulatory evidence,FALSE,FALSE
+BRCA1,1,Human longevity association,TRUE,FALSE
+BRCA1,1,Model-organism lifespan experiment,TRUE,FALSE
+BRCA1,1,Open Genes database annotation,TRUE,FALSE
+BTBD9,1,Age-related molecular change,FALSE,FALSE
+BTBD9,1,Age-related process intervention,FALSE,FALSE
+BTBD9,1,Gene-regulatory evidence,FALSE,FALSE
+BTBD9,1,Human longevity association,FALSE,FALSE
+BTBD9,1,Model-organism lifespan experiment,FALSE,FALSE
+BTBD9,1,Open Genes database annotation,TRUE,FALSE
+C3,1,Age-related molecular change,TRUE,FALSE
+C3,1,Age-related process intervention,FALSE,FALSE
+C3,1,Gene-regulatory evidence,FALSE,FALSE
+C3,1,Human longevity association,TRUE,FALSE
+C3,1,Model-organism lifespan experiment,FALSE,FALSE
+C3,1,Open Genes database annotation,TRUE,FALSE
+C4A,1,Age-related molecular change,TRUE,FALSE
+C4A,1,Age-related process intervention,FALSE,FALSE
+C4A,1,Gene-regulatory evidence,FALSE,FALSE
+C4A,1,Human longevity association,FALSE,FALSE
+C4A,1,Model-organism lifespan experiment,FALSE,FALSE
+C4A,1,Open Genes database annotation,TRUE,FALSE
+C7ORF50,1,Age-related molecular change,FALSE,FALSE
+C7ORF50,1,Age-related process intervention,FALSE,FALSE
+C7ORF50,1,Gene-regulatory evidence,FALSE,FALSE
+C7ORF50,1,Human longevity association,FALSE,FALSE
+C7ORF50,1,Model-organism lifespan experiment,FALSE,FALSE
+C7ORF50,1,Open Genes database annotation,FALSE,FALSE
+CACNA1C,1,Age-related molecular change,FALSE,FALSE
+CACNA1C,1,Age-related process intervention,FALSE,FALSE
+CACNA1C,1,Gene-regulatory evidence,FALSE,FALSE
+CACNA1C,1,Human longevity association,FALSE,FALSE
+CACNA1C,1,Model-organism lifespan experiment,FALSE,FALSE
+CACNA1C,1,Open Genes database annotation,TRUE,FALSE
+CAMK4,1,Age-related molecular change,TRUE,FALSE
+CAMK4,1,Age-related process intervention,FALSE,FALSE
+CAMK4,1,Gene-regulatory evidence,FALSE,FALSE
+CAMK4,1,Human longevity association,FALSE,FALSE
+CAMK4,1,Model-organism lifespan experiment,FALSE,FALSE
+CAMK4,1,Open Genes database annotation,TRUE,FALSE
+CARS,1,Age-related molecular change,FALSE,FALSE
+CARS,1,Age-related process intervention,FALSE,FALSE
+CARS,1,Gene-regulatory evidence,FALSE,FALSE
+CARS,1,Human longevity association,FALSE,FALSE
+CARS,1,Model-organism lifespan experiment,FALSE,FALSE
+CARS,1,Open Genes database annotation,FALSE,FALSE
+CASP5,1,Age-related molecular change,FALSE,FALSE
+CASP5,1,Age-related process intervention,FALSE,FALSE
+CASP5,1,Gene-regulatory evidence,FALSE,FALSE
+CASP5,1,Human longevity association,FALSE,FALSE
+CASP5,1,Model-organism lifespan experiment,FALSE,FALSE
+CASP5,1,Open Genes database annotation,FALSE,FALSE
+CAT,1,Age-related molecular change,TRUE,FALSE
+CAT,1,Age-related process intervention,TRUE,FALSE
+CAT,1,Gene-regulatory evidence,FALSE,FALSE
+CAT,1,Human longevity association,FALSE,FALSE
+CAT,1,Model-organism lifespan experiment,TRUE,FALSE
+CAT,1,Open Genes database annotation,TRUE,FALSE
+CCL5,1,Age-related molecular change,TRUE,FALSE
+CCL5,1,Age-related process intervention,FALSE,FALSE
+CCL5,1,Gene-regulatory evidence,FALSE,FALSE
+CCL5,1,Human longevity association,FALSE,FALSE
+CCL5,1,Model-organism lifespan experiment,FALSE,FALSE
+CCL5,1,Open Genes database annotation,TRUE,FALSE
+CCR5,1,Age-related molecular change,FALSE,FALSE
+CCR5,1,Age-related process intervention,FALSE,FALSE
+CCR5,1,Gene-regulatory evidence,FALSE,FALSE
+CCR5,1,Human longevity association,FALSE,FALSE
+CCR5,1,Model-organism lifespan experiment,FALSE,FALSE
+CCR5,1,Open Genes database annotation,FALSE,FALSE
+CDH4,1,Age-related molecular change,FALSE,FALSE
+CDH4,1,Age-related process intervention,FALSE,FALSE
+CDH4,1,Gene-regulatory evidence,FALSE,FALSE
+CDH4,1,Human longevity association,FALSE,FALSE
+CDH4,1,Model-organism lifespan experiment,FALSE,FALSE
+CDH4,1,Open Genes database annotation,TRUE,FALSE
+CDKN1A,1,Age-related molecular change,TRUE,FALSE
+CDKN1A,1,Age-related process intervention,TRUE,FALSE
+CDKN1A,1,Gene-regulatory evidence,FALSE,FALSE
+CDKN1A,1,Human longevity association,FALSE,FALSE
+CDKN1A,1,Model-organism lifespan experiment,TRUE,FALSE
+CDKN1A,1,Open Genes database annotation,TRUE,FALSE
+CEP128,1,Age-related molecular change,FALSE,FALSE
+CEP128,1,Age-related process intervention,FALSE,FALSE
+CEP128,1,Gene-regulatory evidence,FALSE,FALSE
+CEP128,1,Human longevity association,FALSE,FALSE
+CEP128,1,Model-organism lifespan experiment,FALSE,FALSE
+CEP128,1,Open Genes database annotation,FALSE,FALSE
+CETP,7,Age-related molecular change,FALSE,FALSE
+CETP,7,Age-related process intervention,FALSE,FALSE
+CETP,7,Gene-regulatory evidence,FALSE,FALSE
+CETP,7,Human longevity association,TRUE,FALSE
+CETP,7,Model-organism lifespan experiment,FALSE,FALSE
+CETP,7,Open Genes database annotation,TRUE,FALSE
+CFB,1,Age-related molecular change,FALSE,FALSE
+CFB,1,Age-related process intervention,FALSE,FALSE
+CFB,1,Gene-regulatory evidence,FALSE,FALSE
+CFB,1,Human longevity association,TRUE,FALSE
+CFB,1,Model-organism lifespan experiment,FALSE,FALSE
+CFB,1,Open Genes database annotation,TRUE,FALSE
+CHIT1,1,Age-related molecular change,FALSE,FALSE
+CHIT1,1,Age-related process intervention,FALSE,FALSE
+CHIT1,1,Gene-regulatory evidence,FALSE,FALSE
+CHIT1,1,Human longevity association,FALSE,FALSE
+CHIT1,1,Model-organism lifespan experiment,FALSE,FALSE
+CHIT1,1,Open Genes database annotation,FALSE,FALSE
+CLSTN2,1,Age-related molecular change,FALSE,FALSE
+CLSTN2,1,Age-related process intervention,FALSE,FALSE
+CLSTN2,1,Gene-regulatory evidence,FALSE,FALSE
+CLSTN2,1,Human longevity association,FALSE,FALSE
+CLSTN2,1,Model-organism lifespan experiment,FALSE,FALSE
+CLSTN2,1,Open Genes database annotation,TRUE,FALSE
+CNDP1,1,Age-related molecular change,FALSE,FALSE
+CNDP1,1,Age-related process intervention,FALSE,FALSE
+CNDP1,1,Gene-regulatory evidence,FALSE,FALSE
+CNDP1,1,Human longevity association,FALSE,FALSE
+CNDP1,1,Model-organism lifespan experiment,FALSE,FALSE
+CNDP1,1,Open Genes database annotation,FALSE,FALSE
+CPB2,1,Age-related molecular change,FALSE,FALSE
+CPB2,1,Age-related process intervention,FALSE,FALSE
+CPB2,1,Gene-regulatory evidence,FALSE,FALSE
+CPB2,1,Human longevity association,FALSE,FALSE
+CPB2,1,Model-organism lifespan experiment,FALSE,FALSE
+CPB2,1,Open Genes database annotation,FALSE,FALSE
+CXCL8,1,Age-related molecular change,TRUE,FALSE
+CXCL8,1,Age-related process intervention,FALSE,FALSE
+CXCL8,1,Gene-regulatory evidence,TRUE,FALSE
+CXCL8,1,Human longevity association,FALSE,FALSE
+CXCL8,1,Model-organism lifespan experiment,FALSE,FALSE
+CXCL8,1,Open Genes database annotation,TRUE,FALSE
+CYP19A1,1,Age-related molecular change,FALSE,FALSE
+CYP19A1,1,Age-related process intervention,FALSE,FALSE
+CYP19A1,1,Gene-regulatory evidence,FALSE,FALSE
+CYP19A1,1,Human longevity association,FALSE,FALSE
+CYP19A1,1,Model-organism lifespan experiment,FALSE,FALSE
+CYP19A1,1,Open Genes database annotation,TRUE,FALSE
+CYP1A1,2,Age-related molecular change,FALSE,FALSE
+CYP1A1,2,Age-related process intervention,FALSE,FALSE
+CYP1A1,2,Gene-regulatory evidence,FALSE,FALSE
+CYP1A1,2,Human longevity association,FALSE,FALSE
+CYP1A1,2,Model-organism lifespan experiment,FALSE,FALSE
+CYP1A1,2,Open Genes database annotation,FALSE,FALSE
+CYP1B1,1,Age-related molecular change,TRUE,FALSE
+CYP1B1,1,Age-related process intervention,FALSE,FALSE
+CYP1B1,1,Gene-regulatory evidence,FALSE,FALSE
+CYP1B1,1,Human longevity association,TRUE,FALSE
+CYP1B1,1,Model-organism lifespan experiment,FALSE,FALSE
+CYP1B1,1,Open Genes database annotation,TRUE,FALSE
+CYP2D6,2,Age-related molecular change,FALSE,FALSE
+CYP2D6,2,Age-related process intervention,FALSE,FALSE
+CYP2D6,2,Gene-regulatory evidence,FALSE,FALSE
+CYP2D6,2,Human longevity association,FALSE,FALSE
+CYP2D6,2,Model-organism lifespan experiment,FALSE,FALSE
+CYP2D6,2,Open Genes database annotation,FALSE,FALSE
+CYP2E1,1,Age-related molecular change,FALSE,FALSE
+CYP2E1,1,Age-related process intervention,FALSE,FALSE
+CYP2E1,1,Gene-regulatory evidence,FALSE,FALSE
+CYP2E1,1,Human longevity association,FALSE,FALSE
+CYP2E1,1,Model-organism lifespan experiment,FALSE,FALSE
+CYP2E1,1,Open Genes database annotation,FALSE,FALSE
+DRD4,1,Age-related molecular change,FALSE,FALSE
+DRD4,1,Age-related process intervention,FALSE,FALSE
+DRD4,1,Gene-regulatory evidence,FALSE,FALSE
+DRD4,1,Human longevity association,FALSE,FALSE
+DRD4,1,Model-organism lifespan experiment,FALSE,FALSE
+DRD4,1,Open Genes database annotation,TRUE,FALSE
+EGFR,1,Age-related molecular change,TRUE,FALSE
+EGFR,1,Age-related process intervention,TRUE,FALSE
+EGFR,1,Gene-regulatory evidence,TRUE,FALSE
+EGFR,1,Human longevity association,TRUE,FALSE
+EGFR,1,Model-organism lifespan experiment,FALSE,FALSE
+EGFR,1,Open Genes database annotation,TRUE,FALSE
+ERCC2,1,Age-related molecular change,FALSE,FALSE
+ERCC2,1,Age-related process intervention,TRUE,FALSE
+ERCC2,1,Gene-regulatory evidence,TRUE,FALSE
+ERCC2,1,Human longevity association,TRUE,FALSE
+ERCC2,1,Model-organism lifespan experiment,TRUE,FALSE
+ERCC2,1,Open Genes database annotation,TRUE,FALSE
+ESR1,1,Age-related molecular change,TRUE,FALSE
+ESR1,1,Age-related process intervention,FALSE,FALSE
+ESR1,1,Gene-regulatory evidence,TRUE,FALSE
+ESR1,1,Human longevity association,TRUE,FALSE
+ESR1,1,Model-organism lifespan experiment,FALSE,FALSE
+ESR1,1,Open Genes database annotation,TRUE,FALSE
+EXO1,1,Age-related molecular change,FALSE,FALSE
+EXO1,1,Age-related process intervention,FALSE,FALSE
+EXO1,1,Gene-regulatory evidence,FALSE,FALSE
+EXO1,1,Human longevity association,TRUE,FALSE
+EXO1,1,Model-organism lifespan experiment,FALSE,FALSE
+EXO1,1,Open Genes database annotation,TRUE,FALSE
+F2,3,Age-related molecular change,FALSE,FALSE
+F2,3,Age-related process intervention,FALSE,FALSE
+F2,3,Gene-regulatory evidence,FALSE,FALSE
+F2,3,Human longevity association,FALSE,FALSE
+F2,3,Model-organism lifespan experiment,FALSE,FALSE
+F2,3,Open Genes database annotation,FALSE,FALSE
+F5,1,Age-related molecular change,FALSE,FALSE
+F5,1,Age-related process intervention,FALSE,FALSE
+F5,1,Gene-regulatory evidence,FALSE,FALSE
+F5,1,Human longevity association,FALSE,FALSE
+F5,1,Model-organism lifespan experiment,FALSE,FALSE
+F5,1,Open Genes database annotation,FALSE,FALSE
+F7,4,Age-related molecular change,FALSE,FALSE
+F7,4,Age-related process intervention,FALSE,FALSE
+F7,4,Gene-regulatory evidence,FALSE,FALSE
+F7,4,Human longevity association,FALSE,FALSE
+F7,4,Model-organism lifespan experiment,FALSE,FALSE
+F7,4,Open Genes database annotation,FALSE,FALSE
+FAM19A5,1,Age-related molecular change,FALSE,FALSE
+FAM19A5,1,Age-related process intervention,FALSE,FALSE
+FAM19A5,1,Gene-regulatory evidence,FALSE,FALSE
+FAM19A5,1,Human longevity association,FALSE,FALSE
+FAM19A5,1,Model-organism lifespan experiment,FALSE,FALSE
+FAM19A5,1,Open Genes database annotation,FALSE,FALSE
+FAS,1,Age-related molecular change,TRUE,FALSE
+FAS,1,Age-related process intervention,FALSE,FALSE
+FAS,1,Gene-regulatory evidence,FALSE,FALSE
+FAS,1,Human longevity association,FALSE,FALSE
+FAS,1,Model-organism lifespan experiment,FALSE,FALSE
+FAS,1,Open Genes database annotation,TRUE,FALSE
+FASLG,1,Age-related molecular change,FALSE,FALSE
+FASLG,1,Age-related process intervention,FALSE,FALSE
+FASLG,1,Gene-regulatory evidence,FALSE,FALSE
+FASLG,1,Human longevity association,FALSE,FALSE
+FASLG,1,Model-organism lifespan experiment,FALSE,FALSE
+FASLG,1,Open Genes database annotation,FALSE,FALSE
+FCGR2A,1,Age-related molecular change,TRUE,FALSE
+FCGR2A,1,Age-related process intervention,FALSE,FALSE
+FCGR2A,1,Gene-regulatory evidence,FALSE,FALSE
+FCGR2A,1,Human longevity association,FALSE,FALSE
+FCGR2A,1,Model-organism lifespan experiment,FALSE,FALSE
+FCGR2A,1,Open Genes database annotation,TRUE,FALSE
+FGB,4,Age-related molecular change,FALSE,FALSE
+FGB,4,Age-related process intervention,FALSE,FALSE
+FGB,4,Gene-regulatory evidence,FALSE,FALSE
+FGB,4,Human longevity association,FALSE,FALSE
+FGB,4,Model-organism lifespan experiment,FALSE,FALSE
+FGB,4,Open Genes database annotation,FALSE,FALSE
+FOXO1,4,Age-related molecular change,TRUE,FALSE
+FOXO1,4,Age-related process intervention,FALSE,FALSE
+FOXO1,4,Gene-regulatory evidence,TRUE,FALSE
+FOXO1,4,Human longevity association,TRUE,FALSE
+FOXO1,4,Model-organism lifespan experiment,TRUE,FALSE
+FOXO1,4,Open Genes database annotation,TRUE,FALSE
+FOXO3,8,Age-related molecular change,TRUE,TRUE
+FOXO3,8,Age-related process intervention,TRUE,TRUE
+FOXO3,8,Gene-regulatory evidence,TRUE,TRUE
+FOXO3,8,Human longevity association,TRUE,TRUE
+FOXO3,8,Model-organism lifespan experiment,TRUE,TRUE
+FOXO3,8,Open Genes database annotation,TRUE,TRUE
+GH1,1,Age-related molecular change,TRUE,FALSE
+GH1,1,Age-related process intervention,TRUE,FALSE
+GH1,1,Gene-regulatory evidence,TRUE,FALSE
+GH1,1,Human longevity association,FALSE,FALSE
+GH1,1,Model-organism lifespan experiment,TRUE,FALSE
+GH1,1,Open Genes database annotation,TRUE,FALSE
+GHRHR,2,Age-related molecular change,TRUE,FALSE
+GHRHR,2,Age-related process intervention,FALSE,FALSE
+GHRHR,2,Gene-regulatory evidence,FALSE,FALSE
+GHRHR,2,Human longevity association,TRUE,FALSE
+GHRHR,2,Model-organism lifespan experiment,TRUE,FALSE
+GHRHR,2,Open Genes database annotation,TRUE,FALSE
+GHRL,1,Age-related molecular change,FALSE,FALSE
+GHRL,1,Age-related process intervention,FALSE,FALSE
+GHRL,1,Gene-regulatory evidence,FALSE,FALSE
+GHRL,1,Human longevity association,TRUE,FALSE
+GHRL,1,Model-organism lifespan experiment,FALSE,FALSE
+GHRL,1,Open Genes database annotation,TRUE,FALSE
+GHSR,1,Age-related molecular change,FALSE,FALSE
+GHSR,1,Age-related process intervention,FALSE,FALSE
+GHSR,1,Gene-regulatory evidence,FALSE,FALSE
+GHSR,1,Human longevity association,TRUE,FALSE
+GHSR,1,Model-organism lifespan experiment,FALSE,FALSE
+GHSR,1,Open Genes database annotation,TRUE,FALSE
+GP1BA,1,Age-related molecular change,FALSE,FALSE
+GP1BA,1,Age-related process intervention,FALSE,FALSE
+GP1BA,1,Gene-regulatory evidence,FALSE,FALSE
+GP1BA,1,Human longevity association,FALSE,FALSE
+GP1BA,1,Model-organism lifespan experiment,FALSE,FALSE
+GP1BA,1,Open Genes database annotation,FALSE,FALSE
+GPX1,1,Age-related molecular change,TRUE,FALSE
+GPX1,1,Age-related process intervention,TRUE,FALSE
+GPX1,1,Gene-regulatory evidence,FALSE,FALSE
+GPX1,1,Human longevity association,TRUE,FALSE
+GPX1,1,Model-organism lifespan experiment,FALSE,FALSE
+GPX1,1,Open Genes database annotation,TRUE,FALSE
+GSR,1,Age-related molecular change,TRUE,FALSE
+GSR,1,Age-related process intervention,FALSE,FALSE
+GSR,1,Gene-regulatory evidence,FALSE,FALSE
+GSR,1,Human longevity association,FALSE,FALSE
+GSR,1,Model-organism lifespan experiment,TRUE,FALSE
+GSR,1,Open Genes database annotation,TRUE,FALSE
+GSTM1,4,Age-related molecular change,FALSE,FALSE
+GSTM1,4,Age-related process intervention,FALSE,FALSE
+GSTM1,4,Gene-regulatory evidence,FALSE,FALSE
+GSTM1,4,Human longevity association,FALSE,FALSE
+GSTM1,4,Model-organism lifespan experiment,FALSE,FALSE
+GSTM1,4,Open Genes database annotation,FALSE,FALSE
+GSTP1,1,Age-related molecular change,TRUE,FALSE
+GSTP1,1,Age-related process intervention,FALSE,FALSE
+GSTP1,1,Gene-regulatory evidence,FALSE,FALSE
+GSTP1,1,Human longevity association,FALSE,FALSE
+GSTP1,1,Model-organism lifespan experiment,TRUE,FALSE
+GSTP1,1,Open Genes database annotation,TRUE,FALSE
+GSTT1,3,Age-related molecular change,FALSE,TRUE
+GSTT1,3,Age-related process intervention,FALSE,TRUE
+GSTT1,3,Gene-regulatory evidence,FALSE,TRUE
+GSTT1,3,Human longevity association,FALSE,TRUE
+GSTT1,3,Model-organism lifespan experiment,FALSE,TRUE
+GSTT1,3,Open Genes database annotation,FALSE,TRUE
+GSTZ1,1,Age-related molecular change,FALSE,FALSE
+GSTZ1,1,Age-related process intervention,FALSE,FALSE
+GSTZ1,1,Gene-regulatory evidence,FALSE,FALSE
+GSTZ1,1,Human longevity association,FALSE,FALSE
+GSTZ1,1,Model-organism lifespan experiment,FALSE,FALSE
+GSTZ1,1,Open Genes database annotation,TRUE,FALSE
+H2AFX,1,Age-related molecular change,FALSE,FALSE
+H2AFX,1,Age-related process intervention,FALSE,FALSE
+H2AFX,1,Gene-regulatory evidence,FALSE,FALSE
+H2AFX,1,Human longevity association,FALSE,FALSE
+H2AFX,1,Model-organism lifespan experiment,FALSE,FALSE
+H2AFX,1,Open Genes database annotation,FALSE,FALSE
+HFE,3,Age-related molecular change,FALSE,FALSE
+HFE,3,Age-related process intervention,FALSE,FALSE
+HFE,3,Gene-regulatory evidence,FALSE,FALSE
+HFE,3,Human longevity association,FALSE,FALSE
+HFE,3,Model-organism lifespan experiment,FALSE,FALSE
+HFE,3,Open Genes database annotation,FALSE,FALSE
+HLA-A,2,Age-related molecular change,FALSE,FALSE
+HLA-A,2,Age-related process intervention,FALSE,FALSE
+HLA-A,2,Gene-regulatory evidence,FALSE,FALSE
+HLA-A,2,Human longevity association,FALSE,FALSE
+HLA-A,2,Model-organism lifespan experiment,FALSE,FALSE
+HLA-A,2,Open Genes database annotation,FALSE,FALSE
+HLA-B,4,Age-related molecular change,TRUE,FALSE
+HLA-B,4,Age-related process intervention,FALSE,FALSE
+HLA-B,4,Gene-regulatory evidence,FALSE,FALSE
+HLA-B,4,Human longevity association,FALSE,FALSE
+HLA-B,4,Model-organism lifespan experiment,FALSE,FALSE
+HLA-B,4,Open Genes database annotation,TRUE,FALSE
+HLA-C,1,Age-related molecular change,TRUE,FALSE
+HLA-C,1,Age-related process intervention,FALSE,FALSE
+HLA-C,1,Gene-regulatory evidence,FALSE,FALSE
+HLA-C,1,Human longevity association,FALSE,FALSE
+HLA-C,1,Model-organism lifespan experiment,FALSE,FALSE
+HLA-C,1,Open Genes database annotation,TRUE,FALSE
+HLA-DQA1,4,Age-related molecular change,TRUE,FALSE
+HLA-DQA1,4,Age-related process intervention,FALSE,FALSE
+HLA-DQA1,4,Gene-regulatory evidence,FALSE,FALSE
+HLA-DQA1,4,Human longevity association,TRUE,FALSE
+HLA-DQA1,4,Model-organism lifespan experiment,FALSE,FALSE
+HLA-DQA1,4,Open Genes database annotation,TRUE,FALSE
+HLA-DQB1,3,Age-related molecular change,TRUE,FALSE
+HLA-DQB1,3,Age-related process intervention,FALSE,FALSE
+HLA-DQB1,3,Gene-regulatory evidence,FALSE,FALSE
+HLA-DQB1,3,Human longevity association,TRUE,FALSE
+HLA-DQB1,3,Model-organism lifespan experiment,FALSE,FALSE
+HLA-DQB1,3,Open Genes database annotation,TRUE,FALSE
+HLA-DRB1,6,Age-related molecular change,TRUE,TRUE
+HLA-DRB1,6,Age-related process intervention,FALSE,TRUE
+HLA-DRB1,6,Gene-regulatory evidence,FALSE,TRUE
+HLA-DRB1,6,Human longevity association,TRUE,TRUE
+HLA-DRB1,6,Model-organism lifespan experiment,FALSE,TRUE
+HLA-DRB1,6,Open Genes database annotation,TRUE,TRUE
+HLA-DRB3,1,Age-related molecular change,TRUE,FALSE
+HLA-DRB3,1,Age-related process intervention,FALSE,FALSE
+HLA-DRB3,1,Gene-regulatory evidence,FALSE,FALSE
+HLA-DRB3,1,Human longevity association,FALSE,FALSE
+HLA-DRB3,1,Model-organism lifespan experiment,FALSE,FALSE
+HLA-DRB3,1,Open Genes database annotation,TRUE,FALSE
+HLA-DRB5,1,Age-related molecular change,TRUE,FALSE
+HLA-DRB5,1,Age-related process intervention,FALSE,FALSE
+HLA-DRB5,1,Gene-regulatory evidence,FALSE,FALSE
+HLA-DRB5,1,Human longevity association,FALSE,FALSE
+HLA-DRB5,1,Model-organism lifespan experiment,FALSE,FALSE
+HLA-DRB5,1,Open Genes database annotation,TRUE,FALSE
+HMOX1,1,Age-related molecular change,FALSE,FALSE
+HMOX1,1,Age-related process intervention,FALSE,FALSE
+HMOX1,1,Gene-regulatory evidence,FALSE,FALSE
+HMOX1,1,Human longevity association,FALSE,FALSE
+HMOX1,1,Model-organism lifespan experiment,FALSE,FALSE
+HMOX1,1,Open Genes database annotation,FALSE,FALSE
+HP,1,Age-related molecular change,TRUE,FALSE
+HP,1,Age-related process intervention,FALSE,FALSE
+HP,1,Gene-regulatory evidence,FALSE,FALSE
+HP,1,Human longevity association,TRUE,FALSE
+HP,1,Model-organism lifespan experiment,FALSE,FALSE
+HP,1,Open Genes database annotation,TRUE,FALSE
+HPCAL1,1,Age-related molecular change,FALSE,FALSE
+HPCAL1,1,Age-related process intervention,FALSE,FALSE
+HPCAL1,1,Gene-regulatory evidence,FALSE,FALSE
+HPCAL1,1,Human longevity association,FALSE,FALSE
+HPCAL1,1,Model-organism lifespan experiment,FALSE,FALSE
+HPCAL1,1,Open Genes database annotation,TRUE,FALSE
+HSPA14,1,Age-related molecular change,FALSE,FALSE
+HSPA14,1,Age-related process intervention,FALSE,FALSE
+HSPA14,1,Gene-regulatory evidence,FALSE,FALSE
+HSPA14,1,Human longevity association,FALSE,FALSE
+HSPA14,1,Model-organism lifespan experiment,FALSE,FALSE
+HSPA14,1,Open Genes database annotation,TRUE,FALSE
+HSPA1A,3,Age-related molecular change,TRUE,TRUE
+HSPA1A,3,Age-related process intervention,TRUE,TRUE
+HSPA1A,3,Gene-regulatory evidence,FALSE,TRUE
+HSPA1A,3,Human longevity association,FALSE,TRUE
+HSPA1A,3,Model-organism lifespan experiment,TRUE,TRUE
+HSPA1A,3,Open Genes database annotation,TRUE,TRUE
+HSPA1B,1,Age-related molecular change,TRUE,FALSE
+HSPA1B,1,Age-related process intervention,TRUE,FALSE
+HSPA1B,1,Gene-regulatory evidence,FALSE,FALSE
+HSPA1B,1,Human longevity association,FALSE,FALSE
+HSPA1B,1,Model-organism lifespan experiment,TRUE,FALSE
+HSPA1B,1,Open Genes database annotation,TRUE,FALSE
+HSPA1L,3,Age-related molecular change,FALSE,TRUE
+HSPA1L,3,Age-related process intervention,FALSE,TRUE
+HSPA1L,3,Gene-regulatory evidence,FALSE,TRUE
+HSPA1L,3,Human longevity association,FALSE,TRUE
+HSPA1L,3,Model-organism lifespan experiment,FALSE,TRUE
+HSPA1L,3,Open Genes database annotation,FALSE,TRUE
+IFNG,5,Age-related molecular change,TRUE,FALSE
+IFNG,5,Age-related process intervention,FALSE,FALSE
+IFNG,5,Gene-regulatory evidence,TRUE,FALSE
+IFNG,5,Human longevity association,FALSE,FALSE
+IFNG,5,Model-organism lifespan experiment,FALSE,FALSE
+IFNG,5,Open Genes database annotation,TRUE,FALSE
+IGF1,4,Age-related molecular change,TRUE,FALSE
+IGF1,4,Age-related process intervention,TRUE,FALSE
+IGF1,4,Gene-regulatory evidence,TRUE,FALSE
+IGF1,4,Human longevity association,TRUE,FALSE
+IGF1,4,Model-organism lifespan experiment,TRUE,FALSE
+IGF1,4,Open Genes database annotation,TRUE,FALSE
+IGF1R,3,Age-related molecular change,TRUE,TRUE
+IGF1R,3,Age-related process intervention,TRUE,TRUE
+IGF1R,3,Gene-regulatory evidence,TRUE,TRUE
+IGF1R,3,Human longevity association,TRUE,TRUE
+IGF1R,3,Model-organism lifespan experiment,TRUE,TRUE
+IGF1R,3,Open Genes database annotation,TRUE,TRUE
+IGF2,2,Age-related molecular change,TRUE,FALSE
+IGF2,2,Age-related process intervention,FALSE,FALSE
+IGF2,2,Gene-regulatory evidence,FALSE,FALSE
+IGF2,2,Human longevity association,FALSE,FALSE
+IGF2,2,Model-organism lifespan experiment,TRUE,FALSE
+IGF2,2,Open Genes database annotation,TRUE,FALSE
+IGF2R,1,Age-related molecular change,FALSE,FALSE
+IGF2R,1,Age-related process intervention,FALSE,FALSE
+IGF2R,1,Gene-regulatory evidence,FALSE,FALSE
+IGF2R,1,Human longevity association,TRUE,FALSE
+IGF2R,1,Model-organism lifespan experiment,FALSE,FALSE
+IGF2R,1,Open Genes database annotation,TRUE,FALSE
+IL10,8,Age-related molecular change,FALSE,FALSE
+IL10,8,Age-related process intervention,FALSE,FALSE
+IL10,8,Gene-regulatory evidence,FALSE,FALSE
+IL10,8,Human longevity association,FALSE,FALSE
+IL10,8,Model-organism lifespan experiment,FALSE,FALSE
+IL10,8,Open Genes database annotation,FALSE,FALSE
+IL12A,1,Age-related molecular change,FALSE,FALSE
+IL12A,1,Age-related process intervention,FALSE,FALSE
+IL12A,1,Gene-regulatory evidence,FALSE,FALSE
+IL12A,1,Human longevity association,FALSE,FALSE
+IL12A,1,Model-organism lifespan experiment,FALSE,FALSE
+IL12A,1,Open Genes database annotation,FALSE,FALSE
+IL18,2,Age-related molecular change,TRUE,FALSE
+IL18,2,Age-related process intervention,FALSE,FALSE
+IL18,2,Gene-regulatory evidence,FALSE,FALSE
+IL18,2,Human longevity association,FALSE,FALSE
+IL18,2,Model-organism lifespan experiment,FALSE,FALSE
+IL18,2,Open Genes database annotation,TRUE,FALSE
+IL1A,2,Age-related molecular change,FALSE,FALSE
+IL1A,2,Age-related process intervention,FALSE,FALSE
+IL1A,2,Gene-regulatory evidence,FALSE,FALSE
+IL1A,2,Human longevity association,FALSE,FALSE
+IL1A,2,Model-organism lifespan experiment,FALSE,FALSE
+IL1A,2,Open Genes database annotation,FALSE,FALSE
+IL1B,3,Age-related molecular change,FALSE,FALSE
+IL1B,3,Age-related process intervention,FALSE,FALSE
+IL1B,3,Gene-regulatory evidence,FALSE,FALSE
+IL1B,3,Human longevity association,TRUE,FALSE
+IL1B,3,Model-organism lifespan experiment,FALSE,FALSE
+IL1B,3,Open Genes database annotation,TRUE,FALSE
+IL1RN,2,Age-related molecular change,FALSE,FALSE
+IL1RN,2,Age-related process intervention,FALSE,FALSE
+IL1RN,2,Gene-regulatory evidence,FALSE,FALSE
+IL1RN,2,Human longevity association,TRUE,FALSE
+IL1RN,2,Model-organism lifespan experiment,FALSE,FALSE
+IL1RN,2,Open Genes database annotation,TRUE,FALSE
+IL2,2,Age-related molecular change,TRUE,FALSE
+IL2,2,Age-related process intervention,FALSE,FALSE
+IL2,2,Gene-regulatory evidence,FALSE,FALSE
+IL2,2,Human longevity association,FALSE,FALSE
+IL2,2,Model-organism lifespan experiment,TRUE,FALSE
+IL2,2,Open Genes database annotation,TRUE,FALSE
+IL6,15,Age-related molecular change,TRUE,FALSE
+IL6,15,Age-related process intervention,TRUE,FALSE
+IL6,15,Gene-regulatory evidence,FALSE,FALSE
+IL6,15,Human longevity association,TRUE,FALSE
+IL6,15,Model-organism lifespan experiment,FALSE,FALSE
+IL6,15,Open Genes database annotation,TRUE,FALSE
+IL6R,1,Age-related molecular change,FALSE,FALSE
+IL6R,1,Age-related process intervention,FALSE,FALSE
+IL6R,1,Gene-regulatory evidence,FALSE,FALSE
+IL6R,1,Human longevity association,FALSE,FALSE
+IL6R,1,Model-organism lifespan experiment,FALSE,FALSE
+IL6R,1,Open Genes database annotation,FALSE,FALSE
+INS,3,Age-related molecular change,FALSE,FALSE
+INS,3,Age-related process intervention,FALSE,FALSE
+INS,3,Gene-regulatory evidence,TRUE,FALSE
+INS,3,Human longevity association,TRUE,FALSE
+INS,3,Model-organism lifespan experiment,TRUE,FALSE
+INS,3,Open Genes database annotation,TRUE,FALSE
+INSR,1,Age-related molecular change,TRUE,FALSE
+INSR,1,Age-related process intervention,TRUE,FALSE
+INSR,1,Gene-regulatory evidence,FALSE,FALSE
+INSR,1,Human longevity association,TRUE,FALSE
+INSR,1,Model-organism lifespan experiment,TRUE,FALSE
+INSR,1,Open Genes database annotation,TRUE,FALSE
+IRS1,3,Age-related molecular change,TRUE,FALSE
+IRS1,3,Age-related process intervention,TRUE,FALSE
+IRS1,3,Gene-regulatory evidence,TRUE,FALSE
+IRS1,3,Human longevity association,TRUE,FALSE
+IRS1,3,Model-organism lifespan experiment,TRUE,FALSE
+IRS1,3,Open Genes database annotation,TRUE,FALSE
+IRS2,1,Age-related molecular change,TRUE,FALSE
+IRS2,1,Age-related process intervention,TRUE,FALSE
+IRS2,1,Gene-regulatory evidence,FALSE,FALSE
+IRS2,1,Human longevity association,TRUE,FALSE
+IRS2,1,Model-organism lifespan experiment,TRUE,FALSE
+IRS2,1,Open Genes database annotation,TRUE,FALSE
+ITGA2,1,Age-related molecular change,TRUE,FALSE
+ITGA2,1,Age-related process intervention,FALSE,FALSE
+ITGA2,1,Gene-regulatory evidence,FALSE,FALSE
+ITGA2,1,Human longevity association,FALSE,FALSE
+ITGA2,1,Model-organism lifespan experiment,FALSE,FALSE
+ITGA2,1,Open Genes database annotation,TRUE,FALSE
+ITGB3,2,Age-related molecular change,TRUE,FALSE
+ITGB3,2,Age-related process intervention,TRUE,FALSE
+ITGB3,2,Gene-regulatory evidence,FALSE,FALSE
+ITGB3,2,Human longevity association,FALSE,FALSE
+ITGB3,2,Model-organism lifespan experiment,FALSE,FALSE
+ITGB3,2,Open Genes database annotation,TRUE,FALSE
+KIR3DL1,2,Age-related molecular change,FALSE,FALSE
+KIR3DL1,2,Age-related process intervention,FALSE,FALSE
+KIR3DL1,2,Gene-regulatory evidence,FALSE,FALSE
+KIR3DL1,2,Human longevity association,FALSE,FALSE
+KIR3DL1,2,Model-organism lifespan experiment,FALSE,FALSE
+KIR3DL1,2,Open Genes database annotation,FALSE,FALSE
+KL,4,Age-related molecular change,TRUE,TRUE
+KL,4,Age-related process intervention,TRUE,TRUE
+KL,4,Gene-regulatory evidence,TRUE,TRUE
+KL,4,Human longevity association,TRUE,TRUE
+KL,4,Model-organism lifespan experiment,TRUE,TRUE
+KL,4,Open Genes database annotation,TRUE,TRUE
+LINC01237,1,Age-related molecular change,FALSE,FALSE
+LINC01237,1,Age-related process intervention,FALSE,FALSE
+LINC01237,1,Gene-regulatory evidence,FALSE,FALSE
+LINC01237,1,Human longevity association,FALSE,FALSE
+LINC01237,1,Model-organism lifespan experiment,FALSE,FALSE
+LINC01237,1,Open Genes database annotation,FALSE,FALSE
+LINC02227,1,Age-related molecular change,FALSE,FALSE
+LINC02227,1,Age-related process intervention,FALSE,FALSE
+LINC02227,1,Gene-regulatory evidence,FALSE,FALSE
+LINC02227,1,Human longevity association,FALSE,FALSE
+LINC02227,1,Model-organism lifespan experiment,FALSE,FALSE
+LINC02227,1,Open Genes database annotation,FALSE,FALSE
+LIPC,1,Age-related molecular change,FALSE,FALSE
+LIPC,1,Age-related process intervention,FALSE,FALSE
+LIPC,1,Gene-regulatory evidence,FALSE,FALSE
+LIPC,1,Human longevity association,FALSE,FALSE
+LIPC,1,Model-organism lifespan experiment,FALSE,FALSE
+LIPC,1,Open Genes database annotation,FALSE,FALSE
+LOC100631378,1,Age-related molecular change,FALSE,FALSE
+LOC100631378,1,Age-related process intervention,FALSE,FALSE
+LOC100631378,1,Gene-regulatory evidence,FALSE,FALSE
+LOC100631378,1,Human longevity association,FALSE,FALSE
+LOC100631378,1,Model-organism lifespan experiment,FALSE,FALSE
+LOC100631378,1,Open Genes database annotation,FALSE,FALSE
+LOC105375494,1,Age-related molecular change,FALSE,FALSE
+LOC105375494,1,Age-related process intervention,FALSE,FALSE
+LOC105375494,1,Gene-regulatory evidence,FALSE,FALSE
+LOC105375494,1,Human longevity association,FALSE,FALSE
+LOC105375494,1,Model-organism lifespan experiment,FALSE,FALSE
+LOC105375494,1,Open Genes database annotation,FALSE,FALSE
+LOC105378102,1,Age-related molecular change,FALSE,FALSE
+LOC105378102,1,Age-related process intervention,FALSE,FALSE
+LOC105378102,1,Gene-regulatory evidence,FALSE,FALSE
+LOC105378102,1,Human longevity association,FALSE,FALSE
+LOC105378102,1,Model-organism lifespan experiment,FALSE,FALSE
+LOC105378102,1,Open Genes database annotation,FALSE,FALSE
+LOC107987209,1,Age-related molecular change,FALSE,FALSE
+LOC107987209,1,Age-related process intervention,FALSE,FALSE
+LOC107987209,1,Gene-regulatory evidence,FALSE,FALSE
+LOC107987209,1,Human longevity association,FALSE,FALSE
+LOC107987209,1,Model-organism lifespan experiment,FALSE,FALSE
+LOC107987209,1,Open Genes database annotation,FALSE,FALSE
+LPL,1,Age-related molecular change,FALSE,FALSE
+LPL,1,Age-related process intervention,FALSE,FALSE
+LPL,1,Gene-regulatory evidence,FALSE,FALSE
+LPL,1,Human longevity association,FALSE,FALSE
+LPL,1,Model-organism lifespan experiment,FALSE,FALSE
+LPL,1,Open Genes database annotation,FALSE,FALSE
+LTA,1,Age-related molecular change,FALSE,FALSE
+LTA,1,Age-related process intervention,FALSE,FALSE
+LTA,1,Gene-regulatory evidence,FALSE,FALSE
+LTA,1,Human longevity association,FALSE,FALSE
+LTA,1,Model-organism lifespan experiment,FALSE,FALSE
+LTA,1,Open Genes database annotation,FALSE,FALSE
+LYN,1,Age-related molecular change,FALSE,FALSE
+LYN,1,Age-related process intervention,FALSE,FALSE
+LYN,1,Gene-regulatory evidence,FALSE,FALSE
+LYN,1,Human longevity association,FALSE,FALSE
+LYN,1,Model-organism lifespan experiment,FALSE,FALSE
+LYN,1,Open Genes database annotation,FALSE,FALSE
+MAP3K7,1,Age-related molecular change,FALSE,FALSE
+MAP3K7,1,Age-related process intervention,FALSE,FALSE
+MAP3K7,1,Gene-regulatory evidence,FALSE,FALSE
+MAP3K7,1,Human longevity association,FALSE,FALSE
+MAP3K7,1,Model-organism lifespan experiment,FALSE,FALSE
+MAP3K7,1,Open Genes database annotation,TRUE,FALSE
+MEFV,1,Age-related molecular change,FALSE,FALSE
+MEFV,1,Age-related process intervention,FALSE,FALSE
+MEFV,1,Gene-regulatory evidence,FALSE,FALSE
+MEFV,1,Human longevity association,FALSE,FALSE
+MEFV,1,Model-organism lifespan experiment,FALSE,FALSE
+MEFV,1,Open Genes database annotation,FALSE,FALSE
+MINPP1,1,Age-related molecular change,FALSE,FALSE
+MINPP1,1,Age-related process intervention,FALSE,FALSE
+MINPP1,1,Gene-regulatory evidence,FALSE,FALSE
+MINPP1,1,Human longevity association,FALSE,FALSE
+MINPP1,1,Model-organism lifespan experiment,FALSE,FALSE
+MINPP1,1,Open Genes database annotation,FALSE,FALSE
+MLH1,2,Age-related molecular change,TRUE,TRUE
+MLH1,2,Age-related process intervention,FALSE,TRUE
+MLH1,2,Gene-regulatory evidence,FALSE,TRUE
+MLH1,2,Human longevity association,FALSE,TRUE
+MLH1,2,Model-organism lifespan experiment,FALSE,TRUE
+MLH1,2,Open Genes database annotation,TRUE,TRUE
+MMP1,1,Age-related molecular change,TRUE,FALSE
+MMP1,1,Age-related process intervention,FALSE,FALSE
+MMP1,1,Gene-regulatory evidence,FALSE,FALSE
+MMP1,1,Human longevity association,TRUE,FALSE
+MMP1,1,Model-organism lifespan experiment,FALSE,FALSE
+MMP1,1,Open Genes database annotation,TRUE,FALSE
+MMP3,1,Age-related molecular change,TRUE,FALSE
+MMP3,1,Age-related process intervention,FALSE,FALSE
+MMP3,1,Gene-regulatory evidence,FALSE,FALSE
+MMP3,1,Human longevity association,TRUE,FALSE
+MMP3,1,Model-organism lifespan experiment,FALSE,FALSE
+MMP3,1,Open Genes database annotation,TRUE,FALSE
+MSTN,1,Age-related molecular change,FALSE,FALSE
+MSTN,1,Age-related process intervention,TRUE,FALSE
+MSTN,1,Gene-regulatory evidence,FALSE,FALSE
+MSTN,1,Human longevity association,FALSE,FALSE
+MSTN,1,Model-organism lifespan experiment,TRUE,FALSE
+MSTN,1,Open Genes database annotation,TRUE,FALSE
+MT1A,1,Age-related molecular change,FALSE,FALSE
+MT1A,1,Age-related process intervention,FALSE,FALSE
+MT1A,1,Gene-regulatory evidence,FALSE,FALSE
+MT1A,1,Human longevity association,FALSE,FALSE
+MT1A,1,Model-organism lifespan experiment,FALSE,FALSE
+MT1A,1,Open Genes database annotation,FALSE,FALSE
+MT2A,1,Age-related molecular change,TRUE,FALSE
+MT2A,1,Age-related process intervention,FALSE,FALSE
+MT2A,1,Gene-regulatory evidence,FALSE,FALSE
+MT2A,1,Human longevity association,FALSE,FALSE
+MT2A,1,Model-organism lifespan experiment,FALSE,FALSE
+MT2A,1,Open Genes database annotation,TRUE,FALSE
+MTHFR,7,Age-related molecular change,TRUE,FALSE
+MTHFR,7,Age-related process intervention,TRUE,FALSE
+MTHFR,7,Gene-regulatory evidence,FALSE,FALSE
+MTHFR,7,Human longevity association,TRUE,FALSE
+MTHFR,7,Model-organism lifespan experiment,FALSE,FALSE
+MTHFR,7,Open Genes database annotation,TRUE,FALSE
+MTR,1,Age-related molecular change,TRUE,FALSE
+MTR,1,Age-related process intervention,FALSE,FALSE
+MTR,1,Gene-regulatory evidence,FALSE,FALSE
+MTR,1,Human longevity association,TRUE,FALSE
+MTR,1,Model-organism lifespan experiment,FALSE,FALSE
+MTR,1,Open Genes database annotation,TRUE,FALSE
+MTTP,4,Age-related molecular change,FALSE,FALSE
+MTTP,4,Age-related process intervention,FALSE,FALSE
+MTTP,4,Gene-regulatory evidence,FALSE,FALSE
+MTTP,4,Human longevity association,FALSE,FALSE
+MTTP,4,Model-organism lifespan experiment,FALSE,FALSE
+MTTP,4,Open Genes database annotation,TRUE,FALSE
+NAT2,2,Age-related molecular change,FALSE,FALSE
+NAT2,2,Age-related process intervention,FALSE,FALSE
+NAT2,2,Gene-regulatory evidence,FALSE,FALSE
+NAT2,2,Human longevity association,FALSE,FALSE
+NAT2,2,Model-organism lifespan experiment,FALSE,FALSE
+NAT2,2,Open Genes database annotation,FALSE,FALSE
+NCAM2,1,Age-related molecular change,FALSE,FALSE
+NCAM2,1,Age-related process intervention,FALSE,FALSE
+NCAM2,1,Gene-regulatory evidence,FALSE,FALSE
+NCAM2,1,Human longevity association,FALSE,FALSE
+NCAM2,1,Model-organism lifespan experiment,FALSE,FALSE
+NCAM2,1,Open Genes database annotation,TRUE,FALSE
+ND2,2,Age-related molecular change,FALSE,FALSE
+ND2,2,Age-related process intervention,FALSE,FALSE
+ND2,2,Gene-regulatory evidence,FALSE,FALSE
+ND2,2,Human longevity association,FALSE,FALSE
+ND2,2,Model-organism lifespan experiment,FALSE,FALSE
+ND2,2,Open Genes database annotation,FALSE,FALSE
+ND5,1,Age-related molecular change,FALSE,FALSE
+ND5,1,Age-related process intervention,FALSE,FALSE
+ND5,1,Gene-regulatory evidence,FALSE,FALSE
+ND5,1,Human longevity association,FALSE,FALSE
+ND5,1,Model-organism lifespan experiment,FALSE,FALSE
+ND5,1,Open Genes database annotation,FALSE,FALSE
+NDUFS1,1,Age-related molecular change,FALSE,FALSE
+NDUFS1,1,Age-related process intervention,FALSE,FALSE
+NDUFS1,1,Gene-regulatory evidence,FALSE,FALSE
+NDUFS1,1,Human longevity association,FALSE,FALSE
+NDUFS1,1,Model-organism lifespan experiment,FALSE,FALSE
+NDUFS1,1,Open Genes database annotation,FALSE,FALSE
+NLRC5,1,Age-related molecular change,FALSE,FALSE
+NLRC5,1,Age-related process intervention,FALSE,FALSE
+NLRC5,1,Gene-regulatory evidence,FALSE,FALSE
+NLRC5,1,Human longevity association,FALSE,FALSE
+NLRC5,1,Model-organism lifespan experiment,FALSE,FALSE
+NLRC5,1,Open Genes database annotation,TRUE,FALSE
+NOS1,1,Age-related molecular change,FALSE,FALSE
+NOS1,1,Age-related process intervention,FALSE,FALSE
+NOS1,1,Gene-regulatory evidence,FALSE,FALSE
+NOS1,1,Human longevity association,FALSE,FALSE
+NOS1,1,Model-organism lifespan experiment,FALSE,FALSE
+NOS1,1,Open Genes database annotation,TRUE,FALSE
+NR3C1,2,Age-related molecular change,TRUE,FALSE
+NR3C1,2,Age-related process intervention,TRUE,FALSE
+NR3C1,2,Gene-regulatory evidence,FALSE,FALSE
+NR3C1,2,Human longevity association,TRUE,FALSE
+NR3C1,2,Model-organism lifespan experiment,TRUE,FALSE
+NR3C1,2,Open Genes database annotation,TRUE,FALSE
+PARP1,3,Age-related molecular change,TRUE,FALSE
+PARP1,3,Age-related process intervention,TRUE,FALSE
+PARP1,3,Gene-regulatory evidence,TRUE,FALSE
+PARP1,3,Human longevity association,TRUE,FALSE
+PARP1,3,Model-organism lifespan experiment,TRUE,FALSE
+PARP1,3,Open Genes database annotation,TRUE,FALSE
+PARVG,1,Age-related molecular change,FALSE,FALSE
+PARVG,1,Age-related process intervention,FALSE,FALSE
+PARVG,1,Gene-regulatory evidence,FALSE,FALSE
+PARVG,1,Human longevity association,FALSE,FALSE
+PARVG,1,Model-organism lifespan experiment,FALSE,FALSE
+PARVG,1,Open Genes database annotation,TRUE,FALSE
+PAX4,1,Age-related molecular change,FALSE,FALSE
+PAX4,1,Age-related process intervention,FALSE,FALSE
+PAX4,1,Gene-regulatory evidence,FALSE,FALSE
+PAX4,1,Human longevity association,FALSE,FALSE
+PAX4,1,Model-organism lifespan experiment,FALSE,FALSE
+PAX4,1,Open Genes database annotation,FALSE,FALSE
+PCSK1,1,Age-related molecular change,FALSE,FALSE
+PCSK1,1,Age-related process intervention,FALSE,FALSE
+PCSK1,1,Gene-regulatory evidence,FALSE,FALSE
+PCSK1,1,Human longevity association,FALSE,FALSE
+PCSK1,1,Model-organism lifespan experiment,FALSE,FALSE
+PCSK1,1,Open Genes database annotation,FALSE,FALSE
+PICALM,1,Age-related molecular change,TRUE,FALSE
+PICALM,1,Age-related process intervention,FALSE,FALSE
+PICALM,1,Gene-regulatory evidence,FALSE,FALSE
+PICALM,1,Human longevity association,FALSE,FALSE
+PICALM,1,Model-organism lifespan experiment,FALSE,FALSE
+PICALM,1,Open Genes database annotation,TRUE,FALSE
+PIK3CB,2,Age-related molecular change,FALSE,FALSE
+PIK3CB,2,Age-related process intervention,FALSE,FALSE
+PIK3CB,2,Gene-regulatory evidence,FALSE,FALSE
+PIK3CB,2,Human longevity association,TRUE,FALSE
+PIK3CB,2,Model-organism lifespan experiment,TRUE,FALSE
+PIK3CB,2,Open Genes database annotation,TRUE,FALSE
+PIK3CG,1,Age-related molecular change,FALSE,FALSE
+PIK3CG,1,Age-related process intervention,FALSE,FALSE
+PIK3CG,1,Gene-regulatory evidence,FALSE,FALSE
+PIK3CG,1,Human longevity association,FALSE,FALSE
+PIK3CG,1,Model-organism lifespan experiment,FALSE,FALSE
+PIK3CG,1,Open Genes database annotation,FALSE,FALSE
+PLAT,1,Age-related molecular change,FALSE,FALSE
+PLAT,1,Age-related process intervention,FALSE,FALSE
+PLAT,1,Gene-regulatory evidence,FALSE,FALSE
+PLAT,1,Human longevity association,FALSE,FALSE
+PLAT,1,Model-organism lifespan experiment,FALSE,FALSE
+PLAT,1,Open Genes database annotation,FALSE,FALSE
+POLB,1,Age-related molecular change,TRUE,FALSE
+POLB,1,Age-related process intervention,TRUE,FALSE
+POLB,1,Gene-regulatory evidence,FALSE,FALSE
+POLB,1,Human longevity association,FALSE,FALSE
+POLB,1,Model-organism lifespan experiment,FALSE,FALSE
+POLB,1,Open Genes database annotation,TRUE,FALSE
+PON1,5,Age-related molecular change,TRUE,TRUE
+PON1,5,Age-related process intervention,FALSE,TRUE
+PON1,5,Gene-regulatory evidence,FALSE,TRUE
+PON1,5,Human longevity association,TRUE,TRUE
+PON1,5,Model-organism lifespan experiment,FALSE,TRUE
+PON1,5,Open Genes database annotation,TRUE,TRUE
+PPARG,2,Age-related molecular change,TRUE,TRUE
+PPARG,2,Age-related process intervention,TRUE,TRUE
+PPARG,2,Gene-regulatory evidence,TRUE,TRUE
+PPARG,2,Human longevity association,TRUE,TRUE
+PPARG,2,Model-organism lifespan experiment,TRUE,TRUE
+PPARG,2,Open Genes database annotation,TRUE,TRUE
+PPARGC1A,1,Age-related molecular change,TRUE,FALSE
+PPARGC1A,1,Age-related process intervention,TRUE,FALSE
+PPARGC1A,1,Gene-regulatory evidence,TRUE,FALSE
+PPARGC1A,1,Human longevity association,FALSE,FALSE
+PPARGC1A,1,Model-organism lifespan experiment,TRUE,FALSE
+PPARGC1A,1,Open Genes database annotation,TRUE,FALSE
+PPP1R26-AS1,1,Age-related molecular change,FALSE,FALSE
+PPP1R26-AS1,1,Age-related process intervention,FALSE,FALSE
+PPP1R26-AS1,1,Gene-regulatory evidence,FALSE,FALSE
+PPP1R26-AS1,1,Human longevity association,FALSE,FALSE
+PPP1R26-AS1,1,Model-organism lifespan experiment,FALSE,FALSE
+PPP1R26-AS1,1,Open Genes database annotation,FALSE,FALSE
+PPP2R2C,1,Age-related molecular change,FALSE,FALSE
+PPP2R2C,1,Age-related process intervention,FALSE,FALSE
+PPP2R2C,1,Gene-regulatory evidence,FALSE,FALSE
+PPP2R2C,1,Human longevity association,FALSE,FALSE
+PPP2R2C,1,Model-organism lifespan experiment,FALSE,FALSE
+PPP2R2C,1,Open Genes database annotation,TRUE,FALSE
+PRNP,1,Age-related molecular change,TRUE,FALSE
+PRNP,1,Age-related process intervention,FALSE,FALSE
+PRNP,1,Gene-regulatory evidence,FALSE,FALSE
+PRNP,1,Human longevity association,FALSE,FALSE
+PRNP,1,Model-organism lifespan experiment,FALSE,FALSE
+PRNP,1,Open Genes database annotation,TRUE,FALSE
+PTPN22,1,Age-related molecular change,FALSE,FALSE
+PTPN22,1,Age-related process intervention,FALSE,FALSE
+PTPN22,1,Gene-regulatory evidence,FALSE,FALSE
+PTPN22,1,Human longevity association,FALSE,FALSE
+PTPN22,1,Model-organism lifespan experiment,FALSE,FALSE
+PTPN22,1,Open Genes database annotation,FALSE,FALSE
+RAD23B,1,Age-related molecular change,TRUE,FALSE
+RAD23B,1,Age-related process intervention,FALSE,FALSE
+RAD23B,1,Gene-regulatory evidence,FALSE,FALSE
+RAD23B,1,Human longevity association,TRUE,FALSE
+RAD23B,1,Model-organism lifespan experiment,FALSE,FALSE
+RAD23B,1,Open Genes database annotation,TRUE,FALSE
+RAD52,1,Age-related molecular change,FALSE,FALSE
+RAD52,1,Age-related process intervention,TRUE,FALSE
+RAD52,1,Gene-regulatory evidence,TRUE,FALSE
+RAD52,1,Human longevity association,TRUE,FALSE
+RAD52,1,Model-organism lifespan experiment,TRUE,FALSE
+RAD52,1,Open Genes database annotation,TRUE,FALSE
+REN,1,Age-related molecular change,FALSE,FALSE
+REN,1,Age-related process intervention,FALSE,FALSE
+REN,1,Gene-regulatory evidence,FALSE,FALSE
+REN,1,Human longevity association,FALSE,FALSE
+REN,1,Model-organism lifespan experiment,FALSE,FALSE
+REN,1,Open Genes database annotation,FALSE,FALSE
+RNR2,1,Age-related molecular change,FALSE,FALSE
+RNR2,1,Age-related process intervention,FALSE,FALSE
+RNR2,1,Gene-regulatory evidence,FALSE,FALSE
+RNR2,1,Human longevity association,FALSE,FALSE
+RNR2,1,Model-organism lifespan experiment,FALSE,FALSE
+RNR2,1,Open Genes database annotation,FALSE,FALSE
+RUNX3,1,Age-related molecular change,FALSE,FALSE
+RUNX3,1,Age-related process intervention,FALSE,FALSE
+RUNX3,1,Gene-regulatory evidence,FALSE,FALSE
+RUNX3,1,Human longevity association,FALSE,FALSE
+RUNX3,1,Model-organism lifespan experiment,FALSE,FALSE
+RUNX3,1,Open Genes database annotation,TRUE,FALSE
+SDC4,1,Age-related molecular change,FALSE,FALSE
+SDC4,1,Age-related process intervention,FALSE,FALSE
+SDC4,1,Gene-regulatory evidence,FALSE,FALSE
+SDC4,1,Human longevity association,FALSE,FALSE
+SDC4,1,Model-organism lifespan experiment,FALSE,FALSE
+SDC4,1,Open Genes database annotation,TRUE,FALSE
+SERPINE1,7,Age-related molecular change,TRUE,FALSE
+SERPINE1,7,Age-related process intervention,FALSE,FALSE
+SERPINE1,7,Gene-regulatory evidence,FALSE,FALSE
+SERPINE1,7,Human longevity association,TRUE,FALSE
+SERPINE1,7,Model-organism lifespan experiment,TRUE,FALSE
+SERPINE1,7,Open Genes database annotation,TRUE,FALSE
+SHC1,2,Age-related molecular change,FALSE,FALSE
+SHC1,2,Age-related process intervention,FALSE,FALSE
+SHC1,2,Gene-regulatory evidence,FALSE,FALSE
+SHC1,2,Human longevity association,TRUE,FALSE
+SHC1,2,Model-organism lifespan experiment,TRUE,FALSE
+SHC1,2,Open Genes database annotation,TRUE,FALSE
+SIRT1,5,Age-related molecular change,TRUE,FALSE
+SIRT1,5,Age-related process intervention,TRUE,FALSE
+SIRT1,5,Gene-regulatory evidence,TRUE,FALSE
+SIRT1,5,Human longevity association,TRUE,FALSE
+SIRT1,5,Model-organism lifespan experiment,TRUE,FALSE
+SIRT1,5,Open Genes database annotation,TRUE,FALSE
+SIRT3,3,Age-related molecular change,TRUE,TRUE
+SIRT3,3,Age-related process intervention,TRUE,TRUE
+SIRT3,3,Gene-regulatory evidence,TRUE,TRUE
+SIRT3,3,Human longevity association,TRUE,TRUE
+SIRT3,3,Model-organism lifespan experiment,TRUE,TRUE
+SIRT3,3,Open Genes database annotation,TRUE,TRUE
+SIRT6,1,Age-related molecular change,TRUE,FALSE
+SIRT6,1,Age-related process intervention,TRUE,FALSE
+SIRT6,1,Gene-regulatory evidence,TRUE,FALSE
+SIRT6,1,Human longevity association,TRUE,FALSE
+SIRT6,1,Model-organism lifespan experiment,TRUE,FALSE
+SIRT6,1,Open Genes database annotation,TRUE,FALSE
+SLC13A2,1,Age-related molecular change,FALSE,FALSE
+SLC13A2,1,Age-related process intervention,FALSE,FALSE
+SLC13A2,1,Gene-regulatory evidence,FALSE,FALSE
+SLC13A2,1,Human longevity association,FALSE,FALSE
+SLC13A2,1,Model-organism lifespan experiment,FALSE,FALSE
+SLC13A2,1,Open Genes database annotation,FALSE,FALSE
+SLC25A14,1,Age-related molecular change,FALSE,FALSE
+SLC25A14,1,Age-related process intervention,FALSE,FALSE
+SLC25A14,1,Gene-regulatory evidence,FALSE,FALSE
+SLC25A14,1,Human longevity association,FALSE,FALSE
+SLC25A14,1,Model-organism lifespan experiment,FALSE,FALSE
+SLC25A14,1,Open Genes database annotation,FALSE,FALSE
+SLC25A27,1,Age-related molecular change,FALSE,FALSE
+SLC25A27,1,Age-related process intervention,FALSE,FALSE
+SLC25A27,1,Gene-regulatory evidence,FALSE,FALSE
+SLC25A27,1,Human longevity association,FALSE,FALSE
+SLC25A27,1,Model-organism lifespan experiment,FALSE,FALSE
+SLC25A27,1,Open Genes database annotation,TRUE,FALSE
+SLC6A4,1,Age-related molecular change,FALSE,FALSE
+SLC6A4,1,Age-related process intervention,FALSE,FALSE
+SLC6A4,1,Gene-regulatory evidence,FALSE,FALSE
+SLC6A4,1,Human longevity association,FALSE,FALSE
+SLC6A4,1,Model-organism lifespan experiment,FALSE,FALSE
+SLC6A4,1,Open Genes database annotation,FALSE,FALSE
+SLC9A3R2,1,Age-related molecular change,FALSE,FALSE
+SLC9A3R2,1,Age-related process intervention,FALSE,FALSE
+SLC9A3R2,1,Gene-regulatory evidence,FALSE,FALSE
+SLC9A3R2,1,Human longevity association,FALSE,FALSE
+SLC9A3R2,1,Model-organism lifespan experiment,FALSE,FALSE
+SLC9A3R2,1,Open Genes database annotation,FALSE,FALSE
+SOD1,1,Age-related molecular change,TRUE,FALSE
+SOD1,1,Age-related process intervention,TRUE,FALSE
+SOD1,1,Gene-regulatory evidence,FALSE,FALSE
+SOD1,1,Human longevity association,FALSE,FALSE
+SOD1,1,Model-organism lifespan experiment,TRUE,FALSE
+SOD1,1,Open Genes database annotation,TRUE,FALSE
+SOD2,7,Age-related molecular change,TRUE,FALSE
+SOD2,7,Age-related process intervention,TRUE,FALSE
+SOD2,7,Gene-regulatory evidence,FALSE,FALSE
+SOD2,7,Human longevity association,FALSE,FALSE
+SOD2,7,Model-organism lifespan experiment,TRUE,FALSE
+SOD2,7,Open Genes database annotation,TRUE,FALSE
+SOD3,1,Age-related molecular change,FALSE,FALSE
+SOD3,1,Age-related process intervention,TRUE,FALSE
+SOD3,1,Gene-regulatory evidence,FALSE,FALSE
+SOD3,1,Human longevity association,TRUE,FALSE
+SOD3,1,Model-organism lifespan experiment,TRUE,FALSE
+SOD3,1,Open Genes database annotation,TRUE,FALSE
+SSTR3,1,Age-related molecular change,TRUE,FALSE
+SSTR3,1,Age-related process intervention,FALSE,FALSE
+SSTR3,1,Gene-regulatory evidence,FALSE,FALSE
+SSTR3,1,Human longevity association,FALSE,FALSE
+SSTR3,1,Model-organism lifespan experiment,FALSE,FALSE
+SSTR3,1,Open Genes database annotation,TRUE,FALSE
+STK24,1,Age-related molecular change,FALSE,FALSE
+STK24,1,Age-related process intervention,FALSE,FALSE
+STK24,1,Gene-regulatory evidence,FALSE,FALSE
+STK24,1,Human longevity association,FALSE,FALSE
+STK24,1,Model-organism lifespan experiment,FALSE,FALSE
+STK24,1,Open Genes database annotation,TRUE,FALSE
+SULT1A1,1,Age-related molecular change,FALSE,FALSE
+SULT1A1,1,Age-related process intervention,FALSE,FALSE
+SULT1A1,1,Gene-regulatory evidence,FALSE,FALSE
+SULT1A1,1,Human longevity association,FALSE,FALSE
+SULT1A1,1,Model-organism lifespan experiment,FALSE,FALSE
+SULT1A1,1,Open Genes database annotation,FALSE,FALSE
+SVEP1,1,Age-related molecular change,FALSE,FALSE
+SVEP1,1,Age-related process intervention,FALSE,FALSE
+SVEP1,1,Gene-regulatory evidence,FALSE,FALSE
+SVEP1,1,Human longevity association,FALSE,FALSE
+SVEP1,1,Model-organism lifespan experiment,FALSE,FALSE
+SVEP1,1,Open Genes database annotation,TRUE,FALSE
+TAS2R16,1,Age-related molecular change,FALSE,FALSE
+TAS2R16,1,Age-related process intervention,FALSE,FALSE
+TAS2R16,1,Gene-regulatory evidence,FALSE,FALSE
+TAS2R16,1,Human longevity association,FALSE,FALSE
+TAS2R16,1,Model-organism lifespan experiment,FALSE,FALSE
+TAS2R16,1,Open Genes database annotation,TRUE,FALSE
+TERC,1,Age-related molecular change,TRUE,FALSE
+TERC,1,Age-related process intervention,TRUE,FALSE
+TERC,1,Gene-regulatory evidence,TRUE,FALSE
+TERC,1,Human longevity association,TRUE,FALSE
+TERC,1,Model-organism lifespan experiment,TRUE,FALSE
+TERC,1,Open Genes database annotation,TRUE,FALSE
+TERT,2,Age-related molecular change,TRUE,TRUE
+TERT,2,Age-related process intervention,TRUE,TRUE
+TERT,2,Gene-regulatory evidence,TRUE,TRUE
+TERT,2,Human longevity association,TRUE,TRUE
+TERT,2,Model-organism lifespan experiment,TRUE,TRUE
+TERT,2,Open Genes database annotation,TRUE,TRUE
+TFAM,1,Age-related molecular change,FALSE,FALSE
+TFAM,1,Age-related process intervention,FALSE,FALSE
+TFAM,1,Gene-regulatory evidence,FALSE,FALSE
+TFAM,1,Human longevity association,FALSE,FALSE
+TFAM,1,Model-organism lifespan experiment,FALSE,FALSE
+TFAM,1,Open Genes database annotation,FALSE,FALSE
+TGFA,1,Age-related molecular change,TRUE,FALSE
+TGFA,1,Age-related process intervention,FALSE,FALSE
+TGFA,1,Gene-regulatory evidence,FALSE,FALSE
+TGFA,1,Human longevity association,FALSE,FALSE
+TGFA,1,Model-organism lifespan experiment,FALSE,FALSE
+TGFA,1,Open Genes database annotation,TRUE,FALSE
+TGFB1,3,Age-related molecular change,TRUE,FALSE
+TGFB1,3,Age-related process intervention,TRUE,FALSE
+TGFB1,3,Gene-regulatory evidence,TRUE,FALSE
+TGFB1,3,Human longevity association,FALSE,FALSE
+TGFB1,3,Model-organism lifespan experiment,TRUE,FALSE
+TGFB1,3,Open Genes database annotation,TRUE,FALSE
+TGFB2,1,Age-related molecular change,FALSE,FALSE
+TGFB2,1,Age-related process intervention,FALSE,FALSE
+TGFB2,1,Gene-regulatory evidence,FALSE,FALSE
+TGFB2,1,Human longevity association,FALSE,FALSE
+TGFB2,1,Model-organism lifespan experiment,FALSE,FALSE
+TGFB2,1,Open Genes database annotation,FALSE,FALSE
+TH,3,Age-related molecular change,FALSE,TRUE
+TH,3,Age-related process intervention,FALSE,TRUE
+TH,3,Gene-regulatory evidence,FALSE,TRUE
+TH,3,Human longevity association,TRUE,TRUE
+TH,3,Model-organism lifespan experiment,FALSE,TRUE
+TH,3,Open Genes database annotation,TRUE,TRUE
+TLR4,2,Age-related molecular change,TRUE,FALSE
+TLR4,2,Age-related process intervention,FALSE,FALSE
+TLR4,2,Gene-regulatory evidence,FALSE,FALSE
+TLR4,2,Human longevity association,FALSE,FALSE
+TLR4,2,Model-organism lifespan experiment,FALSE,FALSE
+TLR4,2,Open Genes database annotation,TRUE,FALSE
+TNF,9,Age-related molecular change,TRUE,FALSE
+TNF,9,Age-related process intervention,TRUE,FALSE
+TNF,9,Gene-regulatory evidence,TRUE,FALSE
+TNF,9,Human longevity association,FALSE,FALSE
+TNF,9,Model-organism lifespan experiment,FALSE,FALSE
+TNF,9,Open Genes database annotation,TRUE,FALSE
+TOMM40,4,Age-related molecular change,FALSE,TRUE
+TOMM40,4,Age-related process intervention,FALSE,TRUE
+TOMM40,4,Gene-regulatory evidence,FALSE,TRUE
+TOMM40,4,Human longevity association,TRUE,TRUE
+TOMM40,4,Model-organism lifespan experiment,FALSE,TRUE
+TOMM40,4,Open Genes database annotation,TRUE,TRUE
+TP53,18,Age-related molecular change,TRUE,TRUE
+TP53,18,Age-related process intervention,TRUE,TRUE
+TP53,18,Gene-regulatory evidence,TRUE,TRUE
+TP53,18,Human longevity association,TRUE,TRUE
+TP53,18,Model-organism lifespan experiment,TRUE,TRUE
+TP53,18,Open Genes database annotation,TRUE,TRUE
+TSHB,1,Age-related molecular change,FALSE,FALSE
+TSHB,1,Age-related process intervention,FALSE,FALSE
+TSHB,1,Gene-regulatory evidence,FALSE,FALSE
+TSHB,1,Human longevity association,FALSE,FALSE
+TSHB,1,Model-organism lifespan experiment,FALSE,FALSE
+TSHB,1,Open Genes database annotation,FALSE,FALSE
+TTR,1,Age-related molecular change,FALSE,FALSE
+TTR,1,Age-related process intervention,FALSE,FALSE
+TTR,1,Gene-regulatory evidence,FALSE,FALSE
+TTR,1,Human longevity association,FALSE,FALSE
+TTR,1,Model-organism lifespan experiment,FALSE,FALSE
+TTR,1,Open Genes database annotation,TRUE,FALSE
+TXNRD1,2,Age-related molecular change,FALSE,FALSE
+TXNRD1,2,Age-related process intervention,FALSE,FALSE
+TXNRD1,2,Gene-regulatory evidence,FALSE,FALSE
+TXNRD1,2,Human longevity association,TRUE,FALSE
+TXNRD1,2,Model-organism lifespan experiment,FALSE,FALSE
+TXNRD1,2,Open Genes database annotation,TRUE,FALSE
+UCP1,1,Age-related molecular change,TRUE,FALSE
+UCP1,1,Age-related process intervention,TRUE,FALSE
+UCP1,1,Gene-regulatory evidence,FALSE,FALSE
+UCP1,1,Human longevity association,TRUE,FALSE
+UCP1,1,Model-organism lifespan experiment,TRUE,FALSE
+UCP1,1,Open Genes database annotation,TRUE,FALSE
+UCP2,2,Age-related molecular change,TRUE,FALSE
+UCP2,2,Age-related process intervention,TRUE,FALSE
+UCP2,2,Gene-regulatory evidence,FALSE,FALSE
+UCP2,2,Human longevity association,TRUE,FALSE
+UCP2,2,Model-organism lifespan experiment,TRUE,FALSE
+UCP2,2,Open Genes database annotation,TRUE,FALSE
+UCP3,3,Age-related molecular change,TRUE,TRUE
+UCP3,3,Age-related process intervention,TRUE,TRUE
+UCP3,3,Gene-regulatory evidence,FALSE,TRUE
+UCP3,3,Human longevity association,TRUE,TRUE
+UCP3,3,Model-organism lifespan experiment,TRUE,TRUE
+UCP3,3,Open Genes database annotation,TRUE,TRUE
+VDR,1,Age-related molecular change,FALSE,FALSE
+VDR,1,Age-related process intervention,FALSE,FALSE
+VDR,1,Gene-regulatory evidence,FALSE,FALSE
+VDR,1,Human longevity association,FALSE,FALSE
+VDR,1,Model-organism lifespan experiment,FALSE,FALSE
+VDR,1,Open Genes database annotation,FALSE,FALSE
+VEGFA,1,Age-related molecular change,TRUE,FALSE
+VEGFA,1,Age-related process intervention,TRUE,FALSE
+VEGFA,1,Gene-regulatory evidence,TRUE,FALSE
+VEGFA,1,Human longevity association,TRUE,FALSE
+VEGFA,1,Model-organism lifespan experiment,TRUE,FALSE
+VEGFA,1,Open Genes database annotation,TRUE,FALSE
+WRN,4,Age-related molecular change,TRUE,FALSE
+WRN,4,Age-related process intervention,FALSE,FALSE
+WRN,4,Gene-regulatory evidence,TRUE,FALSE
+WRN,4,Human longevity association,TRUE,FALSE
+WRN,4,Model-organism lifespan experiment,FALSE,FALSE
+WRN,4,Open Genes database annotation,TRUE,FALSE
+XDH,1,Age-related molecular change,FALSE,FALSE
+XDH,1,Age-related process intervention,FALSE,FALSE
+XDH,1,Gene-regulatory evidence,FALSE,FALSE
+XDH,1,Human longevity association,FALSE,FALSE
+XDH,1,Model-organism lifespan experiment,FALSE,FALSE
+XDH,1,Open Genes database annotation,FALSE,FALSE
+XRCC1,1,Age-related molecular change,FALSE,FALSE
+XRCC1,1,Age-related process intervention,FALSE,FALSE
+XRCC1,1,Gene-regulatory evidence,FALSE,FALSE
+XRCC1,1,Human longevity association,TRUE,FALSE
+XRCC1,1,Model-organism lifespan experiment,FALSE,FALSE
+XRCC1,1,Open Genes database annotation,TRUE,FALSE
+XRCC3,1,Age-related molecular change,FALSE,FALSE
+XRCC3,1,Age-related process intervention,FALSE,FALSE
+XRCC3,1,Gene-regulatory evidence,FALSE,FALSE
+XRCC3,1,Human longevity association,FALSE,FALSE
+XRCC3,1,Model-organism lifespan experiment,FALSE,FALSE
+XRCC3,1,Open Genes database annotation,FALSE,FALSE
+XRCC4,1,Age-related molecular change,FALSE,FALSE
+XRCC4,1,Age-related process intervention,FALSE,FALSE
+XRCC4,1,Gene-regulatory evidence,FALSE,FALSE
+XRCC4,1,Human longevity association,FALSE,FALSE
+XRCC4,1,Model-organism lifespan experiment,FALSE,FALSE
+XRCC4,1,Open Genes database annotation,FALSE,FALSE
+XRCC5,2,Age-related molecular change,FALSE,FALSE
+XRCC5,2,Age-related process intervention,TRUE,FALSE
+XRCC5,2,Gene-regulatory evidence,TRUE,FALSE
+XRCC5,2,Human longevity association,FALSE,FALSE
+XRCC5,2,Model-organism lifespan experiment,TRUE,FALSE
+XRCC5,2,Open Genes database annotation,TRUE,FALSE
+XRCC6,1,Age-related molecular change,TRUE,FALSE
+XRCC6,1,Age-related process intervention,TRUE,FALSE
+XRCC6,1,Gene-regulatory evidence,FALSE,FALSE
+XRCC6,1,Human longevity association,FALSE,FALSE
+XRCC6,1,Model-organism lifespan experiment,TRUE,FALSE
+XRCC6,1,Open Genes database annotation,TRUE,FALSE
+YTHDF2,1,Age-related molecular change,FALSE,FALSE
+YTHDF2,1,Age-related process intervention,FALSE,FALSE
+YTHDF2,1,Gene-regulatory evidence,FALSE,FALSE
+YTHDF2,1,Human longevity association,FALSE,FALSE
+YTHDF2,1,Model-organism lifespan experiment,FALSE,FALSE
+YTHDF2,1,Open Genes database annotation,FALSE,FALSE

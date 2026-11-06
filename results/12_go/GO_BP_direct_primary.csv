@@ -1,0 +1,29 @@
+GO,m,k,genes,p_value,p_adjust,analysis,n_candidates,n_background,TERM
+GO:0071456,10,4,FOXO3/PPARG/TERT/TP53,0.011745176324708052,0.22426917265043575,all_primary_candidates,21,204,cellular response to hypoxia
+GO:0008203,11,4,APOB/APOC1/APOE/PON1,0.01719516960105286,0.22426917265043575,all_primary_candidates,21,204,cholesterol metabolic process
+GO:1902895,12,4,FOXO3/PPARG/TERT/TP53,0.0240288399268324,0.22426917265043575,all_primary_candidates,21,204,positive regulation of miRNA transcription
+GO:0014823,10,3,KL/TH/UCP3,0.07048399274753558,0.35035297192314657,all_primary_candidates,21,204,response to activity
+GO:0007165,32,6,APOB/ATM/HLA-DRB1/HSPA1A/IGF1R/PPARG,0.08678380779639928,0.35035297192314657,all_primary_candidates,21,204,signal transduction
+GO:0045893,25,5,APOE/FOXO3/HLA-DRB1/PPARG/TP53,0.09389723997449045,0.35035297192314657,all_primary_candidates,21,204,positive regulation of DNA-templated transcription
+GO:0000122,18,4,FOXO3/HSPA1A/PPARG/TP53,0.09706971251311924,0.35035297192314657,all_primary_candidates,21,204,negative regulation of transcription by RNA polymerase II
+GO:0010628,26,5,APOB/ATM/HSPA1A/PPARG/TP53,0.10820177699173152,0.35035297192314657,all_primary_candidates,21,204,positive regulation of gene expression
+GO:0042632,12,3,APOB/APOC3/APOE,0.1126134552610114,0.35035297192314657,all_primary_candidates,21,204,cholesterol homeostasis
+GO:0043065,13,3,ATM/FOXO3/TP53,0.13669739755499138,0.38275271315397585,all_primary_candidates,21,204,positive regulation of apoptotic process
+GO:0006357,15,3,FOXO3/PPARG/TP53,0.18970568053540704,0.4828871868173997,all_primary_candidates,21,204,regulation of transcription by RNA polymerase II
+GO:0006302,10,2,ATM/TP53,0.2745240919005155,0.5511986123347222,all_primary_candidates,21,204,double-strand break repair
+GO:0007283,11,2,APOB/MLH1,0.31542560089452687,0.5511986123347222,all_primary_candidates,21,204,spermatogenesis
+GO:0034599,11,2,FOXO3/HSPA1A,0.31542560089452687,0.5511986123347222,all_primary_candidates,21,204,cellular response to oxidative stress
+GO:0050728,11,2,APOE/PPARG,0.31542560089452687,0.5511986123347222,all_primary_candidates,21,204,negative regulation of inflammatory response
+GO:0010629,20,3,APOE/PPARG/TERT,0.33900940634417576,0.5511986123347222,all_primary_candidates,21,204,negative regulation of gene expression
+GO:0043066,20,3,HSPA1A/IGF1R/TP53,0.33900940634417576,0.5511986123347222,all_primary_candidates,21,204,negative regulation of apoptotic process
+GO:0006974,13,2,ATM/TP53,0.3958590541060003,0.5511986123347222,all_primary_candidates,21,204,DNA damage response
+GO:0045944,31,4,ATM/FOXO3/PPARG/TP53,0.39907193715776934,0.5511986123347222,all_primary_candidates,21,204,positive regulation of transcription by RNA polymerase II
+GO:0030335,14,2,ATM/IGF1R,0.434755917043848,0.5511986123347222,all_primary_candidates,21,204,positive regulation of cell migration
+GO:0070374,14,2,APOE/HLA-DRB1,0.434755917043848,0.5511986123347222,all_primary_candidates,21,204,positive regulation of ERK1 and ERK2 cascade
+GO:0007186,24,3,APOC3/APOE/PPARG,0.4614060392480317,0.5511986123347222,all_primary_candidates,21,204,G protein-coupled receptor signaling pathway
+GO:0006338,15,2,ATM/IGF1R,0.4724559534297619,0.5511986123347222,all_primary_candidates,21,204,chromatin remodeling
+GO:0045892,15,2,PPARG/TP53,0.4724559534297619,0.5511986123347222,all_primary_candidates,21,204,negative regulation of DNA-templated transcription
+GO:0043410,17,2,HLA-DRB1/IGF1R,0.5436259052021765,0.5982460190146506,all_primary_candidates,21,204,positive regulation of MAPK cascade
+GO:0001666,28,3,ATM/TH/UCP3,0.5753710863182611,0.5982460190146506,all_primary_candidates,21,204,response to hypoxia
+GO:0008285,18,2,HSPA1A/TP53,0.5768800897641274,0.5982460190146506,all_primary_candidates,21,204,negative regulation of cell population proliferation
+GO:0006955,23,2,HLA-DRB1/IGF1R,0.7182499800690569,0.7182499800690569,all_primary_candidates,21,204,immune response

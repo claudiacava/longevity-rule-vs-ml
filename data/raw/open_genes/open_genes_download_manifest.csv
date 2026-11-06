@@ -1,0 +1,7 @@
+dataset,file_name,source_url,access_date,file_size_bytes
+Human longevity associations,human_longevity_associations.csv,https://open-genes.com/api/research/associations-with-lifespan?pageSize=0,2026-07-24,442436
+Model-organism lifespan experiments,model_organism_lifespan_experiments.csv,https://open-genes.com/api/research/lifespan-change?pageSize=0,2026-07-24,2776290
+Age-related molecular changes,age_related_molecular_changes.csv,https://open-genes.com/api/research/age-related-changes?pageSize=0,2026-07-24,1322607
+Age-related process interventions,age_related_process_interventions.csv,https://open-genes.com/api/research/gene-activity-change-impact?pageSize=0,2026-07-24,1066668
+Regulation of aging-associated genes,gene_regulation.csv,https://open-genes.com/api/research/gene-regulation?pageSize=0,2026-07-24,302137
+Open Genes gene annotations,open_genes_gene_annotations.csv,https://open-genes.com/api/gene/search?pageSize=0,2026-07-24,2779998

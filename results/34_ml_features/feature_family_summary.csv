@@ -1,0 +1,5 @@
+family,model,universe_genes_covered,n_features,evaluation_genes_without_data,spearman_with_publications,measure_correlated
+GO BP 2017,M2-A,15253,5891,16,0.6875551196080565,number of GO terms
+Pathways MSigDB 6.0,M2-A,7407,844,37,0.518830985529316,number of gene sets
+BioGRID 3.4.149,M2-A,15969,,14,0.37053371485496706,interaction degree
+GTEx v8,M2-B,18945,54,13,0.11304800449017413,maximum expression across tissues

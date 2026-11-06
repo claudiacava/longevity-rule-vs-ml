@@ -1,0 +1,11 @@
+source,file_name,source_url,access_date,file_size_bytes,md5,note
+GWAS Catalog associations (ontology annotated),gwas_catalog_associations_full.tsv,https://ftp.ebi.ac.uk/pub/databases/gwas/releases/latest/gwas-catalog-associations_ontology-annotated-full.zip,2026-11-02,749786313,0ecca85ed46de3de2615cbfd45d5a3c1,NA
+GWAS Catalog study ancestry,gwas_catalog_ancestry.tsv,https://ftp.ebi.ac.uk/pub/databases/gwas/releases/latest/gwas-catalog-ancestry.tsv,2026-11-02,51964464,d721ab6eaf1911311ec109de23caadb6,NA
+GWAS Catalog longevity-related candidate associations,gwas_catalog_longevity_candidate_associations.tsv,gwas_catalog_associations_full.tsv,2026-11-02,425025,d16219c06ae01730815b9aeb978ddcab,filter: longevity|life ?span|centenarian|age at death|healthspan|extreme age|exceptional age|survival to
+Open Genes: Human longevity association,human_longevity_associations.csv,https://open-genes.com/api/research/associations-with-lifespan?pageSize=0,2026-11-02,442436,8356b9cc24da52fcdbeb4d5c7dd4afaf,NA
+Open Genes: Model-organism lifespan experiment,model_organism_lifespan_experiments.csv,https://open-genes.com/api/research/lifespan-change?pageSize=0,2026-11-02,2306471,276d94a7c8e5499f994c2f79c2e955a1,NA
+Open Genes: Age-related molecular change,age_related_molecular_changes.csv,https://open-genes.com/api/research/age-related-changes?pageSize=0,2026-11-02,1322607,ebdb36147a4238862e4f8a83982682b8,NA
+Open Genes: Age-related process intervention,age_related_process_interventions.csv,https://open-genes.com/api/research/gene-activity-change-impact?pageSize=0,2026-11-02,1066668,b80f5b011dc095c7cce7ddcbf65693a8,NA
+Open Genes: Gene-regulatory evidence,gene_regulation.csv,https://open-genes.com/api/research/gene-regulation?pageSize=0,2026-11-02,302137,66d9ac24c8e21a1c118af07c33240179,NA
+Open Genes: Open Genes database annotation,open_genes_gene_annotations.csv,https://open-genes.com/api/gene/search?pageSize=0,2026-11-02,2202025,a1f3617f9f31e4f8671e82a623b4708f,NA
+NCBI gene2pubmed (human rows only),gene2pubmed_human.tsv,https://ftp.ncbi.nlm.nih.gov/gene/DATA/gene2pubmed.gz,2026-11-03,48493077,d167bc7084ae243199b378b684760792,

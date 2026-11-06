@@ -1,0 +1,37 @@
+set_id,ID,Description,GeneRatio,BgRatio,pvalue,p.adjust,geneID,n_genes,definitions
+S20,GO:0032371,regulation of sterol transport,5/12,11/204,1.090534190735404e-4,0.04154935266701889,APOC1/APOC3/APOE/PON1/PPARG,12,"grid: sig>=1, pop>=2, prop>=0.70 | grid: sig>=2, pop>=2, prop>=0.70"
+S20,GO:0032374,regulation of cholesterol transport,5/12,11/204,1.090534190735404e-4,0.04154935266701889,APOC1/APOC3/APOE/PON1/PPARG,12,"grid: sig>=1, pop>=2, prop>=0.70 | grid: sig>=2, pop>=2, prop>=0.70"
+S20,GO:0033344,cholesterol efflux,5/12,12/204,1.8135452265000384e-4,0.046064048753100974,APOC1/APOC3/APOE/PON1/PPARG,12,"grid: sig>=1, pop>=2, prop>=0.70 | grid: sig>=2, pop>=2, prop>=0.70"
+S25,GO:0033344,cholesterol efflux,6/16,14/608,3.131197160194472e-7,2.893226176019692e-4,APOB/APOC1/APOC3/APOE/PON1/PPARG,16,criteria: composite_records_included
+S25,GO:0030301,cholesterol transport,6/16,17/608,1.2355362126979843e-6,5.708177302664688e-4,APOB/APOC1/APOC3/APOE/PON1/PPARG,16,criteria: composite_records_included
+S25,GO:0015918,sterol transport,6/16,19/608,2.6310793074573822e-6,8.103724266968738e-4,APOB/APOC1/APOC3/APOE/PON1/PPARG,16,criteria: composite_records_included
+S25,GO:0032371,regulation of sterol transport,5/16,14/608,1.1180475934001426e-5,0.0020661519526034636,APOC1/APOC3/APOE/PON1/PPARG,16,criteria: composite_records_included
+S25,GO:0032374,regulation of cholesterol transport,5/16,14/608,1.1180475934001426e-5,0.0020661519526034636,APOC1/APOC3/APOE/PON1/PPARG,16,criteria: composite_records_included
+S25,GO:0034381,plasma lipoprotein particle clearance,4/16,10/608,6.156859969086941e-5,0.008127055159194763,APOB/APOC1/APOC3/APOE,16,criteria: composite_records_included
+S25,GO:0065005,protein-lipid complex assembly,4/16,10/608,6.156859969086941e-5,0.008127055159194763,APOB/APOC1/APOC3/APOE,16,criteria: composite_records_included
+S25,GO:0006869,lipid transport,7/16,49/608,9.452619991228762e-5,0.010820724126888826,APOB/APOC1/APOC3/APOE/PON1/PPARG/UCP3,16,criteria: composite_records_included
+S25,GO:0034367,protein-containing complex remodeling,4/16,12/608,1.4052888476478995e-4,0.010820724126888826,APOB/APOC1/APOC3/APOE,16,criteria: composite_records_included
+S25,GO:0034368,protein-lipid complex remodeling,4/16,12/608,1.4052888476478995e-4,0.010820724126888826,APOB/APOC1/APOC3/APOE,16,criteria: composite_records_included
+S25,GO:0034369,plasma lipoprotein particle remodeling,4/16,12/608,1.4052888476478995e-4,0.010820724126888826,APOB/APOC1/APOC3/APOE,16,criteria: composite_records_included
+S25,GO:0042157,lipoprotein metabolic process,4/16,12/608,1.4052888476478995e-4,0.010820724126888826,APOB/APOC1/APOC3/APOE,16,criteria: composite_records_included
+S25,GO:0010876,lipid localization,7/16,53/608,1.6041594439140488e-4,0.011401871739819856,APOB/APOC1/APOC3/APOE/PON1/PPARG/UCP3,16,criteria: composite_records_included
+S25,GO:1905952,regulation of lipid localization,6/16,39/608,2.3570800002887068e-4,0.015556728001905464,APOB/APOC1/APOC3/APOE/PON1/PPARG,16,criteria: composite_records_included
+S25,GO:0019216,regulation of lipid metabolic process,6/16,40/608,2.732031536214067e-4,0.015890875234608328,APOB/APOC1/APOC3/APOE/IGF1R/PPARG,16,criteria: composite_records_included
+S25,GO:0071827,plasma lipoprotein particle organization,4/16,14/608,2.751666707291485e-4,0.015890875234608328,APOB/APOC1/APOC3/APOE,16,criteria: composite_records_included
+S25,GO:0046890,regulation of lipid biosynthetic process,5/16,26/608,3.048749751351988e-4,0.016570851589701393,APOB/APOC1/APOC3/APOE/IGF1R,16,criteria: composite_records_included
+S25,GO:0015850,organic hydroxy compound transport,6/16,42/608,3.6239875905192813e-4,0.017955866258576758,APOB/APOC1/APOC3/APOE/PON1/PPARG,16,criteria: composite_records_included
+S25,GO:0071825,protein-lipid complex organization,4/16,15/608,3.6922235813090736e-4,0.017955866258576758,APOB/APOC1/APOC3/APOE,16,criteria: composite_records_included
+S25,GO:0046486,glycerolipid metabolic process,5/16,28/608,4.4147668962772694e-4,0.019460758445983772,APOB/APOC1/APOC3/APOE/PON1,16,criteria: composite_records_included
+S25,GO:0006639,acylglycerol metabolic process,4/16,16/608,4.84412818460635e-4,0.019460758445983772,APOB/APOC1/APOC3/APOE,16,criteria: composite_records_included
+S25,GO:0006641,triglyceride metabolic process,4/16,16/608,4.84412818460635e-4,0.019460758445983772,APOB/APOC1/APOC3/APOE,16,criteria: composite_records_included
+S25,GO:1905953,negative regulation of lipid localization,4/16,16/608,4.84412818460635e-4,0.019460758445983772,APOC1/APOC3/APOE/PPARG,16,criteria: composite_records_included
+S25,GO:0006638,neutral lipid metabolic process,4/16,17/608,6.233119182345269e-4,0.023997508852029285,APOB/APOC1/APOC3/APOE,16,criteria: composite_records_included
+S25,GO:0097006,regulation of plasma lipoprotein particle levels,4/16,18/608,7.885504774651773e-4,0.029144825647112953,APOB/APOC1/APOC3/APOE,16,criteria: composite_records_included
+S25,GO:0032368,regulation of lipid transport,5/16,32/608,8.495769397606544e-4,0.030192657397647874,APOC1/APOC3/APOE/PON1/PPARG,16,criteria: composite_records_included
+S25,GO:0008203,cholesterol metabolic process,4/16,20/608,0.0012087799594368595,0.03988973866141636,APOB/APOC1/APOE/PON1,16,criteria: composite_records_included
+S25,GO:1905954,positive regulation of lipid localization,4/16,20/608,0.0012087799594368595,0.03988973866141636,APOB/APOE/PON1/PPARG,16,criteria: composite_records_included
+S25,GO:1902652,secondary alcohol metabolic process,4/16,21/608,0.0014692086580220802,0.04645731321168535,APOB/APOC1/APOE/PON1,16,criteria: composite_records_included
+S25,GO:0006629,lipid metabolic process,8/16,99/608,0.0015684460204065935,0.04645731321168535,APOB/APOC1/APOC3/APOE/IGF1R/PON1/PPARG/UCP3,16,criteria: composite_records_included
+S25,GO:0010874,regulation of cholesterol efflux,3/16,10/608,0.001608911280058367,0.04645731321168535,APOE/PON1/PPARG,16,criteria: composite_records_included
+S25,GO:0071402,cellular response to lipoprotein particle stimulus,3/16,10/608,0.001608911280058367,0.04645731321168535,APOB/APOE/PPARG,16,criteria: composite_records_included
+S25,GO:0016125,sterol metabolic process,4/16,22/608,0.001766830893060553,0.049471265005695486,APOB/APOC1/APOE/PON1,16,criteria: composite_records_included

@@ -1,0 +1,214 @@
+gene,n_studies,n_sig_studies,n_nonsig_studies,n_mixed_studies,n_populations,proportion_sig,replication_score,primary_selected,populations
+PON1,5,5,0,0,5,1,2.584962500721156,TRUE,Danish; French; Italian; Italian (Sicily); Italian and N. Irish
+KL,4,4,0,0,4,1,2.321928094887362,TRUE,"Ashkenazi Jewish, Czechs (Bohemian); Czechs (Bohemian), Americans (Baltimore Caucasians and African-Americans); Danish; Italian"
+TOMM40,4,4,0,0,4,1,2.321928094887362,TRUE,"American (Caucasian); American, English, Irish; Danish, American; Polish"
+APOE,26,19,7,1,22,0.7307692307692307,2.1945634625369848,TRUE,"American (Georgia and Louisiana populations from African and European origin); Ashkenazi Jewish (Jerusalem); Brazilian; Chinese; Chinese (Han); Chinese (Uighur in Xinjiang); Columbian; Danish; Danish, German, Dutch; English (Cambridge); European and American (Caucasian); Finnish; French; Greek; Irish (Belfast); Italian; Italian (Southern); Japanese; Korean; Russian (Novosibirsk); Spanish; Swedish"
+APOC1,3,3,0,0,2,1,2,TRUE,English (Cambridge); European
+HSPA1A,3,3,0,0,2,1,2,TRUE,Danish; Italian (Southern)
+IGF1R,3,3,0,0,2,1,2,TRUE,Ashkenazi Jewish; Italian
+ATM,2,2,0,0,2,1,1.584962500721156,TRUE,Chinese (Han); Italian
+MLH1,2,2,0,0,2,1,1.584962500721156,TRUE,Danish; Korean
+PPARG,2,2,0,0,2,1,1.584962500721156,TRUE,Italian; Italian (Southern)
+TERT,2,2,0,0,2,1,1.584962500721156,TRUE,Ashkenazi Jewish; Italian (Central)
+APOC3,4,3,1,0,4,0.75,1.160964047443681,TRUE,Ashkenazi Jewish; Finnish; Italian (Southern); Russian
+TP53,18,11,7,2,16,0.6111111111111112,0.9439838918763527,TRUE,"American (Caucasian); American (Utah); Chinese; Chinese (Guangxi Bama); Chinese (Han); Danish; English (Newcastle); European; European (Danish, Finnish, South Italian and Greek); Finnish; Irish; Italian; Italian (Central); Italian (Northern); Japanese; Spanish"
+HLA-DRB1,6,4,2,0,6,0.6666666666666666,0.9357849740192011,TRUE,Bulgarian; French; Italian (Palermo); Japanese; Japanese (Okinawa); Mexican
+FOXO3,8,5,3,1,6,0.625,0.792481250360578,TRUE,American (Caucasian); American of Japanese origin; Chinese (Han); Danish; Dutch; Italian (Southern)
+APOB,3,2,1,0,2,0.6666666666666666,0.6666666666666665,TRUE,Finnish; Italian
+GSTT1,3,2,1,0,3,0.6666666666666666,0.6666666666666665,TRUE,Danish; German; Italian (Northern)
+HSPA1L,3,2,1,0,2,0.6666666666666666,0.6666666666666665,TRUE,Danish; Irish
+SIRT3,3,2,1,1,2,0.6666666666666666,0.6666666666666665,TRUE,Italian (Northern); Italian (Southern)
+TH,3,2,1,0,2,0.6666666666666666,0.6666666666666665,TRUE,German; Italian
+UCP3,3,2,1,1,2,0.6666666666666666,0.6666666666666665,TRUE,Danish; Italian (Southern)
+TXNRD1,2,2,0,0,1,1,1.584962500721156,FALSE,Danish
+ABCC4,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+ADA,1,1,0,0,1,1,1,FALSE,Italian (Central)
+ADA2,1,1,0,0,1,1,1,FALSE,Italian
+ADARB1,1,1,0,0,1,1,1,FALSE,"Italian, Ashkenazi Jewish and Japanese"
+ADARB2,1,1,0,0,1,1,1,FALSE,"Italian, Ashkenazi Jewish and Japanese"
+AGER,1,1,0,0,1,1,1,FALSE,Caucasian
+AGTR1,1,1,0,0,1,1,1,FALSE,Italian (Northern) and Japanese
+AKAP10,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+APOA1,1,1,0,0,1,1,1,FALSE,Italian (Southern)
+ATP8,1,1,0,0,1,1,1,FALSE,Japanese
+ATRIP,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+BTBD9,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+C7orf50,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+CACNA1C,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+CAMK4,1,1,0,0,1,1,1,FALSE,Italian
+CARS,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+CASP5,1,1,0,0,1,1,1,FALSE,Russian
+CCL5,1,1,0,0,1,1,1,FALSE,Spanish
+CDH4,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+CDKN1A,1,1,0,0,1,1,1,FALSE,Italian
+CEP128,1,1,0,0,1,1,1,FALSE,Ashkenazi Jewish
+CHIT1,1,1,0,0,1,1,1,FALSE,"Mediterranean (Italian, Greek and Tunisian)"
+CLSTN2,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+CPB2,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+CYP19A1,1,1,0,0,1,1,1,FALSE,Italian (Salerno)
+CYP1B1,1,1,0,0,1,1,1,FALSE,German
+DRD4,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+EGFR,1,1,0,0,1,1,1,FALSE,Korean
+ERCC2,1,1,0,0,1,1,1,FALSE,Polish
+ESR1,1,1,0,0,1,1,1,FALSE,Italian (Salerno)
+EXO1,1,1,0,0,1,1,1,FALSE,German
+FAM19A5,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+GH1,1,1,0,0,1,1,1,FALSE,Dutch
+GHRL,1,1,0,0,1,1,1,FALSE,Danish
+GHSR,1,1,0,0,1,1,1,FALSE,Danish
+GPX1,1,1,0,0,1,1,1,FALSE,Danish
+GSR,1,1,0,0,1,1,1,FALSE,Danish
+GSTZ1,1,1,0,0,1,1,1,FALSE,Italian (Southern)
+H2AFX,1,1,0,0,1,1,1,FALSE,Danish
+HMOX1,1,1,0,0,1,1,1,FALSE,Japanese
+HP,1,1,0,0,1,1,1,FALSE,Italian (Central)
+HPCAL1,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+HSPA14,1,1,0,0,1,1,1,FALSE,"Danish, German, Dutch"
+HSPA1B,1,1,0,0,1,1,1,FALSE,Danish
+IGF2R,1,1,0,0,1,1,1,FALSE,Danish
+INSR,1,1,0,0,1,1,1,FALSE,Japanese
+IRS2,1,1,0,0,1,1,1,FALSE,Italian
+LINC01237,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+LINC02227,1,1,0,0,1,1,1,FALSE,European
+LOC100631378,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+LOC105375494,1,1,0,0,1,1,1,FALSE,Jordanian
+LOC105378102,1,1,0,0,1,1,1,FALSE,American (Amish)
+LOC107987209,1,1,0,0,1,1,1,FALSE,Dutch
+LYN,1,1,0,0,1,1,1,FALSE,Korean
+MAP3K7,1,1,0,0,1,1,1,FALSE,Italian (Southern)
+MSTN,1,1,0,0,1,1,1,FALSE,Spanish and Italian
+MT1A,1,1,0,0,1,1,1,FALSE,Italian
+MT2A,1,1,0,0,1,1,1,FALSE,Turkish
+MTR,1,1,0,0,1,1,1,FALSE,German
+NCAM2,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+ND5,1,1,0,0,1,1,1,FALSE,Chinese (Zhuang)
+NDUFS1,1,1,0,0,1,1,1,FALSE,Danish
+NLRC5,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+NOS1,1,1,0,0,1,1,1,FALSE,Italian (Southern)
+PARVG,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+PAX4,1,1,0,0,1,1,1,FALSE,Korean
+PCSK1,1,1,0,0,1,1,1,FALSE,Korean
+PICALM,1,1,0,0,1,1,1,FALSE,Italian
+POLB,1,1,0,0,1,1,1,FALSE,Danish
+PPP1R26-AS1,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+PPP2R2C,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+RAD23B,1,1,0,0,1,1,1,FALSE,Danish
+RAD52,1,1,0,0,1,1,1,FALSE,Danish
+RNR2,1,1,0,0,1,1,1,FALSE,Japanese
+RUNX3,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+SDC4,1,1,0,0,1,1,1,FALSE,Italian (Southern)
+SIRT6,1,1,0,0,1,1,1,FALSE,"Danish, German, Dutch"
+SLC25A27,1,1,0,0,1,1,1,FALSE,Italian (Southern)
+SLC6A4,1,1,0,0,1,1,1,FALSE,Japanese
+SLC9A3R2,1,1,0,0,1,1,1,FALSE,Danish
+SSTR3,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+STK24,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+SULT1A1,1,1,0,0,1,1,1,FALSE,English (Caucasian) and Nigerian
+SVEP1,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+TAS2R16,1,1,0,0,1,1,1,FALSE,Italian (Southern)
+TERC,1,1,0,0,1,1,1,FALSE,Ashkenazi Jewish
+TGFA,1,1,0,0,1,1,1,FALSE,American (Caucasian)
+TTR,1,1,0,0,1,1,1,FALSE,Danish
+UCP1,1,1,0,0,1,1,1,FALSE,Italian (Southern)
+VEGFA,1,1,0,0,1,1,1,FALSE,Italian (Northern)
+XDH,1,1,0,0,1,1,1,FALSE,Danish
+YTHDF2,1,1,0,0,1,1,1,FALSE,Italian
+ACE,22,12,10,0,17,0.5454545454545454,0.4112329050960917,FALSE,"American (Caucasian); Brazilian of European and Japanese origin; Chinese; Chinese (Uighur in Xinjiang); Chinese (Uighur, Kazakh and Han in Xinjiang); Columbian; Danish; Dutch; English (Cambridge); French; Greek; Italian; Italian (Southern); Italian, French and Danish; Korean; Polish; Russian (Novosibirsk)"
+ADRB2,2,1,1,1,2,0.5,0,FALSE,American (Caucasian); Chinese
+AGT,2,1,1,0,1,0.5,0,FALSE,Danish
+AKT1,2,1,1,1,2,0.5,0,FALSE,"American (Caucasian); Danish, German"
+FOXO1,4,2,2,0,3,0.5,0,FALSE,Chinese (Han); Italian; Japanese
+GHRHR,2,1,1,0,2,0.5,0,FALSE,Danish; Dutch
+HLA-DQA1,4,2,2,0,4,0.5,0,FALSE,Italian (Sardinia); Japanese; Japanese (Okinawa); Mexican
+IGF2,2,1,1,0,2,0.5,0,FALSE,Ashkenazi Jewish (Jerusalem); Italian
+IL10,8,4,4,0,7,0.5,0,FALSE,Bulgarian; Finnish; Irish; Italian; Italian (Sardinia); Japanese; Jordanian
+IL18,2,1,1,0,2,0.5,0,FALSE,Italian; Japanese
+ITGB3,2,1,1,0,2,0.5,0,FALSE,American (Caucasian); Danish
+ND2,2,1,1,0,2,0.5,0,FALSE,Chinese; Japanese
+NR3C1,2,1,1,0,1,0.5,0,FALSE,Dutch
+TLR4,2,1,1,0,2,0.5,0,FALSE,German; Italian
+UCP2,2,1,1,0,2,0.5,0,FALSE,Dutch; Italian (Southern)
+XRCC5,2,1,1,0,2,0.5,0,FALSE,Danish; English
+CETP,7,3,4,0,6,0.42857142857142855,-0.4285714285714287,FALSE,"American of Japanese origin; Ashkenazi Jewish; Chinese; Danish, German, Dutch; Italian; Japanese"
+IFNG,5,2,3,0,4,0.4,-0.5169925001442311,FALSE,Bulgarian; Irish; Italian; Italian (Sardinia)
+SIRT1,5,2,3,1,5,0.4,-0.5169925001442311,FALSE,American (Caucasian); Ashkenazi Jewish; Chinese (Han); Dutch; German
+ADIPOQ,3,1,2,1,3,0.3333333333333333,-0.6666666666666667,FALSE,Ashkenazi Jewish; Jordanian; Polish
+APOA4,3,1,2,0,3,0.3333333333333333,-0.6666666666666667,FALSE,French; Italian; Italian (Southern)
+HFE,3,1,2,1,2,0.3333333333333333,-0.6666666666666667,FALSE,Italian (Sardinia); Italian (Sicily)
+HLA-DQB1,3,1,2,0,3,0.3333333333333333,-0.6666666666666667,FALSE,Bulgarian; Italian (Sardinia); Japanese (Okinawa)
+INS,3,1,2,0,3,0.3333333333333333,-0.6666666666666667,FALSE,Danish; Dutch; Italian
+TGFB1,3,1,2,0,3,0.3333333333333333,-0.6666666666666667,FALSE,Bulgarian; Italian; Japanese
+ABCA1,1,0,1,0,1,0,-1,FALSE,Japanese
+ACTN3,1,0,1,0,1,0,-1,FALSE,Spanish
+BRCA1,1,0,1,0,1,0,-1,FALSE,American (Caucasians) and Italian
+C3,1,0,1,0,1,0,-1,FALSE,Italian
+C4A,1,0,1,0,1,0,-1,FALSE,Italian
+CAT,1,0,1,0,1,0,-1,FALSE,Danish
+CCR5,1,0,1,0,1,0,-1,FALSE,Spanish
+CFB,1,0,1,0,1,0,-1,FALSE,Italian
+CNDP1,1,0,1,0,1,0,-1,FALSE,German
+CXCL8,1,0,1,0,1,0,-1,FALSE,Irish
+CYP2E1,1,0,1,0,1,0,-1,FALSE,Spanish
+F5,1,0,1,0,1,0,-1,FALSE,American (Caucasian)
+FAS,1,0,1,0,1,0,-1,FALSE,Italian (Northern)
+FASLG,1,0,1,0,1,0,-1,FALSE,Italian (Northern)
+FCGR2A,1,0,1,0,1,0,-1,FALSE,German
+GP1BA,1,0,1,0,1,0,-1,FALSE,Danish
+GSTP1,1,0,1,0,1,0,-1,FALSE,German
+HLA-C,1,0,1,0,1,0,-1,FALSE,Bulgarian
+HLA-DRB3,1,0,1,0,1,0,-1,FALSE,Irish (Belfast)
+HLA-DRB5,1,0,1,0,1,0,-1,FALSE,Dutch
+IL12A,1,0,1,0,1,0,-1,FALSE,Irish
+IL6R,1,0,1,0,1,0,-1,FALSE,"American (Caucasian and African–American), Ashkenazi Jewish"
+ITGA2,1,0,1,0,1,0,-1,FALSE,American (Caucasian)
+LIPC,1,0,1,0,1,0,-1,FALSE,Japanese
+LPL,1,0,1,0,1,0,-1,FALSE,Japanese
+LTA,1,0,1,0,1,0,-1,FALSE,Irish (Belfast)
+MEFV,1,0,1,1,1,0,-1,FALSE,Italian (Sicily)
+MINPP1,1,0,1,0,1,0,-1,FALSE,Caucasians
+MMP1,1,0,1,0,1,0,-1,FALSE,Japanese
+MMP3,1,0,1,0,1,0,-1,FALSE,Japanese
+PIK3CG,1,0,1,0,1,0,-1,FALSE,Japanese
+PLAT,1,0,1,0,1,0,-1,FALSE,Danish
+PPARGC1A,1,0,1,0,1,0,-1,FALSE,Japanese
+PRNP,1,0,1,0,1,0,-1,FALSE,Polish
+PTPN22,1,0,1,0,1,0,-1,FALSE,Italian (Central)
+REN,1,0,1,0,1,0,-1,FALSE,Italian
+SLC13A2,1,0,1,0,1,0,-1,FALSE,American
+SLC25A14,1,0,1,0,1,0,-1,FALSE,Italian (Southern)
+SOD1,1,0,1,0,1,0,-1,FALSE,German
+SOD3,1,0,1,0,1,0,-1,FALSE,German
+TFAM,1,0,1,0,1,0,-1,FALSE,Spanish
+TGFB2,1,0,1,0,1,0,-1,FALSE,Italian (Sicily)
+TSHB,1,0,1,0,1,0,-1,FALSE,Ashkenazi Jewish
+VDR,1,0,1,0,1,0,-1,FALSE,Spanish
+XRCC1,1,0,1,0,1,0,-1,FALSE,English
+XRCC3,1,0,1,0,1,0,-1,FALSE,English
+XRCC4,1,0,1,0,1,0,-1,FALSE,English
+XRCC6,1,0,1,0,1,0,-1,FALSE,American (Caucasian)
+WRN,4,1,3,0,4,0.25,-1.160964047443681,FALSE,"Danish; Dutch; Finnish and Mexican; Finnish, American, Mexican and Japanese"
+SERPINE1,7,2,5,0,6,0.2857142857142857,-1.2857142857142858,FALSE,American (Caucasian); Danish; Dutch; German; Italian; Italian (Sicily)
+SOD2,7,2,5,0,6,0.2857142857142857,-1.2857142857142858,FALSE,Ashkenazi Jewish (Jerusalem); Danish; Dutch; German; Italian; Jordanian
+CYP1A1,2,0,2,0,2,0,-1.584962500721156,FALSE,German; Italian (Northern)
+CYP2D6,2,0,2,0,2,0,-1.584962500721156,FALSE,French; Spanish
+HLA-A,2,0,2,0,2,0,-1.584962500721156,FALSE,Bulgarian; Irish (Belfast)
+IL1A,2,0,2,0,2,0,-1.584962500721156,FALSE,Finnish; Italian (Nothern and Central)
+IL1RN,2,0,2,0,2,0,-1.584962500721156,FALSE,Finnish; Italian (Northern and Central)
+IL2,2,0,2,0,2,0,-1.584962500721156,FALSE,Irish; Italian (Central and Southern)
+KIR3DL1,2,0,2,0,1,0,-1.584962500721156,FALSE,Irish
+NAT2,2,0,2,0,2,0,-1.584962500721156,FALSE,French; Spanish
+PIK3CB,2,0,2,0,2,0,-1.584962500721156,FALSE,Italian; Japanese
+SHC1,2,0,2,0,2,0,-1.584962500721156,FALSE,Dutch; Japanese
+TNF,9,2,7,0,8,0.2222222222222222,-1.845515608270757,FALSE,Bulgarian; Danish; Finnish; Irish (Belfast); Italian; Japanese; Jordanian; Mexican
+IL6,15,4,11,1,12,0.26666666666666666,-1.8666666666666667,FALSE,"American (Caucasian); Bulgarian; Danish; Danish, German, Dutch; Finnish; Irish; Irish (Northern); Italian; Italian (Sardinia); Italian (Southern); Japanese; Turkish"
+F2,3,0,3,0,2,0,-2,FALSE,American (Caucasian); Danish
+IL1B,3,0,3,0,3,0,-2,FALSE,Finnish; Italian (Northern and Central); Japanese
+IRS1,3,0,3,0,3,0,-2,FALSE,Dutch; Italian; Japanese
+PARP1,3,0,3,0,3,0,-2,FALSE,"American (Caucasian and African–American), Ashkenazi Jewish; French; Italian"
+F7,4,0,4,1,3,0,-2.321928094887362,FALSE,Ashkenazi Jewish (Jerusalem); Danish; Italian
+FGB,4,0,4,0,3,0,-2.321928094887362,FALSE,American (Caucasian); Danish; Italian
+GSTM1,4,0,4,0,4,0,-2.321928094887362,FALSE,Danish; French; German; Italian (Northern)
+HLA-B,4,0,4,0,4,0,-2.321928094887362,FALSE,Bulgarian; Dutch; Irish (Belfast); Mexican
+IGF1,4,0,4,0,3,0,-2.321928094887362,FALSE,Ashkenazi Jewish; Chinese (Han); Dutch
+MTTP,4,0,4,0,4,0,-2.321928094887362,FALSE,Danish; Dutch; English (Oxford); German
+MTHFR,7,0,7,0,6,0,-3,FALSE,American (Caucasian); Ashkenazi Jewish (Jerusalem); Danish; English (Cambridge); Jordanian; Swiss

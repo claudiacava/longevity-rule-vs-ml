@@ -1,0 +1,5 @@
+pseudo_cutoff,genes_with_evidence_before,genes_without_evidence_before,rule_selected_at_P,confirmed_open_genes,confirmed_gwas,confirmed_either,confirmed_either_among_genes_with_evidence,open_genes_labels_only_from_longevitymap_pmids,independent_among_genes_with_evidence,independent_gwas_among_genes_with_evidence,rule_at_P_independent_hits,rule_at_P_precision_either,trainable
+2010-01-01,135,78,12,54,10,59,22,36,17,5,5,0.4166666666666667,TRUE
+2011-01-01,146,67,12,52,10,57,24,34,17,5,5,0.4166666666666667,TRUE
+2012-01-01,158,55,14,48,10,53,22,33,14,5,4,0.35714285714285715,FALSE
+2013-01-01,201,12,16,22,10,28,22,8,18,9,5,0.375,TRUE

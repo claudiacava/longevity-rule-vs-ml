@@ -1,0 +1,16 @@
+item,value
+snapshot,2026-11-02
+LongevityMap cut-off date,2017-06-01
+LongevityMap: latest publication date of its PMIDs,2015-08-05
+LongevityMap: PMIDs published after the cut-off,0
+Open Genes (Jul 2026): human records,1460
+Open Genes (current): human records,1460
+Open Genes (current): human records published after the cut-off,476
+GWAS Catalog: selected trait rows,21
+GWAS Catalog: associations (selected traits),693
+GWAS Catalog: studies (selected traits),45
+GWAS Catalog: associations published after the cut-off,441
+GWAS Catalog: genome-wide significant (P <= 5e-8) after the cut-off,160
+GWAS Catalog: mapped genes after the cut-off,450
+  of which in the 213-gene LongevityMap universe,16
+  of which among the 21 primary genes,"6 (APOC1, APOE, FOXO3, HLA-DRB1, PPARG, TOMM40)"

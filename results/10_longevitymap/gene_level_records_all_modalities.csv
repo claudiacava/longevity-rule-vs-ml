@@ -1,0 +1,485 @@
+record_id,study_id,pub_med,association,population,variant_s,gene,evidence_modality,shared_locus,overlap_group,study_unit
+1,PMID_1859103,1859103,non-significant,Dutch,HLA-B40,HLA-B,genetic association,NA,NA,PMID_1859103
+2,PMID_1859103,1859103,non-significant,Dutch,HLA-DRB5,HLA-DRB5,genetic association,NA,NA,PMID_1859103
+3,PMID_8018664,8018664,non-significant,Finnish,APOB,APOB,genetic association,NA,NA,PMID_8018664
+4,PMID_8018664,8018664,significant,Finnish,APOC3,APOC3,genetic association,NA,NA,PMID_8018664
+5,PMID_8018664,8018664,significant,Finnish,E2/E3/E4,APOE,genetic association,NA,NA,PMID_8018664
+6,PMID_8136829,8136829,significant,French,I/D,ACE,genetic association,NA,NA,PMID_8136829
+8,PMID_8155090,8155090,significant,Finnish,APOB,APOB,genetic association,NA,NA,PMID_8155090
+9,PMID_8155090,8155090,significant,Finnish,E2/E3/E4,APOE,genetic association,NA,NA,PMID_8155090
+10,PMID_8403397,8403397,significant,Swedish,E2/E3/E4,APOE,genetic association,NA,NA,PMID_8403397
+11,PMID_8541369,8541369,non-significant,Italian,E2/E3/E4,APOE,genetic association,NA,NA,PMID_8541369
+12,PMID_9050915,9050915,significant,Italian,APOB,APOB,genetic association,NA,NA,PMID_9050915
+13,PMID_9105559,9105559,significant,English (Cambridge),I/D,ACE,genetic association,NA,NA,PMID_9105559
+14,PMID_9105559,9105559,significant,English (Cambridge),APOC1,APOC1,genetic association,NA,NA,PMID_9105559
+15,PMID_9105559,9105559,non-significant,English (Cambridge),E2/E3/E4,APOE,genetic association,NA,NA,PMID_9105559
+16,PMID_9105559,9105559,non-significant,English (Cambridge),677C/T,MTHFR,genetic association,NA,NA,PMID_9105559
+17,PMID_9108791,9108791,non-significant,Italian,R353Q,F7,genetic association,NA,NA,PMID_9108791
+18,PMID_9108791,9108791,non-significant,Italian,-455G/A,FGB,genetic association,NA,NA,PMID_9108791
+19,PMID_9108791,9108791,significant,Italian,1-bp guanine deletion/insertion (4G/5G),SERPINE1,genetic association,NA,NA,PMID_9108791
+20,PMID_9170397,9170397,non-significant,Danish,I/D,ACE,genetic association,NA,NA,PMID_9170397
+21,PMID_9177672,9177672,non-significant,Spanish,CYP2D6,CYP2D6,genetic association,NA,NA,PMID_9177672
+22,PMID_9177672,9177672,non-significant,Spanish,CYP2E1,CYP2E1,genetic association,NA,NA,PMID_9177672
+23,PMID_9177672,9177672,non-significant,Spanish,NAT2,NAT2,genetic association,NA,NA,PMID_9177672
+24,PMID_9425225,9425225,significant,French,HLA-DRB1,HLA-DRB1,genetic association,NA,NA,PMID_9425225
+25,PMID_9533408,9533408,non-significant,French,APOA4,APOA4,genetic association,NA,NA,PMID_9533408
+27,PMID_9654200,9654200,non-significant,French,GSTM1,GSTM1,genetic association,NA,NA,PMID_9654200
+28,PMID_9761238,9761238,significant,French,I/D,ACE,genetic association,NA,NA,PMID_9761238
+29,PMID_9854023,9854023,significant,English (Caucasian) and Nigerian,638G/A,SULT1A1,genetic association,NA,NA,PMID_9854023
+30,PMID_9887369,9887369,non-significant,Italian,PARP1,PARP1,genetic association,NA,NA,PMID_9887369
+31,PMID_9887369,9887369,non-significant,Italian,REN,REN,genetic association,NA,NA,PMID_9887369
+32,PMID_9887369,9887369,non-significant,Italian,401C/T,SOD2,genetic association,NA,NA,PMID_9887369
+33,PMID_9887369,9887369,significant,Italian,TH,TH,genetic association,NA,NA,PMID_9887369
+34,PMID_10069711,10069711,non-significant,"Finnish, American, Mexican and Japanese",C1367R,WRN,genetic association,NA,NA,PMID_10069711
+35,PMID_10219002,10219002,non-significant,Italian,CFB,CFB,genetic association,NA,NA,PMID_10219002
+36,PMID_10219002,10219002,non-significant,Italian,C3,C3,genetic association,NA,NA,PMID_10219002
+37,PMID_10219002,10219002,non-significant,Italian,C4A,C4A,genetic association,NA,NA,PMID_10219002
+38,PMID_10494771,10494771,non-significant,Danish,I/D,ACE,genetic association,NA,NA,PMID_10494771
+39,PMID_10494771,10494771,non-significant,Danish,M/T235,AGT,genetic association,NA,NA,PMID_10494771
+40,PMID_10494771,10494771,non-significant,Danish,20210G/A,F2,genetic association,NA,NA,PMID_10494771
+41,PMID_10494771,10494771,non-significant,Danish,R353Q,F7,genetic association,NA,NA,PMID_10494771
+42,PMID_10494771,10494771,non-significant,Danish,-455G/A,FGB,genetic association,NA,NA,PMID_10494771
+43,PMID_10494771,10494771,non-significant,Danish,33L/P,ITGB3,genetic association,NA,NA,PMID_10494771
+44,PMID_10494771,10494771,non-significant,Danish,114A/V,MTHFR,genetic association,NA,NA,PMID_10494771
+45,PMID_10494771,10494771,non-significant,Danish,PLAT,PLAT,genetic association,NA,NA,PMID_10494771
+46,PMID_10494771,10494771,non-significant,Danish,1-bp guanine deletion/insertion (4G/5G),SERPINE1,genetic association,NA,NA,PMID_10494771
+47,PMID_10520809,10520809,non-significant,Dutch,I/D,ACE,genetic association,NA,NA,PMID_10520809
+48,PMID_10520809,10520809,non-significant,Dutch,1-bp guanine deletion/insertion (4G/5G),SERPINE1,genetic association,NA,NA,PMID_10520809
+49,PMID_10583447,10583447,non-significant,Swiss,C677T,MTHFR,genetic association,NA,NA,PMID_10583447
+50,PMID_11162685,11162685,non-significant,Italian (Northern),CYP1A1,CYP1A1,genetic association,NA,NA,PMID_11162685
+51,PMID_11162685,11162685,non-significant,Italian (Northern),GSTM1,GSTM1,genetic association,NA,NA,PMID_11162685
+52,PMID_11162685,11162685,significant,Italian (Northern),GSTT1,GSTT1,genetic association,NA,NA,PMID_11162685
+53,PMID_11193221,11193221,significant,Russian,T-455C,APOC3,genetic association,NA,NA,PMID_11193221
+54,PMID_11213279,11213279,significant,Finnish,E2/E3/E4,APOE,genetic association,NA,NA,PMID_11213279
+55,PMID_11280044,11280044,non-significant,French,I/D,ACE,genetic association,NA,NA,PMID_11280044
+56,PMID_11280044,11280044,significant,French,E2/E3/E4,APOE,genetic association,NA,NA,PMID_11280044
+57,PMID_11485022,11485022,non-significant,German,1-bp guanine deletion/insertion (4G/5G),SERPINE1,genetic association,NA,NA,PMID_11485022
+58,PMID_11500818,11500818,significant,Italian,-174C/G,IL6,genetic association,NA,NA,PMID_11500818
+59,PMID_11568114,11568114,non-significant,American (Caucasian),G1691A,F5,genetic association,NA,NA,PMID_11568114
+60,PMID_11568114,11568114,non-significant,American (Caucasian),C807T,ITGA2,genetic association,NA,NA,PMID_11568114
+61,PMID_11568114,11568114,significant,American (Caucasian),T1565C,ITGB3,genetic association,NA,NA,PMID_11568114
+62,PMID_11568114,11568114,non-significant,American (Caucasian),C677T,MTHFR,genetic association,NA,NA,PMID_11568114
+63,PMID_11568114,11568114,non-significant,American (Caucasian),20210G/A,F2,genetic association,NA,NA,PMID_11568114
+64,PMID_11568114,11568114,non-significant,American (Caucasian),I/D,ACE,genetic association,NA,NA,PMID_11568114
+65,PMID_11602206,11602206,non-significant,Danish,I/D,ACE,genetic association,NA,NA,PMID_11602206
+66,PMID_11602206,11602206,significant,Danish,M/T235,AGT,genetic association,NA,NA,PMID_11602206
+67,PMID_11602206,11602206,non-significant,Danish,20210G/A,F2,genetic association,NA,NA,PMID_11602206
+68,PMID_11602206,11602206,non-significant,Danish,F7,F7,genetic association,NA,NA,PMID_11602206
+69,PMID_11602206,11602206,non-significant,Danish,-455G/A,FGB,genetic association,NA,NA,PMID_11602206
+70,PMID_11640949,11640949,significant,Chinese (Uighur in Xinjiang),E2/E3/E4,APOE,genetic association,NA,NA,PMID_11640949
+71,PMID_11640949,11640949,non-significant,Finnish,IL10,IL10,genetic association,NA,NA,PMID_11640949
+72,PMID_11640949,11640949,non-significant,Finnish,-889C/T,IL1A,genetic association,NA,NA,PMID_11640949
+73,PMID_11640949,11640949,non-significant,Finnish,IL1B,IL1B,genetic association,NA,NA,PMID_11640949
+74,PMID_11640949,11640949,non-significant,Finnish,IL1RN,IL1RN,genetic association,NA,NA,PMID_11640949
+75,PMID_11640949,11640949,non-significant,Finnish,IL6,IL6,genetic association,NA,NA,PMID_11640949
+76,PMID_11640949,11640949,non-significant,Finnish,-308G/A,TNF,genetic association,NA,NA,PMID_11640949
+77,PMID_11672987,11672987,non-significant,Italian,IGF2,IGF2,genetic association,NA,NA,PMID_11672987
+78,PMID_11672987,11672987,non-significant,Italian,FokI RFLP,INS,genetic association,NA,NA,PMID_11672987
+79,PMID_11773214,11773214,significant,"Chinese (Uighur, Kazakh and Han in Xinjiang)",I/D,ACE,genetic association,NA,NA,PMID_11773214
+80,PMID_11795532,11795532,non-significant,American (Caucasians) and Italian,BRCA1,BRCA1,genetic association,NA,NA,PMID_11795532
+81,PMID_11857058,11857058,significant,Italian,874T/A,IFNG,genetic association,NA,NA,PMID_11857058
+82,PMID_11857058,11857058,significant,Italian,-1082G/A,IL10,genetic association,NA,NA,PMID_11857058
+83,PMID_11857058,11857058,significant,Italian (Sicily),C282Y,HFE,genetic association,NA,NA,PMID_11857058
+84,PMID_11965496,11965496,non-significant,Italian (Northern),FAS,FAS,genetic association,NA,NA,PMID_11965496
+85,PMID_11965496,11965496,non-significant,Italian (Northern),FASLG,FASLG,genetic association,NA,NA,PMID_11965496
+86,PMID_12082503,12082503,significant,Italian,Q192R,PON1,genetic association,NA,NA,PMID_12082503
+87,PMID_12152254,12152254,non-significant,Polish,I/D,ACE,genetic association,NA,NA,PMID_12152254
+88,PMID_12185856,12185856,non-significant,Brazilian,E2/E3/E4,APOE,genetic association,NA,NA,PMID_12185856
+89,PMID_12297342,12297342,significant,Italian,TH,TH,genetic association,NA,NA,PMID_12297342
+90,PMID_12384792,12384792,non-significant,Chinese,5178A,ND2,genetic association,NA,NA,PMID_12384792
+91,PMID_12547486,12547486,significant,Danish,I/D,ACE,genetic association,NA,NA,PMID_12547486
+92,PMID_12556235,12556235,non-significant,Italian (Southern),APOC3-SstI-RFLP,APOC3,genetic association,NA,NA,PMID_12556235
+93,PMID_12556235,12556235,significant,Italian (Southern),APOA1-MspI-RFLP,APOA1,genetic association,NA,NA,PMID_12556235
+94,PMID_12556235,12556235,non-significant,Italian (Southern),APOA4-HincII-RFLP,APOA4,genetic association,NA,NA,PMID_12556235
+95,PMID_12566526,12566526,significant,Japanese,(GT)n repeat,HMOX1,genetic association,NA,NA,PMID_12566526
+96,PMID_12601526,12601526,non-significant,Japanese,R219K,ABCA1,genetic association,NA,NA,PMID_12601526
+97,PMID_12601526,12601526,non-significant,Japanese,CETP,CETP,genetic association,NA,NA,PMID_12601526
+98,PMID_12601526,12601526,non-significant,Japanese,C-514T,LIPC,genetic association,NA,NA,PMID_12601526
+99,PMID_12601526,12601526,non-significant,Japanese,LPL,LPL,genetic association,NA,NA,PMID_12601526
+100,PMID_12634288,12634288,non-significant,Korean,I/D,ACE,genetic association,NA,NA,PMID_12634288
+101,PMID_12634288,12634288,non-significant,Korean,E2/E3/E4,APOE,genetic association,NA,NA,PMID_12634288
+102,PMID_12646697,12646697,significant,American (Caucasian),AKAP10,AKAP10,genetic association,NA,NA,PMID_12646697
+103,PMID_12676903,12676903,significant,Italian,-1082G/A,IL10,genetic association,NA,NA,PMID_12676903
+104,PMID_12676903,12676903,non-significant,Italian,-308G/A,TNF,genetic association,NA,NA,PMID_12676903
+105,PMID_12714264,12714264,non-significant,Italian (Northern and Central),-511C/T,IL1B,genetic association,NA,NA,PMID_12714264
+106,PMID_12714264,12714264,non-significant,Italian (Northern and Central),IL1RN,IL1RN,genetic association,NA,NA,PMID_12714264
+107,PMID_12714264,12714264,non-significant,Italian (Nothern and Central),-889C/T,IL1A,genetic association,NA,NA,PMID_12714264
+108,PMID_12714267,12714267,non-significant,Irish (Northern),-174C/G,IL6,genetic association,NA,NA,PMID_12714267
+109,PMID_12714268,12714268,significant,Irish,T2437C,HSPA1L,genetic association,NA,NA,PMID_12714268
+110,PMID_12714268,12714268,non-significant,Irish,IFNG,IFNG,genetic association,NA,NA,PMID_12714268
+111,PMID_12714268,12714268,non-significant,Irish,-1082G/A,IL10,genetic association,NA,NA,PMID_12714268
+112,PMID_12714268,12714268,non-significant,Irish,IL12A,IL12A,genetic association,NA,NA,PMID_12714268
+113,PMID_12714268,12714268,non-significant,Irish,-330T/G,IL2,genetic association,NA,NA,PMID_12714268
+114,PMID_12714268,12714268,non-significant,Irish,-174C/G,IL6,genetic association,NA,NA,PMID_12714268
+115,PMID_12714268,12714268,non-significant,Irish,IL8,CXCL8,genetic association,NA,NA,PMID_12714268
+116,PMID_12714268,12714268,non-significant,Irish (Belfast),HLA-A,HLA-A,genetic association,NA,NA,PMID_12714268
+117,PMID_12714268,12714268,non-significant,Irish (Belfast),HLA-B,HLA-B,genetic association,NA,NA,PMID_12714268
+118,PMID_12714268,12714268,non-significant,Irish (Belfast),HLA-DRB3,HLA-DRB3,genetic association,NA,NA,PMID_12714268
+119,PMID_12714268,12714268,non-significant,Irish (Belfast),252A/G,LTA,genetic association,NA,NA,PMID_12714268
+120,PMID_12714268,12714268,non-significant,Irish (Belfast),-308G/A,TNF,genetic association,NA,NA,PMID_12714268
+121,PMID_12843179,12843179,non-significant,Italian,97347T/C,FOXO1,genetic association,NA,NA,PMID_12843179
+122,PMID_12843179,12843179,non-significant,Italian,IRS1,IRS1,genetic association,NA,NA,PMID_12843179
+123,PMID_12843179,12843179,non-significant,Italian,PIK3CB,PIK3CB,genetic association,NA,NA,PMID_12843179
+124,PMID_12889841,12889841,significant,French,Q192R,PON1,genetic association,NA,NA,PMID_12889841
+125,PMID_12954489,12954489,non-significant,"Italian, French and Danish",I/D,ACE,genetic association,NA,NA,PMID_12954489
+126,PMID_14499494,14499494,non-significant,American,I550V,SLC13A2,genetic association,NA,NA,PMID_14499494
+127,PMID_14501185,14501185,significant,Italian (Southern),-110A/C,HSPA1A,genetic association,NA,NA,PMID_14501185
+128,PMID_14528043,14528043,significant,Brazilian of European and Japanese origin,I/D,ACE,genetic association,NA,NA,PMID_14528043
+129,PMID_14530863,14530863,non-significant,Japanese,SHC1,SHC1,genetic association,NA,NA,PMID_14530863
+130,PMID_14559957,14559957,significant,Ashkenazi Jewish,I405V,CETP,genetic association,NA,NA,PMID_14559957
+131,PMID_14580859,14580859,significant,Italian (Southern),G477T,SIRT3,genetic association,NA,NA,PMID_14580859
+132,PMID_14743603,14743603,significant,Russian (Novosibirsk),I/D,ACE,genetic association,NA,NA,PMID_14743603
+133,PMID_14743603,14743603,significant,Russian (Novosibirsk),E2/E3/E4,APOE,genetic association,NA,NA,PMID_14743603
+134,PMID_15036421,15036421,non-significant,Dutch,Met(410)Val,SHC1,genetic association,NA,NA,PMID_15036421
+135,PMID_15050299,15050299,significant,Italian and N. Irish,Q192R,PON1,genetic association,NA,NA,PMID_15050299
+136,PMID_15050300,15050300,non-significant,Bulgarian,HLA-A,HLA-A,genetic association,NA,NA,PMID_15050300
+137,PMID_15050300,15050300,non-significant,Bulgarian,HLA-B,HLA-B,genetic association,NA,NA,PMID_15050300
+138,PMID_15050300,15050300,non-significant,Bulgarian,HLA-C,HLA-C,genetic association,NA,NA,PMID_15050300
+139,PMID_15050300,15050300,non-significant,Bulgarian,874T/A,IFNG,genetic association,NA,NA,PMID_15050300
+140,PMID_15050300,15050300,non-significant,Bulgarian,-174C/G,IL6,genetic association,NA,NA,PMID_15050300
+141,PMID_15050300,15050300,non-significant,Bulgarian,TGFB1,TGFB1,genetic association,NA,NA,PMID_15050300
+142,PMID_15050300,15050300,non-significant,Bulgarian,-308G/A,TNF,genetic association,NA,NA,PMID_15050300
+143,PMID_15130674,15130674,non-significant,Irish,KIR3DL1,KIR3DL1,genetic association,NA,NA,PMID_15130674
+144,PMID_15177664,15177664,non-significant,Danish,GP1BA,GP1BA,genetic association,NA,NA,PMID_15177664
+145,PMID_15177664,15177664,non-significant,Danish,114A/V,MTHFR,genetic association,NA,NA,PMID_15177664
+146,PMID_15177664,15177664,non-significant,Danish,1-bp guanine deletion/insertion (4G/5G),SERPINE1,genetic association,NA,NA,PMID_15177664
+147,PMID_15177664,15177664,significant,German,V432L,CYP1B1,genetic association,NA,NA,PMID_15177664
+148,PMID_15177664,15177664,non-significant,German,GSTM1,GSTM1,genetic association,NA,NA,PMID_15177664
+149,PMID_15177664,15177664,non-significant,German,I105V,GSTP1,genetic association,NA,NA,PMID_15177664
+150,PMID_15177664,15177664,non-significant,German,GSTT1,GSTT1,genetic association,NA,NA,PMID_15177664
+151,PMID_15190186,15190186,significant,Danish,-110A/C,HSPA1A,genetic association,NA,NA,PMID_15190186
+152,PMID_15190186,15190186,non-significant,Danish,2437T/C,HSPA1L,genetic association,NA,NA,PMID_15190186
+153,PMID_15236768,15236768,significant,Italian (Sicily),-107T/C,PON1,genetic association,NA,NA,PMID_15236768
+154,PMID_15236769,15236769,significant,Italian,PPARG,PPARG,genetic association,NA,NA,PMID_15236769
+155,PMID_15236771,15236771,non-significant,Italian (Southern),-174C/G,IL6,genetic association,NA,NA,PMID_15236771
+156,PMID_15241482,15241482,non-significant,Danish,-262C/T,CAT,genetic association,NA,NA,PMID_15241482
+157,PMID_15241482,15241482,significant,Danish,-174C/G,IL6,genetic association,NA,NA,PMID_15241482
+158,PMID_15241482,15241482,significant,Danish,Q192R,PON1,genetic association,NA,NA,PMID_15241482
+159,PMID_15271127,15271127,non-significant,Danish,-308G/A,TNF,genetic association,NA,NA,PMID_15271127
+160,PMID_15276593,15276593,significant,Dutch,ER22/23EK,NR3C1,genetic association,NA,NA,PMID_15276593
+161,PMID_15288696,15288696,non-significant,Irish,KIR3DL1,KIR3DL1,genetic association,NA,NA,PMID_15288696
+162,PMID_15462469,15462469,non-significant,Italian (Sardinia),874T/A,IFNG,genetic association,NA,NA,PMID_15462469
+163,PMID_15462469,15462469,non-significant,Italian (Sardinia),-1082G/A,IL10,genetic association,NA,NA,PMID_15462469
+164,PMID_15462469,15462469,non-significant,Italian (Sardinia),-174C/G,IL6,genetic association,NA,NA,PMID_15462469
+165,PMID_15547160,15547160,significant,Italian,Asp299Gly,TLR4,genetic association,NA,NA,PMID_15547160
+166,PMID_15569453,15569453,significant,Chinese (Uighur in Xinjiang),I/D,ACE,genetic association,NA,NA,PMID_15569453
+167,PMID_15582274,15582274,non-significant,Japanese,FOXO1,FOXO1,genetic association,NA,NA,PMID_15582274
+168,PMID_15582274,15582274,significant,Japanese,INSR,INSR,genetic association,NA,NA,PMID_15582274
+169,PMID_15582274,15582274,non-significant,Japanese,IRS1,IRS1,genetic association,NA,NA,PMID_15582274
+170,PMID_15582274,15582274,non-significant,Japanese,PIK3CB,PIK3CB,genetic association,NA,NA,PMID_15582274
+171,PMID_15582274,15582274,non-significant,Japanese,PIK3CG,PIK3CG,genetic association,NA,NA,PMID_15582274
+172,PMID_15582274,15582274,non-significant,Japanese,PPARGC1A,PPARGC1A,genetic association,NA,NA,PMID_15582274
+173,PMID_15621215,15621215,non-significant,Ashkenazi Jewish (Jerusalem),E2/E3/E4,APOE,genetic association,NA,NA,PMID_15621215
+174,PMID_15621215,15621215,non-significant,Ashkenazi Jewish (Jerusalem),Arg/Gln R353Q,F7,genetic association,NA,NA,PMID_15621215
+175,PMID_15621215,15621215,significant,Ashkenazi Jewish (Jerusalem),A/G ApaI site,IGF2,genetic association,NA,NA,PMID_15621215
+176,PMID_15621215,15621215,non-significant,Ashkenazi Jewish (Jerusalem),C677T,MTHFR,genetic association,NA,NA,PMID_15621215
+177,PMID_15621215,15621215,non-significant,Ashkenazi Jewish (Jerusalem),C9T,SOD2,genetic association,NA,NA,PMID_15621215
+178,PMID_15664628,15664628,significant,Finnish,-174C/G,IL6,genetic association,NA,NA,PMID_15664628
+179,PMID_15676284,15676284,significant,Italian (Southern),VNTR,SIRT3,genetic association,NA,NA,PMID_15676284
+180,PMID_15771611,15771611,significant,Dutch,GH1,GH1,genetic association,NA,NA,PMID_15771611
+181,PMID_15771611,15771611,non-significant,Dutch,GHRHR,GHRHR,genetic association,NA,NA,PMID_15771611
+182,PMID_15771611,15771611,non-significant,Dutch,IGF1,IGF1,genetic association,NA,NA,PMID_15771611
+183,PMID_15771611,15771611,non-significant,Dutch,INS,INS,genetic association,NA,NA,PMID_15771611
+184,PMID_15771611,15771611,non-significant,Dutch,IRS1,IRS1,genetic association,NA,NA,PMID_15771611
+185,PMID_15771611,15771611,non-significant,Dutch,16C/T,SOD2,genetic association,NA,NA,PMID_15771611
+186,PMID_15771611,15771611,non-significant,Dutch,UCP2,UCP2,genetic association,NA,NA,PMID_15771611
+187,PMID_15888337,15888337,non-significant,Italian,I405V,CETP,genetic association,NA,NA,PMID_15888337
+188,PMID_15939070,15939070,significant,American (Caucasian),-438A/G,CPB2,genetic association,NA,NA,PMID_15939070
+189,PMID_15939070,15939070,non-significant,American (Caucasian),-455G/A,FGB,genetic association,NA,NA,PMID_15939070
+190,PMID_15939070,15939070,non-significant,American (Caucasian),-174C/G,IL6,genetic association,NA,NA,PMID_15939070
+191,PMID_15939070,15939070,non-significant,American (Caucasian),1-bp guanine deletion/insertion (4G/5G),SERPINE1,genetic association,NA,NA,PMID_15939070
+192,PMID_16086293,16086293,significant,Chinese (Uighur in Xinjiang),E2/E3/E4,APOE,genetic association,NA,NA,PMID_16086293
+193,PMID_16095668,16095668,significant,Japanese,SLC6A4,SLC6A4,genetic association,NA,NA,PMID_16095668
+194,PMID_16142417,16142417,significant,German,D919G,MTR,genetic association,NA,NA,PMID_16142417
+195,PMID_16257164,16257164,non-significant,German,SIRT1,SIRT1,genetic association,NA,NA,PMID_16257164
+196,PMID_16269080,16269080,non-significant,Mexican,HLA-B,HLA-B,genetic association,NA,NA,PMID_16269080
+197,PMID_16269080,16269080,non-significant,Mexican,HLA-DQA1,HLA-DQA1,genetic association,NA,NA,PMID_16269080
+198,PMID_16269080,16269080,non-significant,Mexican,HLA-DRB1*11,HLA-DRB1,genetic association,NA,NA,PMID_16269080
+199,PMID_16269080,16269080,significant,Mexican,-308G/A,TNF,genetic association,NA,NA,PMID_16269080
+200,PMID_16387839,16387839,significant,Italian (Sicily),M694V,MEFV,genetic association,NA,NA,PMID_16387839
+201,PMID_16424284,16424284,significant,Japanese,-819C/T,IL10,genetic association,NA,NA,PMID_16424284
+202,PMID_16424284,16424284,non-significant,Japanese,-607A/C,IL18,genetic association,NA,NA,PMID_16424284
+203,PMID_16424284,16424284,non-significant,Japanese,-511C/T,IL1B,genetic association,NA,NA,PMID_16424284
+204,PMID_16424284,16424284,non-significant,Japanese,-634C/G,IL6,genetic association,NA,NA,PMID_16424284
+205,PMID_16424284,16424284,non-significant,Japanese,-1607 1G/2G,MMP1,genetic association,NA,NA,PMID_16424284
+206,PMID_16424284,16424284,non-significant,Japanese,-1171 5A/6A,MMP3,genetic association,NA,NA,PMID_16424284
+207,PMID_16424284,16424284,non-significant,Japanese,869T/C,TGFB1,genetic association,NA,NA,PMID_16424284
+208,PMID_16424284,16424284,non-significant,Japanese,-1031T/C,TNF,genetic association,NA,NA,PMID_16424284
+209,PMID_16518704,16518704,non-significant,Italian (Central and Southern),-330T/G,IL2,genetic association,NA,NA,PMID_16518704
+210,PMID_16518718,16518718,non-significant,English,T241M,XRCC3,genetic association,NA,NA,PMID_16518718
+211,PMID_16518718,16518718,non-significant,English,I134T,XRCC4,genetic association,NA,NA,PMID_16518718
+212,PMID_16518718,16518718,non-significant,English,XRCC5,XRCC5,genetic association,NA,NA,PMID_16518718
+213,PMID_16574194,16574194,non-significant,Danish,GSTM1,GSTM1,genetic association,NA,NA,PMID_16574194
+214,PMID_16574194,16574194,significant,Danish,GSTT1,GSTT1,genetic association,NA,NA,PMID_16574194
+215,PMID_16602826,16602826,significant,Ashkenazi Jewish,rs2542052,APOC3,genetic association,NA,NA,PMID_16602826
+216,PMID_16608413,16608413,non-significant,Italian (Sicily),1249-1250InsACAA/Non-Ins,TGFB2,genetic association,NA,NA,PMID_16608413
+217,PMID_16608414,16608414,non-significant,Italian (Sardinia),HLA-DQA1,HLA-DQA1,genetic association,NA,NA,PMID_16608414
+218,PMID_16608414,16608414,non-significant,Italian (Sardinia),HLA-DQB1,HLA-DQB1,genetic association,NA,NA,PMID_16608414
+219,PMID_16799135,16799135,significant,Italian,YTHDF2,YTHDF2,genetic association,NA,NA,PMID_16799135
+220,PMID_16804002,16804002,significant,Danish,-110A/C,HSPA1A,genetic association,NA,NA,PMID_16804002
+221,PMID_16804002,16804002,significant,Danish,1267A/G,HSPA1B,genetic association,NA,NA,PMID_16804002
+222,PMID_16893392,16893392,non-significant,German,FCGR2A-His131Ar,FCGR2A,genetic association,NA,NA,PMID_16893392
+223,PMID_16955215,16955215,significant,Italian,647A/C,MT1A,genetic association,NA,NA,PMID_16955215
+224,PMID_16960022,16960022,significant,Italian (Southern),I/D,ACE,genetic association,NA,NA,PMID_16960022
+225,PMID_16960022,16960022,significant,Italian (Southern),E2/E3/E4,APOE,genetic association,NA,NA,PMID_16960022
+226,PMID_16965804,16965804,non-significant,German,CNDP1,CNDP1,genetic association,NA,NA,PMID_16965804
+227,PMID_16971231,16971231,significant,Columbian,I/D,ACE,genetic association,NA,NA,PMID_16971231
+228,PMID_16971231,16971231,non-significant,Columbian,APOE,APOE,genetic association,NA,NA,PMID_16971231
+229,PMID_17048073,17048073,significant,Italian (Sicily),SERPINE1,SERPINE1,genetic association,NA,NA,PMID_17048073
+230,PMID_17182125,17182125,non-significant,Italian,I/D,ACE,genetic association,NA,NA,PMID_17182125
+231,PMID_17234815,17234815,significant,Greek,E2/E3/E4,APOE,genetic association,NA,NA,PMID_17234815
+232,PMID_17301041,17301041,significant,Italian,rs5744256,IL18,genetic association,NA,NA,PMID_17301041
+233,PMID_17493663,17493663,non-significant,German,Asp299Gly,TLR4,genetic association,NA,NA,PMID_17493663
+234,PMID_18316725,18316725,non-significant,Ashkenazi Jewish,IGF1,IGF1,genetic association,NA,NA,PMID_18316725
+235,PMID_19421891,19421891,significant,Italian,KL-VS,KL,genetic association,NA,NA,PMID_19421891
+236,PMID_19707883,19707883,significant,Polish,Lys751Gln,ERCC2,genetic association,NA,NA,PMID_19707883
+237,PMID_19837933,19837933,non-significant,Ashkenazi Jewish,TSHB,TSHB,genetic association,NA,NA,PMID_19837933
+238,PMID_19881466,19881466,significant,"Mediterranean (Italian, Greek and Tunisian)",CHIT1,CHIT1,genetic association,NA,NA,PMID_19881466
+239,PMID_19887537,19887537,significant,Italian,Gly1057Asp-IRS2,IRS2,genetic association,NA,NA,PMID_19887537
+240,PMID_19915151,19915151,significant,Ashkenazi Jewish,TERC,TERC,genetic association,NA,NA,PMID_19915151
+241,PMID_19915151,19915151,significant,Ashkenazi Jewish,TERT,TERT,genetic association,NA,NA,PMID_19915151
+242,PMID_20174870,20174870,significant,Italian,ADA*2,ADA2,genetic association,NA,NA,PMID_20174870
+243,PMID_20199671,20199671,non-significant,Chinese (Han),IGF1,IGF1,genetic association,NA,NA,PMID_20199671
+244,PMID_20201642,20201642,significant,Jordanian,rs1501299,ADIPOQ,genetic association,NA,NA,PMID_20201642
+245,PMID_20201642,20201642,significant,Jordanian,rs7799039,LOC105375494,genetic association,NA,NA,PMID_20201642
+246,PMID_20304771,20304771,non-significant,Caucasians,rs9664222,MINPP1,genetic association,NA,NA,PMID_20304771
+247,PMID_20426625,20426625,significant,Italian (Palermo),DRB1*18,HLA-DRB1,genetic association,NA,NA,PMID_20426625
+248,PMID_20518833,20518833,significant,Jordanian,-1082G/A,IL10,genetic association,NA,NA,PMID_20518833
+249,PMID_20518833,20518833,non-significant,Jordanian,-308G/A,TNF,genetic association,NA,NA,PMID_20518833
+250,PMID_20569235,20569235,significant,American (Georgia and Louisiana populations from African and European origin),APOE,APOE,genetic association,NA,NA,PMID_20569235
+251,PMID_20819792,20819792,significant,Italian (Salerno),rs4646,CYP19A1,genetic association,NA,NA,PMID_20819792
+252,PMID_20819792,20819792,significant,Italian (Salerno),ESR1,ESR1,genetic association,NA,NA,PMID_20819792
+253,PMID_21972126,21972126,significant,American (Caucasian),rs7896005,SIRT1,genetic association,NA,NA,PMID_21972126
+254,PMID_21972126,21972126,non-significant,American (Caucasian),rs132793,XRCC6,genetic association,NA,NA,PMID_21972126
+255,PMID_23389097,23389097,significant,Greek,rs1799752,ACE,genetic association,NA,NA,PMID_23389097
+256,PMID_19489743,19489743,significant,American (Caucasian),rs3803304,AKT1,genetic association,NA,NA,PMID_19489743
+257,PMID_21407269,21407269,non-significant,German,TH01,TH,genetic association,NA,NA,PMID_21407269
+258,PMID_20824210,20824210,significant,American (Caucasian),,TP53,genetic association,NA,NA,PMID_20824210
+261,PMID_20824210,20824210,non-significant,American (Caucasian),,TP53,genetic association,NA,NA,PMID_20824210
+262,PMID_22406557,22406557,significant,Danish,rs1002149,GSR,genetic association,NA,NA,PMID_22406557
+263,PMID_22406557,22406557,significant,Danish,rs1207362,KL,genetic association,NA,NA,PMID_22406557
+264,PMID_22406557,22406557,significant,Danish,rs2267723,GHRHR,genetic association,NA,NA,PMID_22406557
+265,PMID_22406557,22406557,significant,Danish,rs3842755,INS,genetic association,NA,NA,PMID_22406557
+266,PMID_22406557,22406557,significant,Danish,rs572169,GHSR,genetic association,NA,NA,PMID_22406557
+267,PMID_22406557,22406557,significant,Danish,rs9456497,IGF2R,genetic association,NA,NA,PMID_22406557
+268,PMID_22406557,22406557,significant,Danish,rs11571461,RAD52,genetic association,NA,NA,PMID_22406557
+269,PMID_22406557,22406557,significant,Danish,rs13251813,WRN,genetic association,NA,NA,PMID_22406557
+270,PMID_22406557,22406557,significant,Danish,rs1805329,RAD23B,genetic association,NA,NA,PMID_22406557
+271,PMID_22406557,22406557,significant,Danish,rs2953983,POLB,genetic association,NA,NA,PMID_22406557
+272,PMID_22406557,22406557,significant,Danish,rs3211994,SLC9A3R2,genetic association,NA,NA,PMID_22406557
+273,PMID_22406557,22406557,significant,Danish,rs10047589,TXNRD1,genetic association,NA,NA,PMID_22406557
+274,PMID_22406557,22406557,significant,Danish,rs207444,XDH,genetic association,NA,NA,PMID_22406557
+275,PMID_22406557,22406557,significant,Danish,rs26802,GHRL,genetic association,NA,NA,PMID_22406557
+276,PMID_22406557,22406557,significant,Danish,rs13320360,MLH1,genetic association,NA,NA,PMID_22406557
+277,PMID_22406557,22406557,significant,Danish,rs2509049,H2AFX,genetic association,NA,NA,PMID_22406557
+278,PMID_22406557,22406557,significant,Danish,rs705649,XRCC5,genetic association,NA,NA,PMID_22406557
+279,PMID_21418511,21418511,significant,Dutch,rs2498804,LOC107987209,genetic association,NA,NA,PMID_21418511
+280,PMID_23286790,23286790,significant,European,,TP53,genetic association,NA,NA,PMID_23286790
+284,PMID_23286790,23286790,significant,European,rs4420638,APOC1,genetic association,NA,NA,PMID_23286790
+285,PMID_23339001,23339001,significant,Polish,-11391G > A,ADIPOQ,genetic association,NA,NA,PMID_23339001
+286,PMID_22279548,22279548,significant,American (Caucasian),rs2075650,TOMM40,genetic association,NA,NA,PMID_22279548
+287,PMID_11526246,11526246,significant,American (Caucasian),D4S1564,TP53,genetic association,NA,NA,PMID_11526246
+288,PMID_21865054,21865054,significant,Italian (Central),rs73598374,ADA,genetic association,NA,NA,PMID_21865054
+289,PMID_23125046,23125046,significant,Italian (Central),rs1042522,TP53,genetic association,NA,NA,PMID_23125046
+290,PMID_23562826,23562826,significant,Italian (Central),MNS16A,TERT,genetic association,NA,NA,PMID_23562826
+291,PMID_21113673,21113673,non-significant,Italian (Central),PTPN22,PTPN22,genetic association,NA,NA,PMID_21113673
+292,PMID_22456784,22456784,significant,Chinese,I/D,ACE,genetic association,NA,NA,PMID_22456784
+293,PMID_19641616,19641616,non-significant,Chinese,,TP53,genetic association,NA,NA,PMID_19641616
+294,PMID_22929028,22929028,significant,"Danish, German",rs3803304,AKT1,genetic association,NA,NA,PMID_22929028
+295,PMID_22234866,22234866,non-significant,"Danish, German, Dutch",rs2069827,IL6,genetic association,NA,NA,PMID_22234866
+296,PMID_22234866,22234866,significant,"Danish, German, Dutch",rs107251,SIRT6,genetic association,NA,NA,PMID_22234866
+297,PMID_23283341,23283341,significant,American (Caucasian),DRD4 7R,DRD4,genetic association,NA,NA,PMID_23283341
+298,PMID_22533364,22533364,significant,American (Caucasian),rs2024714,CDH4,genetic association,NA,NA,PMID_22533364
+299,PMID_22533364,22533364,significant,American (Caucasian),rs9616906,TP53,genetic association,NA,NA,PMID_22533364
+300,PMID_22533364,22533364,significant,American (Caucasian),rs1327533,SVEP1,genetic association,NA,NA,PMID_22533364
+301,PMID_22533364,22533364,significant,American (Caucasian),rs9876781,ATRIP,genetic association,NA,NA,PMID_22533364
+302,PMID_22533364,22533364,significant,American (Caucasian),rs2370413,CACNA1C,genetic association,NA,NA,PMID_22533364
+303,PMID_22533364,22533364,significant,American (Caucasian),rs739401,CARS,genetic association,NA,NA,PMID_22533364
+304,PMID_22533364,22533364,significant,American (Caucasian),rs12623542,LINC01237,genetic association,NA,NA,PMID_22533364
+305,PMID_22533364,22533364,significant,American (Caucasian),rs9517320,STK24,genetic association,NA,NA,PMID_22533364
+306,PMID_22533364,22533364,significant,American (Caucasian),rs10256972,C7orf50,genetic association,NA,NA,PMID_22533364
+307,PMID_22533364,22533364,significant,American (Caucasian),rs139170,PARVG,genetic association,NA,NA,PMID_22533364
+308,PMID_22533364,22533364,significant,American (Caucasian),rs2826891,NCAM2,genetic association,NA,NA,PMID_22533364
+309,PMID_22533364,22533364,significant,American (Caucasian),rs10937739,PPP2R2C,genetic association,NA,NA,PMID_22533364
+310,PMID_22533364,22533364,significant,American (Caucasian),rs41383,NLRC5,genetic association,NA,NA,PMID_22533364
+311,PMID_22533364,22533364,significant,American (Caucasian),rs1974676,HPCAL1,genetic association,NA,NA,PMID_22533364
+312,PMID_22533364,22533364,significant,American (Caucasian),rs3800358,BTBD9,genetic association,NA,NA,PMID_22533364
+313,PMID_22533364,22533364,significant,American (Caucasian),rs13008689,TP53,genetic association,NA,NA,PMID_22533364
+314,PMID_22533364,22533364,significant,American (Caucasian),rs13053175,SSTR3,genetic association,NA,NA,PMID_22533364
+315,PMID_22533364,22533364,significant,American (Caucasian),rs16975963,LOC100631378,genetic association,NA,NA,PMID_22533364
+316,PMID_22533364,22533364,significant,American (Caucasian),rs10819510,TP53,genetic association,NA,NA,PMID_22533364
+317,PMID_22533364,22533364,significant,American (Caucasian),rs432203,TGFA,genetic association,NA,NA,PMID_22533364
+318,PMID_22533364,22533364,significant,American (Caucasian),rs3120819,TP53,genetic association,NA,NA,PMID_22533364
+319,PMID_22533364,22533364,significant,American (Caucasian),rs2590504,PPP1R26-AS1,genetic association,NA,NA,PMID_22533364
+320,PMID_22533364,22533364,significant,American (Caucasian),rs4148544,ABCC4,genetic association,NA,NA,PMID_22533364
+321,PMID_22533364,22533364,significant,American (Caucasian),rs1834497,CLSTN2,genetic association,NA,NA,PMID_22533364
+322,PMID_22533364,22533364,significant,American (Caucasian),rs1205035,TP53,genetic association,NA,NA,PMID_22533364
+323,PMID_22533364,22533364,significant,American (Caucasian),rs5771675,FAM19A5,genetic association,NA,NA,PMID_22533364
+324,PMID_22533364,22533364,significant,American (Caucasian),rs4648884,RUNX3,genetic association,NA,NA,PMID_22533364
+326,PMID_20399803,20399803,non-significant,American (Caucasian),rs1042713,ADRB2,genetic association,NA,NA,PMID_20399803
+327,PMID_22729909,22729909,non-significant,Chinese (Guangxi Bama),mt146A,TP53,genetic association,NA,NA,PMID_22729909
+328,PMID_20816691,20816691,significant,Chinese (Han),rs189037,ATM,genetic association,NA,NA,PMID_20816691
+329,PMID_21297266,21297266,significant,Italian,rs3851179,PICALM,genetic association,NA,NA,PMID_21297266
+330,PMID_22115178,22115178,significant,Italian,rs2229765,IGF1R,genetic association,NA,NA,PMID_22115178
+331,PMID_22115178,22115178,non-significant,Italian,rs1800795,IL6,genetic association,NA,NA,PMID_22115178
+332,PMID_21612516,21612516,significant,Italian,rs10491334,CAMK4,genetic association,NA,NA,PMID_21612516
+333,PMID_21612516,21612516,significant,Italian,rs429358,APOE,genetic association,NA,NA,PMID_21612516
+334,PMID_23639206,23639206,non-significant,English (Newcastle),,TP53,genetic association,NA,NA,PMID_23639206
+335,PMID_23406923,23406923,non-significant,Polish,PRNP,PRNP,genetic association,NA,NA,PMID_23406923
+336,PMID_22008263,22008263,significant,Polish,rs10524523,TOMM40,genetic association,NA,NA,PMID_22008263
+337,PMID_22216339,22216339,significant,Italian (Southern),rs660339,UCP2,genetic association,NA,NA,PMID_22216339
+338,PMID_22216339,22216339,significant,Italian (Southern),rs9472817,SLC25A27,genetic association,NA,NA,PMID_22216339
+339,PMID_22216339,22216339,non-significant,Italian (Southern),rs2235800,SLC25A14,genetic association,NA,NA,PMID_22216339
+341,PMID_22985084,22985084,significant,Italian (Southern),Pro12Ala,PPARG,genetic association,NA,NA,PMID_22985084
+342,PMID_23133589,23133589,significant,Italian (Southern),rs978739,TAS2R16,genetic association,NA,NA,PMID_23133589
+343,PMID_23572278,23572278,significant,Italian (Southern),rs1879417,NOS1,genetic association,NA,NA,PMID_23572278
+344,PMID_22265023,22265023,non-significant,Spanish,rs333,CCR5,genetic association,NA,NA,PMID_22265023
+345,PMID_21407828,21407828,non-significant,Spanish,rs1815739,ACTN3,genetic association,NA,NA,PMID_21407828
+346,PMID_23354683,23354683,significant,Spanish and Italian,rs1805086,MSTN,genetic association,NA,NA,PMID_23354683
+347,PMID_22506048,22506048,non-significant,American (Utah),D3S3547,TP53,genetic association,NA,NA,PMID_22506048
+348,PMID_22506048,22506048,non-significant,American (Utah),,TP53,genetic association,NA,NA,PMID_22506048
+351,PMID_21945877,21945877,significant,Chinese (Zhuang),haplogroup F,ND5,genetic association,NA,NA,PMID_21945877
+352,PMID_9449878,9449878,significant,Japanese,Mt5178A/C,ND2,genetic association,NA,NA,PMID_9449878
+353,PMID_9449878,9449878,significant,Japanese,Mt8414C/T,ATP8,genetic association,NA,NA,PMID_9449878
+354,PMID_9449878,9449878,significant,Japanese,Mt3010G/A,RNR2,genetic association,NA,NA,PMID_9449878
+355,PMID_21277639,21277639,significant,Turkish,rs1800795,IL6,genetic association,NA,NA,PMID_21277639
+356,PMID_21277639,21277639,significant,Turkish,rs28366003,MT2A,genetic association,NA,NA,PMID_21277639
+357,PMID_21147083,21147083,significant,Italian (Central),HP,HP,genetic association,NA,NA,PMID_21147083
+358,PMID_23186209,23186209,non-significant,Spanish,rs1937,TFAM,genetic association,NA,NA,PMID_23186209
+359,PMID_23040522,23040522,significant,"Danish, American",rs2075650,TOMM40,genetic association,NA,NA,PMID_23040522
+360,PMID_22960875,22960875,significant,Italian,rs189037,ATM,genetic association,NA,NA,PMID_22960875
+361,PMID_22773346,22773346,significant,American (Amish),rs205990,LOC105378102,genetic association,NA,NA,PMID_22773346
+362,PMID_22576335,22576335,significant,Italian (Southern),rs282070,MAP3K7,genetic association,NA,NA,PMID_22576335
+363,PMID_22576335,22576335,significant,Italian (Southern),rs2111699,GSTZ1,genetic association,NA,NA,PMID_22576335
+364,PMID_22445811,22445811,significant,"American, English, Irish",rs2075650,TOMM40,genetic association,NA,NA,PMID_22445811
+365,PMID_20434535,20434535,significant,Russian,rs507879,CASP5,genetic association,NA,NA,PMID_20434535
+366,PMID_21262335,21262335,non-significant,Chinese (Han),MtC150T,TP53,genetic association,NA,NA,PMID_21262335
+367,PMID_20003469,20003469,non-significant,Jordanian,-9T/C,SOD2,genetic association,NA,NA,PMID_20003469
+368,PMID_20003469,20003469,non-significant,Jordanian,677C/T,MTHFR,genetic association,NA,NA,PMID_20003469
+369,PMID_19428448,19428448,significant,Danish,rs4880,SOD2,genetic association,NA,NA,PMID_19428448
+370,PMID_19428448,19428448,significant,Danish,rs1050450,GPX1,genetic association,NA,NA,PMID_19428448
+371,PMID_18545700,18545700,significant,Japanese,14979C,TP53,genetic association,NA,NA,PMID_18545700
+372,PMID_17574707,17574707,significant,Italian (Northern),VEGFA,VEGFA,genetic association,NA,NA,PMID_17574707
+373,PMID_15677572,15677572,significant,"Ashkenazi Jewish, Czechs (Bohemian)",KL-VS,KL,genetic association,NA,NA,PMID_15677572
+374,PMID_15621216,15621216,significant,Ashkenazi Jewish,CETP,CETP,genetic association,NA,NA,PMID_15621216
+375,PMID_12483296,12483296,significant,Finnish,,TP53,genetic association,NA,NA,PMID_12483296
+376,PMID_11857056,11857056,significant,Italian (Sicily),C282Y,HFE,genetic association,NA,NA,PMID_11857056
+377,PMID_11772518,11772518,significant,Italian,874T/A,IFNG,genetic association,NA,NA,PMID_11772518
+378,PMID_11470126,11470126,significant,Irish (Belfast),E2/E3/E4,APOE,genetic association,NA,NA,PMID_11470126
+379,PMID_10463944,10463944,significant,Italian,,TP53,genetic association,NA,NA,PMID_10463944
+380,PMID_9792194,9792194,significant,Chinese (Han),E2/E3/E4,APOE,genetic association,NA,NA,PMID_9792194
+381,PMID_2889033,2889033,significant,Japanese,HLA-DQA1,HLA-DQA1,genetic association,NA,NA,PMID_2889033
+382,PMID_2889033,2889033,significant,Japanese,HLA-DRB1,HLA-DRB1,genetic association,NA,NA,PMID_2889033
+383,PMID_12742533,12742533,significant,Irish,T2437C,HSPA1L,genetic association,NA,NA,PMID_12742533
+384,PMID_18256523,18256523,significant,Danish,rs1042522,TP53,genetic association,NA,NA,PMID_18256523
+385,PMID_20230275,20230275,significant,Italian (Northern),rs1333049,TP53,genetic association,NA,NA,PMID_20230275
+386,PMID_23505545,23505545,significant,Dutch,rs12778366,SIRT1,genetic association,NA,NA,PMID_23505545
+387,PMID_24341918,24341918,significant,"European (Danish, Finnish, South Italian and Greek)",,TP53,genetic association,NA,NA,PMID_24341918
+388,PMID_24284407,24284407,significant,Caucasian,-374T/A,AGER,genetic association,NA,NA,PMID_24284407
+389,PMID_24534555,24534555,significant,Spanish,E4,APOE,genetic association,NA,NA,PMID_24534555
+391,PMID_24746514,24746514,non-significant,Chinese,I405V,CETP,genetic association,NA,NA,PMID_24746514
+392,PMID_24163049,24163049,significant,Spanish,rs1333049,TP53,genetic association,NA,NA,PMID_24163049
+393,PMID_24688116,24688116,significant,European,rs4420638,APOC1,genetic association,NA,NA,PMID_24688116
+394,PMID_23839864,23839864,non-significant,Italian (Northern),rs3825075,SIRT3,genetic association,NA,NA,PMID_23839864
+395,PMID_24163049,24163049,significant,Japanese,rs1333049,TP53,genetic association,NA,NA,PMID_24163049
+396,PMID_24688116,24688116,significant,European,rs2149954,LINC02227,genetic association,NA,NA,PMID_24688116
+G397,PMID_9389323,9389323,significant,Japanese (Okinawa),"DQA10101=0104,DQA105",HLA-DQA1,genetic association,NA,NA,PMID_9389323
+G398,PMID_9389323,9389323,significant,Japanese (Okinawa),"DQB105,DQB103",HLA-DQB1,genetic association,NA,NA,PMID_9389323
+G399,PMID_9389323,9389323,significant,Japanese (Okinawa),"DRB1*1401,DRB1*0101,DRB1*1201",HLA-DRB1,genetic association,NA,NA,PMID_9389323
+G400,PMID_9654200,9654200,non-significant,French,"A2637,G1934A",CYP2D6,genetic association,NA,NA,PMID_9654200
+G401,PMID_9654200,9654200,non-significant,French,"C481T,G590A,G857A,G191A",NAT2,genetic association,NA,NA,PMID_9654200
+G402,PMID_11097112,11097112,non-significant,French,"C402T,T1011C,G1215A,T2444C",PARP1,genetic association,NA,NA,PMID_11097112
+G403,PMID_11186893,11186893,non-significant,Finnish and Mexican,"L1074F,C1367R",WRN,genetic association,NA,NA,PMID_11186893
+G404,PMID_11602206,11602206,significant,Danish,"R/Q353,FVII-323ins10",F7,genetic association,NA,NA,PMID_11602206
+G405,PMID_11792841,11792841,significant,"Czechs (Bohemian), Americans (Baltimore Caucasians and African-Americans)","F352V,C370S",KL,genetic association,NA,NA,PMID_11792841
+G406,PMID_12714263,12714263,non-significant,Italian (Sardinia),"C282Y,H63D,S65C",HFE,genetic association,NA,NA,PMID_12714263
+G407,PMID_12843179,12843179,significant,Italian,"G/A,codon 1013",IGF1R,genetic association,NA,NA,PMID_12843179
+G408,PMID_15050300,15050300,non-significant,Bulgarian,"DQB105,DQB103",HLA-DQB1,genetic association,NA,NA,PMID_15050300
+G409,PMID_15050300,15050300,non-significant,Bulgarian,"DRB111,DRB113",HLA-DRB1,genetic association,NA,NA,PMID_15050300
+G410,PMID_15050300,15050300,non-significant,Bulgarian,"-1082G/A,-819C/T,-592C/A",IL10,genetic association,NA,NA,PMID_15050300
+G411,PMID_15177664,15177664,non-significant,German,"T461N,3801T/ C",CYP1A1,genetic association,NA,NA,PMID_15177664
+G413,PMID_15569360,15569360,significant,Italian,"-800G/A,-509C/T,869T/C,915G/C",TGFB1,genetic association,NA,NA,PMID_15569360
+G414,PMID_15911777,15911777,non-significant,German,"rs1800591,rs2866164,Q/H 95",MTTP,genetic association,NA,NA,PMID_15911777
+G416,PMID_16405962,16405962,non-significant,Dutch,"i1-C/T,L1074F,C1367R",WRN,genetic association,NA,NA,PMID_16405962
+G417,PMID_16474933,16474933,significant,Korean,"C670,A676,T1172",MLH1,genetic association,NA,NA,PMID_16474933
+G418,PMID_16518718,16518718,non-significant,English,"R194W,R399Q",XRCC1,genetic association,NA,NA,PMID_16518718
+G419,PMID_16611701,16611701,non-significant,Dutch,"-493G/T,Q95H",MTTP,genetic association,NA,NA,PMID_16611701
+G420,PMID_16676134,16676134,non-significant,Dutch,"ER22/23EK,N363S,BclI",NR3C1,genetic association,NA,NA,PMID_16676134
+G422,PMID_18316725,18316725,significant,Ashkenazi Jewish,"1545G>A,4103C>T",IGF1R,genetic association,NA,NA,PMID_18316725
+G423,PMID_18511746,18511746,non-significant,Ashkenazi Jewish,"rs17300539,APM1+2019,APM+2019",ADIPOQ,genetic association,NA,NA,PMID_18511746
+G424,PMID_18761080,18761080,non-significant,Chinese (Han),"rs2288377,rs5742612,rs35767",IGF1,genetic association,NA,NA,PMID_18761080
+G426,PMID_19415983,19415983,significant,Italian (Southern),"rs2802292,rs2764264,rs2802288,rs13217795",FOXO3,genetic association,NA,NA,PMID_19415983
+G427,PMID_19698732,19698732,significant,German,"rs1776180,rs735943,rs4149965",EXO1,genetic association,NA,NA,PMID_19698732
+G428,PMID_19793722,19793722,significant,Chinese (Han),"rs2755209,rs2755213",FOXO1,genetic association,NA,NA,PMID_19793722
+G429,PMID_19793722,19793722,significant,Chinese (Han),"rs2253310,rs2802292,rs4946936",FOXO3,genetic association,NA,NA,PMID_19793722
+G430,PMID_19837933,19837933,significant,Ashkenazi Jewish,"rs12050077,rs10149689",CEP128,genetic association,NA,NA,PMID_19837933
+G432,PMID_20011587,20011587,significant,"Italian, Ashkenazi Jewish and Japanese","rs3788157,rs414743,rs2838809,rs2838810,rs2838816",ADARB1,genetic association,NA,NA,PMID_20011587
+G433,PMID_20011587,20011587,significant,"Italian, Ashkenazi Jewish and Japanese","rs884949,rs2805533,rs2387653,rs2805535,rs2805543,rs3898610,rs1533484,rs2676192,rs2387952,rs17294019,rs10903420,rs1007147,rs2805562",ADARB2,genetic association,NA,NA,PMID_20011587
+G434,PMID_20126416,20126416,significant,Italian,"rs1801270,rs1059234",CDKN1A,genetic association,NA,NA,PMID_20126416
+G437,PMID_20407924,20407924,non-significant,Spanish,"rs11568820,rs4516035,rs10735810,rs1544410,rs17878969",VDR,genetic association,NA,NA,PMID_20407924
+G442,PMID_18765803,18765803,significant,American of Japanese origin,"rs2764264,rs13217795,rs2802292",FOXO3,genetic association,NA,NA,PMID_18765803
+G445,PMID_22459618,22459618,non-significant,American of Japanese origin,"rs61758963,rs79884776,rs111556510,rs112124249,rs11551770,rs11757217,rs13204476,rs138174682,rs138297794,rs138742093,rs139172563,rs140968061,rs141876866,rs141893794,rs142429317,rs142533192,rs145259784,rs145756480,rs146009555,rs146169955,rs146186567,rs147010831,rs147028825,rs148296241,rs148405845,rs149158541,rs149189425,rs149503832,rs149906214,rs150216371,rs150320900,rs150535671,rs34079373,rs34133353,rs34223850,rs34488332,rs34600091,rs34754045,rs61756661",FOXO3,genetic association,NA,NA,PMID_22459618
+G448,PMID_19489743,19489743,significant,American (Caucasian),"rs1935949,rs4946935",FOXO3,genetic association,NA,NA,PMID_19489743
+G454,PMID_23051975,23051975,significant,Danish,"rs429358,rs7412",APOE,genetic association,NA,NA,PMID_23051975
+G460,PMID_21418511,21418511,non-significant,Dutch,"rs3800230,rs1935949,rs761779,rs9486916,rs9486902,rs7746906,rs2802288,rs10499051,rs12206094,rs13220810,rs9480865,rs2764264,rs7341233,rs17598747,rs9285397,rs12202209,rs9480866,rs12207868,rs11153120,rs2153960,rs3800229",FOXO3,genetic association,NA,NA,PMID_21418511
+G472,PMID_23020224,23020224,significant,Chinese,"rs1042718,rs1042719",ADRB2,genetic association,NA,NA,PMID_23020224
+G474,PMID_22929028,22929028,non-significant,"Danish, German","rs2494748,rs1130214,rs2494731,rs2494732,rs2494738",AKT1,genetic association,NA,NA,PMID_22929028
+G476,PMID_22234866,22234866,significant,"Danish, German, Dutch","rs405509,rs440446,rs769449",APOE,genetic association,NA,NA,PMID_22234866
+G477,PMID_22234866,22234866,significant,"Danish, German, Dutch","rs5882,rs9923854,rs1800777,rs1800774,rs4784744,rs289714,rs5883,rs9930761",CETP,genetic association,NA,NA,PMID_22234866
+G478,PMID_22234866,22234866,significant,"Danish, German, Dutch","rs12770830,rs17268499,rs7905174,rs9787671",HSPA14,genetic association,NA,NA,PMID_22234866
+G479,PMID_22743239,22743239,significant,Danish,"rs11235972,rs3781907",UCP3,genetic association,NA,NA,PMID_22743239
+G480,PMID_21498624,21498624,significant,European and American (Caucasian),"rs429358,rs7412",APOE,genetic association,NA,NA,PMID_21498624
+G488,PMID_20884733,20884733,significant,Chinese (Han),"rs2755209,rs2755213",FOXO1,genetic association,NA,NA,PMID_20884733
+G489,PMID_20884733,20884733,significant,Chinese (Han),"rs2253310,rs2802292,rs4946936",FOXO3,genetic association,NA,NA,PMID_20884733
+G493,PMID_19641380,19641380,significant,Korean,"rs3811952,rs155979,rs3762985",PCSK1,genetic association,NA,NA,PMID_19641380
+G494,PMID_19641380,19641380,significant,Korean,"rs2072454,rs2293347,rs3807362,rs884225",EGFR,genetic association,NA,NA,PMID_19641380
+G495,PMID_19641380,19641380,significant,Korean,"rs327519,rs712700,rs327517",PAX4,genetic association,NA,NA,PMID_19641380
+G496,PMID_19641380,19641380,significant,Korean,"rs1562818,rs1980042,rs1027989,rs1546518,rs3968371,rs1979128,rs1450740,rs1450741",LYN,genetic association,NA,NA,PMID_19641380
+G497,PMID_22569962,22569962,significant,Italian (Northern) and Japanese,"rs422858,rs275653",AGTR1,genetic association,NA,NA,PMID_22569962
+G499,PMID_21827845,21827845,significant,Italian (Southern),"A-3826G,C-3740A",UCP1,genetic association,NA,NA,PMID_21827845
+G500,PMID_22216339,22216339,significant,Italian (Southern),"rs1800849,rs15763",UCP3,genetic association,NA,NA,PMID_22216339
+G503,PMID_22265023,22265023,significant,Spanish,"rs2107538,rs2280789",CCL5,genetic association,NA,NA,PMID_22265023
+G505,PMID_16387839,16387839,non-significant,Italian (Sicily),"rs28940577,rs28940578,rs28940479",MEFV,genetic association,NA,NA,PMID_16387839
+G512,PMID_20849522,20849522,significant,Danish,"rs13217795,rs2764264,rs479744,rs9400239,rs12206094,rs13220810,rs7762395,rs9486902",FOXO3,genetic association,NA,NA,PMID_20849522
+G513,PMID_20849522,20849522,non-significant,Danish,"rs2802292,rs12207868,rs12212067,rs9398172,rs3800231,rs3800232",FOXO3,genetic association,NA,NA,PMID_20849522
+G514,PMID_20633545,20633545,significant,Chinese (Han),"rs3758391,rs4746720",SIRT1,genetic association,NA,NA,PMID_20633545
+G515,PMID_19249341,19249341,non-significant,"American (Caucasian and African–American), Ashkenazi Jewish","rs1136410,rs1805415",PARP1,genetic association,NA,NA,PMID_19249341
+G516,PMID_19249341,19249341,non-significant,"American (Caucasian and African–American), Ashkenazi Jewish","rs4537545,rs4553185,rs4072391,rs8192284,rs7518199,rs4845618,rs2229238",IL6R,genetic association,NA,NA,PMID_19249341
+G517,PMID_18511747,18511747,significant,Italian,"-308G/A,rs1800629",TNF,genetic association,NA,NA,PMID_18511747
+G518,PMID_17339647,17339647,non-significant,English (Oxford),"rs2866164,rs3811800,rs6532821,rs2306986,rs3816873,rs37926683,rs2306985,rs1800804,rs1800591,rs2255119,rs881980",MTTP,genetic association,NA,NA,PMID_17339647
+G520,PMID_11857056,11857056,non-significant,Italian (Sicily),"H63D,S65C",HFE,genetic association,NA,NA,PMID_11857056
+G521,PMID_19038839,19038839,non-significant,American of Japanese origin,"rs5742907,rs2303790",CETP,genetic association,NA,NA,PMID_19038839
+G522,PMID_11404057,11404057,significant,Irish,"16389g,16000g",TP53,genetic association,NA,NA,PMID_11404057
+G523,PMID_11404057,11404057,non-significant,Irish,"mt9055A,mt5178A",TP53,genetic association,NA,NA,PMID_11404057
+G524,PMID_15130757,15130757,significant,Danish,"rs1800795,rs1800797",IL6,genetic association,NA,NA,PMID_15130757
+G525,PMID_15130757,15130757,non-significant,Danish,"Rs1800796,-373(A)n(T)m",IL6,genetic association,NA,NA,PMID_15130757
+G527,PMID_23505545,23505545,non-significant,Dutch,"rs7069102,rs2273773",SIRT1,genetic association,NA,NA,PMID_23505545
+G528,PMID_23839864,23839864,non-significant,Italian (Northern),"rs3825075,rs4980329,rs11555236",SIRT3,genetic association,NA,NA,PMID_23839864
+G529,PMID_24146173,24146173,non-significant,German,"rs4998557,rs2070424,rs1041740",SOD1,genetic association,NA,NA,PMID_24146173
+G530,PMID_24146173,24146173,non-significant,German,"rs13306703,rs8192287,rs699473,rs17881426,rs1007991,rs2536512,rs8192291,rs8192290",SOD3,genetic association,NA,NA,PMID_24146173
+G531,PMID_23580146,23580146,significant,Danish,"rs121918095,rs28933981",TTR,genetic association,NA,NA,PMID_23580146
+G532,PMID_24462499,24462499,significant,Danish,"rs11548670,rs11695633,rs4147719,rs6435324,rs6435326",NDUFS1,genetic association,NA,NA,PMID_24462499
+G533,PMID_24462499,24462499,significant,Danish,"rs2758331,rs2842980,rs5746136,rs5746151,rs911847",SOD2,genetic association,NA,NA,PMID_24462499
+G534,PMID_24462499,24462499,significant,Danish,"rs11235972,rs1685354,rs3781907,s647126",UCP3,genetic association,NA,NA,PMID_24462499
+G535,PMID_24534555,24534555,non-significant,Spanish,"E2,E3",APOE,genetic association,NA,NA,PMID_24534555
+G536,PMID_24534555,24534555,significant,Italian,"E2,E3,E4",APOE,genetic association,NA,NA,PMID_24534555
+G537,PMID_24534555,24534555,significant,Japanese,"E2,E3,E4",APOE,genetic association,NA,NA,PMID_24534555
+G538,PMID_26254886,26254886,significant,Italian (Southern),"rs1981429,rs2251252",SDC4,genetic association,NA,NA,PMID_26254886
+G540,PMID_25305471,25305471,non-significant,Ashkenazi Jewish,"rs2394443,rs7896005,rs2273773,rs10997854,rs10997855,rs142194353,rs10823100,rs10997856,rs10823101,rs10997857,rs10823102,rs12250285,rs148743102,rs12778366,rs3758391,rs35706870,rs3740051,rs932658,rs3740053",SIRT1,genetic association,NA,NA,PMID_25305471
+G542,PMID_23839864,23839864,significant,Italian (Northern),"rs4980329,rs11555236",SIRT3,genetic association,NA,NA,PMID_23839864
+G543,PMID_24146173,24146173,non-significant,German,"rs5746141,rs5746136,rs5746133,rs4880,rs2842980,rs6917589,rs7855,rs8031",SOD2,genetic association,NA,NA,PMID_24146173
+G544,PMID_24462499,24462499,significant,Danish,"rs10861197,rs10861203,rs17202060,rs4445711,rs4964728,rs4964735,rs4964778,rs7301631,rs7310505,rs7310815,rs7962759,rs10047589,rs10778318,rs10861169,rs10861171",TXNRD1,genetic association,NA,NA,PMID_24462499
+G548,PMID_22743239,22743239,non-significant,Danish,"rs1685354,rs647126",UCP3,genetic association,NA,NA,PMID_22743239
+G549,PMID_20201642,20201642,non-significant,Jordanian,"rs2241766,rs266729",ADIPOQ,genetic association,NA,NA,PMID_20201642
+551,PMID_9622284,9622284,significant,Italian,Hinf347,APOA4,genetic association,NA,NA,PMID_9622284
+G552,PMID_16015282,16015282,non-significant,Danish,"rs2866164,Q95H",MTTP,genetic association,NA,NA,PMID_16015282
+555,PMID_24746514,24746514,significant,Chinese,E4,APOE,genetic association,NA,NA,PMID_24746514
+556,PMID_20399803,20399803,significant,American (Caucasian),rs1042714,ADRB2,genetic association,NA,NA,PMID_20399803
+559,PMID_8136829,8136829,significant,French,E2/E3/E4,APOE,genetic association,NA,NA,PMID_8136829
+G461,PMID_23061800,23061800,significant,Dutch,gene-expression single-gene result,FOXO1,gene-level expression,NA,NA,PMID_23061800
+G461,PMID_23061800,23061800,significant,Dutch,gene-expression single-gene result,RPTOR,gene-level expression,NA,NA,PMID_23061800
+G461,PMID_23061800,23061800,significant,Dutch,gene-expression single-gene result,EIF4EBP1,gene-level expression,NA,NA,PMID_23061800
+G461,PMID_23061800,23061800,significant,Dutch,gene-expression single-gene result,LAMTOR2,gene-level expression,NA,NA,PMID_23061800
+G461,PMID_23061800,23061800,significant,Dutch,gene-expression single-gene result,AKT1S1,gene-level expression,NA,NA,PMID_23061800
+G461,PMID_23061800,23061800,significant,Dutch,gene-expression single-gene result,PRR5L,gene-level expression,NA,NA,PMID_23061800
+G461,PMID_23061800,23061800,significant,Dutch,gene-expression single-gene result,RHOA,gene-level expression,NA,NA,PMID_23061800

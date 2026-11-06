@@ -1,0 +1,22 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+data/raw/multimir/chunks/
+results/run_log_*.txt
+~$*
+.DS_Store
+Thumbs.db
+
+# temporal validation: very large raw file
+data/raw/temporal/*/gwas_catalog_associations_full.tsv
+results/run_log_temporal_*.txt
+data/raw/temporal/*/gene2pubmed_human.tsv
+
+# machine-learning feature snapshots (script 33): large third-party files
+data/raw/ml/
+data/derived/ml/
+
+# GWAS Catalog ancestry table (optional, ~50 MB; downloaded by script 30)
+data/raw/temporal/*/gwas_catalog_ancestry.tsv
+results/*/models_cache.rds
